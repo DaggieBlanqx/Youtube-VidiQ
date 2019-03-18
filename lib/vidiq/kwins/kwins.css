@@ -1,0 +1,1065 @@
+.kwins-tooltip {
+  position: absolute;
+  background: black;
+  color: white;
+  padding: 0.4em;
+  border-radius: 2px;
+  line-height: 1.3;
+  z-index: 99999999999999;
+  max-width: 200px;
+}
+
+.kwins-container .temp-hide {
+  visibility: hidden;
+}
+
+.kwins-container .upsell-img {
+  position: relative;
+  left: -5px;
+  -webkit-user-drag: none;
+}
+
+.kwins-container .tooltip {
+  font-size: 80%;
+  font-weight: normal;
+  cursor: default;
+  background: #bbb;
+  color: white;
+  padding: 0 0.5em;
+  line-height: 2;
+  border-radius: 3px;
+  margin-left: 0.5em;
+}
+
+#kwins-upsell {
+  text-align: center;
+  position: absolute;
+  padding: 20px;
+  left: 45px;
+  top: 450px;
+  background: white;
+  width: 300px;
+  border-radius: 3px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5)
+}
+
+#kwins-upsell h2 {
+  line-height: 1.3;
+}
+
+#kwins-upsell a {
+  display: block;
+}
+
+.kwins-container .kwins-icon {
+  opacity: 0.5;
+  height: 14px;
+  -webkit-transform: scale(0.7, 0.7);
+  position: relative;
+  left: -1px;
+  margin-right: 1px;
+}
+
+.kwins-container .keyword:hover .kwins-icon {
+  opacity: 1.0;
+}
+
+#kwins-all {
+  z-index: 9000000000;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  font-family: Roboto, Helvetica, sans-serif;
+  overflow-y: scroll;
+}
+
+#kwins-overlay {
+  background: rgba(0,0,0,0.7);
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+#kwins-body {
+  background: white;
+  position: relative;
+  left: 50%;
+  margin-left: -400px;
+  width: 852px;
+  padding: 15px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+#kwins-body:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+#kwins-hide {
+  position: absolute;
+  right: 20px;
+  font-size: 25px;
+  color: #aaa;
+  background: none;
+  border-width: 0;
+  cursor: pointer;
+}
+
+#kwins-hide:hover {
+  color: #666;
+}
+
+h1#kwins-keyword {
+  font-weight: bold;
+  font-size: 2.5em;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px #ddd solid;
+  color: #549dd2;
+}
+
+.kwins-container h2 {
+  margin-bottom: 20px;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+#kwins-left,
+#kwins-right {
+  float: left;
+  width: 416px;
+}
+
+#kwins-right {
+  margin-left: 20px;
+}
+
+.kwins-container .keyword-list {
+  margin: 0 0 10px 0;
+  list-style: none;
+  padding: 0;
+}
+
+.kwins-container .keyword-list li {
+  margin: 0 4px 2px 0;
+  display: inline-block;
+}
+
+.kwins-container .keyword-list li .keyword {
+  max-width: 300px;
+  text-overflow: ellipsis;
+}
+
+.kwins-container .keyword {
+  display: inline-block;
+  line-height: 22px;
+  height: 22px;
+  overflow: hidden;
+  background: rgb(220, 226, 230);
+  color: rgb(108, 119, 128);
+  text-decoration: none;
+  border-radius: 0.1em;
+  cursor: default;
+  white-space: nowrap;
+}
+
+.kwins-container .keyword:hover {
+  background: rgb(209, 215, 220);
+}
+
+.kwins-container .trends-table-row .keyword {
+  position: relative;
+  top: 2px;
+}
+
+.kwins-container .keyword-body {
+  display: inline-block;
+  padding: 0 0.4em;
+  line-height: 22px;
+}
+
+.kwins-container .kwins-header {
+  background: #efefef;
+  margin: -15px;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+.kwins-container .kwins-header.kwins-no-content {
+  margin-bottom: -15px;
+}
+
+.kwins-container .kwins-header .action-button {
+  display: inline-block;
+  vertical-align: top;
+  background: #528fc3;
+  border-radius: 3px;
+  padding: 0 0.5em;
+  margin-left: 0.5em;
+  cursor: pointer;
+  color: white;
+  margin-top: 2px;
+}
+
+.kwins-container .kwins-header .action-button:hover {
+  background: #3374ab;
+}
+
+.kwins-container .kwins-header .checkmark {
+  margin-left: 0.5em;
+  font-size: 2em;
+  color: #aaa;
+}
+
+.kwins-container .kwins-header .action-button,
+.kwins-container .kwins-header input {
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
+.kwins-container .kwins-header img {
+  height: 2em;
+  position: relative;
+  top: 0.5em;
+  margin-right: 1em;
+  -webkit-user-drag: none;
+}
+
+.kwins-container .kwins-header input {
+  width: 10em;
+  padding: 0 0.2em;
+  margin: 0;
+}
+
+.kwins-container .keyword-add, .kwins-container .keyword-check {
+  width: 1.5em;
+  font-size: 1em;
+  line-height: 22px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  color: white;
+  border-top-left-radius: 0.1em;
+  border-bottom-left-radius: 0.1em;
+}
+
+.kwins-container .keyword-add {
+  background: rgb(129, 142, 153);
+  cursor: pointer;
+}
+
+.kwins-container .keyword-check {
+  background: rgb(129, 142, 153);
+}
+
+.kwins-container .keyword-hid {
+  opacity: 0.7;
+}
+
+.kwins-container .keyword-add:hover {
+  background: rgb(31, 191, 144);
+}
+
+.kwins-container .keyword-show-all, .kwins-container .keyword-show-fewer {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.kwins-container .video img.thumb {
+  float: left;
+  width: 120px;
+}
+
+.kwins-container .video-info, .kwins-container .video p, .kwins-container .video h4 {
+  margin-bottom: 7px;
+}
+
+.kwins-container .flags .flag {
+  vertical-align: top;
+}
+
+.kwins-container .flags .flag + .flag {
+  margin-left: 4px;
+}
+
+.kwins-container .video h4 {
+  font-size: 1.1em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.kwins-container .video {
+  overflow: hidden;
+  border-top: 1px #ddd solid;
+  padding-top: 15px;
+}
+
+.kwins-container .video + .video {
+  margin-top: 10px;
+}
+
+.kwins-container .video .keyword-list {
+  margin: 0;
+}
+
+.kwins-container .video-info {
+  display: block;
+  color: #666;
+  white-space: nowrap;
+}
+
+.kwins-container .video-right {
+  margin-left: 130px;
+}
+
+.kwins-section + .kwins-section {
+  margin-top: 20px;
+}
+
+#kwins-reports .report {
+  border: 1px #bbb solid;
+  border-radius: 2px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.report iframe {
+  border: 0 none;
+}
+
+#kwins-reports h3 {
+  text-align: center;
+  margin: 15px 0;
+}
+
+#kwins-reports h3 + .report-inner {
+  margin-top: -15px;
+}
+
+#kwins-reports .report + .report {
+  margin-top: 10px;
+}
+
+.kwins-container .trends-bar-chart-value-cell {
+  width: 100px !important;
+}
+
+#kwins-reports .trends-table-row a {
+  color: #15c !important;
+}
+
+#kwins-reports .trends-table-row a:hover,
+#kwins-reports .trends-table-row a:visited:hover {
+  text-decoration: underline;
+}
+
+#kwins-reports .top-search-queries,
+#kwins-reports .rising-search-queries {
+  padding: 0 15px;
+}
+
+.kwins-container .heading-button-group {
+  text-align: center;
+}
+
+.kwins-container .heading-button-group > * {
+  display: inline-block;
+  margin-right: 1em !important;
+}
+
+.kwins-container .data-source {
+  text-align: center;
+  margin-top: 15px;
+  color: #888;
+  font-style: italic;
+}
+
+.kwins-container .button-group {
+  margin: 0 0 15px 0;
+  text-align: center;
+}
+
+.kwins-container .button-group li:first-child button {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.kwins-container .button-group li:last-child button {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.kwins-container .button-group li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.kwins-container .button-group button {
+  cursor: pointer;
+  padding: 0 1em;
+  line-height: 2em;
+  color: #777;
+  border: #bbb solid;
+  border-width: 1px 0 1px 1px;
+  background: #efefef;
+  font-weight: bold;
+}
+
+.kwins-container .button-group button:hover {
+  color: #333;
+  background: #fafafa;
+}
+
+.kwins-container .button-group .active, .kwins-container .button-group .active:hover {
+  background: #ccc;
+  color: black;
+}
+
+.kwins-container .button-group li:last-child button {
+  border-right-width: 1px;
+}
+
+#kwins-rel-kw .keyword-list, #kwins-src-kw .keyword-list {
+  text-align: center;
+}
+
+.kwins-container .video-list-toggle {
+  background: #eee;
+  padding: 10px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.kwins-container .video-list-toggle:hover {
+  background: #dfdfdf;
+}
+
+.kwins-container .kw-scores {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px #bbb solid;
+  padding: 5px 10px;
+  border-radius: 2px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.kwins-container .kw-score {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  & + .kw-score {
+    margin-top: 2px;
+  }
+}
+
+.kwins-container .kw-scores p {
+  text-align: center;
+  padding: 0.5em;
+  color: #aaa;
+  background: #efefef;
+  border-radius: 2px;
+  margin-bottom: 0.5em;
+  font-size: 0.9em;
+}
+
+.kwins-container .kw-score .label {
+  font-weight: bold;
+  font-size: 1.1em;
+  display: inline-block;
+  width: 39%;
+  vertical-align: top;
+  color: #777;
+}
+
+.kwins-container .score-bar {
+  width: 59%;
+  height: 20px;
+  background: #ff3232; /* Old browsers */
+  background: -moz-linear-gradient(left, #ff3232 0%, #fff830 50%, #1dff00 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ff3232), color-stop(50%, #fff830), color-stop(100%, #1dff00)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #ff3232 0%, #fff830 50%, #1dff00 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #ff3232 0%, #fff830 50%, #1dff00 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #ff3232 0%, #fff830 50%, #1dff00 100%); /* IE10+ */
+  background: linear-gradient(to right, #ff3232 0%, #fff830 50%, #1dff00 100%); /* W3C */
+  position: relative;
+  border-radius: 3px;
+  display: inline-block;
+  margin-top: 0.5em;
+  box-shadow: inset 0 0 2px black
+}
+
+.kwins-container .score-bar-inverted {
+  background: -moz-linear-gradient(left, #1dff00 0%, #fff830 50%, #ff3232 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #1dff00), color-stop(50%, #fff830), color-stop(100%, #ff3232)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #1dff00 0%, #fff830 50%, #ff3232 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #1dff00 0%, #fff830 50%, #ff3232 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #1dff00 0%, #fff830 50%, #ff3232 100%); /* IE10+ */
+  background: linear-gradient(to right, #1dff00 0%, #fff830 50%, #ff3232 100%); /* W3C */
+}
+
+.kwins-container .kw-score .triangle {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid black;
+  top: -5px;
+  transform: translateX(-50%);
+}
+
+.kwins-container .score-bar .score-value {
+  position: absolute;
+  text-align: center;
+  line-height: 20px;
+  transform: translateX(-50%);
+}
+
+.kwins-container .kw-score > .score-value {
+  font-weight: bold;
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 33px;
+  vertical-align: top;
+}
+
+.kwins-container .flag {
+  width: 16px;
+  height: 11px;
+  display: inline-block;
+  background-image: url("chrome-extension://__MSG_@@extension_id__/lib/vidiq/kwins/kwins-flags.png");
+}
+
+.flag.flag-ad {background-position: -16px 0}
+.flag.flag-ae {background-position: -32px 0}
+.flag.flag-af {background-position: -48px 0}
+.flag.flag-ag {background-position: -64px 0}
+.flag.flag-ai {background-position: -80px 0}
+.flag.flag-al {background-position: -96px 0}
+.flag.flag-am {background-position: -112px 0}
+.flag.flag-an {background-position: -128px 0}
+.flag.flag-ao {background-position: -144px 0}
+.flag.flag-ar {background-position: -160px 0}
+.flag.flag-as {background-position: -176px 0}
+.flag.flag-at {background-position: -192px 0}
+.flag.flag-au {background-position: -208px 0}
+.flag.flag-aw {background-position: -224px 0}
+.flag.flag-az {background-position: -240px 0}
+.flag.flag-ba {background-position: 0 -11px}
+.flag.flag-bb {background-position: -16px -11px}
+.flag.flag-bd {background-position: -32px -11px}
+.flag.flag-be {background-position: -48px -11px}
+.flag.flag-bf {background-position: -64px -11px}
+.flag.flag-bg {background-position: -80px -11px}
+.flag.flag-bh {background-position: -96px -11px}
+.flag.flag-bi {background-position: -112px -11px}
+.flag.flag-bj {background-position: -128px -11px}
+.flag.flag-bm {background-position: -144px -11px}
+.flag.flag-bn {background-position: -160px -11px}
+.flag.flag-bo {background-position: -176px -11px}
+.flag.flag-br {background-position: -192px -11px}
+.flag.flag-bs {background-position: -208px -11px}
+.flag.flag-bt {background-position: -224px -11px}
+.flag.flag-bv {background-position: -240px -11px}
+.flag.flag-bw {background-position: 0 -22px}
+.flag.flag-by {background-position: -16px -22px}
+.flag.flag-bz {background-position: -32px -22px}
+.flag.flag-ca {background-position: -48px -22px}
+.flag.flag-catalonia {background-position: -64px -22px}
+.flag.flag-cd {background-position: -80px -22px}
+.flag.flag-cf {background-position: -96px -22px}
+.flag.flag-cg {background-position: -112px -22px}
+.flag.flag-ch {background-position: -128px -22px}
+.flag.flag-ci {background-position: -144px -22px}
+.flag.flag-ck {background-position: -160px -22px}
+.flag.flag-cl {background-position: -176px -22px}
+.flag.flag-cm {background-position: -192px -22px}
+.flag.flag-cn {background-position: -208px -22px}
+.flag.flag-co {background-position: -224px -22px}
+.flag.flag-cr {background-position: -240px -22px}
+.flag.flag-cu {background-position: 0 -33px}
+.flag.flag-cv {background-position: -16px -33px}
+.flag.flag-cw {background-position: -32px -33px}
+.flag.flag-cy {background-position: -48px -33px}
+.flag.flag-cz {background-position: -64px -33px}
+.flag.flag-de {background-position: -80px -33px}
+.flag.flag-dj {background-position: -96px -33px}
+.flag.flag-dk {background-position: -112px -33px}
+.flag.flag-dm {background-position: -128px -33px}
+.flag.flag-do {background-position: -144px -33px}
+.flag.flag-dz {background-position: -160px -33px}
+.flag.flag-ec {background-position: -176px -33px}
+.flag.flag-ee {background-position: -192px -33px}
+.flag.flag-eg {background-position: -208px -33px}
+.flag.flag-eh {background-position: -224px -33px}
+.flag.flag-england {background-position: -240px -33px}
+.flag.flag-er {background-position: 0 -44px}
+.flag.flag-es {background-position: -16px -44px}
+.flag.flag-et {background-position: -32px -44px}
+.flag.flag-eu {background-position: -48px -44px}
+.flag.flag-fi {background-position: -64px -44px}
+.flag.flag-fj {background-position: -80px -44px}
+.flag.flag-fk {background-position: -96px -44px}
+.flag.flag-fm {background-position: -112px -44px}
+.flag.flag-fo {background-position: -128px -44px}
+.flag.flag-fr {background-position: -144px -44px}
+.flag.flag-ga {background-position: -160px -44px}
+.flag.flag-gb {background-position: -176px -44px}
+.flag.flag-gd {background-position: -192px -44px}
+.flag.flag-ge {background-position: -208px -44px}
+.flag.flag-gf {background-position: -224px -44px}
+.flag.flag-gg {background-position: -240px -44px}
+.flag.flag-gh {background-position: 0 -55px}
+.flag.flag-gi {background-position: -16px -55px}
+.flag.flag-gl {background-position: -32px -55px}
+.flag.flag-gm {background-position: -48px -55px}
+.flag.flag-gn {background-position: -64px -55px}
+.flag.flag-gp {background-position: -80px -55px}
+.flag.flag-gq {background-position: -96px -55px}
+.flag.flag-gr {background-position: -112px -55px}
+.flag.flag-gs {background-position: -128px -55px}
+.flag.flag-gt {background-position: -144px -55px}
+.flag.flag-gu {background-position: -160px -55px}
+.flag.flag-gw {background-position: -176px -55px}
+.flag.flag-gy {background-position: -192px -55px}
+.flag.flag-hk {background-position: -208px -55px}
+.flag.flag-hm {background-position: -224px -55px}
+.flag.flag-hn {background-position: -240px -55px}
+.flag.flag-hr {background-position: 0 -66px}
+.flag.flag-ht {background-position: -16px -66px}
+.flag.flag-hu {background-position: -32px -66px}
+.flag.flag-ic {background-position: -48px -66px}
+.flag.flag-id {background-position: -64px -66px}
+.flag.flag-ie {background-position: -80px -66px}
+.flag.flag-il {background-position: -96px -66px}
+.flag.flag-im {background-position: -112px -66px}
+.flag.flag-in {background-position: -128px -66px}
+.flag.flag-io {background-position: -144px -66px}
+.flag.flag-iq {background-position: -160px -66px}
+.flag.flag-ir {background-position: -176px -66px}
+.flag.flag-is {background-position: -192px -66px}
+.flag.flag-it {background-position: -208px -66px}
+.flag.flag-je {background-position: -224px -66px}
+.flag.flag-jm {background-position: -240px -66px}
+.flag.flag-jo {background-position: 0 -77px}
+.flag.flag-jp {background-position: -16px -77px}
+.flag.flag-ke {background-position: -32px -77px}
+.flag.flag-kg {background-position: -48px -77px}
+.flag.flag-kh {background-position: -64px -77px}
+.flag.flag-ki {background-position: -80px -77px}
+.flag.flag-km {background-position: -96px -77px}
+.flag.flag-kn {background-position: -112px -77px}
+.flag.flag-kp {background-position: -128px -77px}
+.flag.flag-kr {background-position: -144px -77px}
+.flag.flag-kurdistan {background-position: -160px -77px}
+.flag.flag-kw {background-position: -176px -77px}
+.flag.flag-ky {background-position: -192px -77px}
+.flag.flag-kz {background-position: -208px -77px}
+.flag.flag-la {background-position: -224px -77px}
+.flag.flag-lb {background-position: -240px -77px}
+.flag.flag-lc {background-position: 0 -88px}
+.flag.flag-li {background-position: -16px -88px}
+.flag.flag-lk {background-position: -32px -88px}
+.flag.flag-lr {background-position: -48px -88px}
+.flag.flag-ls {background-position: -64px -88px}
+.flag.flag-lt {background-position: -80px -88px}
+.flag.flag-lu {background-position: -96px -88px}
+.flag.flag-lv {background-position: -112px -88px}
+.flag.flag-ly {background-position: -128px -88px}
+.flag.flag-ma {background-position: -144px -88px}
+.flag.flag-mc {background-position: -160px -88px}
+.flag.flag-md {background-position: -176px -88px}
+.flag.flag-me {background-position: -192px -88px}
+.flag.flag-mg {background-position: -208px -88px}
+.flag.flag-mh {background-position: -224px -88px}
+.flag.flag-mk {background-position: -240px -88px}
+.flag.flag-ml {background-position: 0 -99px}
+.flag.flag-mm {background-position: -16px -99px}
+.flag.flag-mn {background-position: -32px -99px}
+.flag.flag-mo {background-position: -48px -99px}
+.flag.flag-mp {background-position: -64px -99px}
+.flag.flag-mq {background-position: -80px -99px}
+.flag.flag-mr {background-position: -96px -99px}
+.flag.flag-ms {background-position: -112px -99px}
+.flag.flag-mt {background-position: -128px -99px}
+.flag.flag-mu {background-position: -144px -99px}
+.flag.flag-mv {background-position: -160px -99px}
+.flag.flag-mw {background-position: -176px -99px}
+.flag.flag-mx {background-position: -192px -99px}
+.flag.flag-my {background-position: -208px -99px}
+.flag.flag-mz {background-position: -224px -99px}
+.flag.flag-na {background-position: -240px -99px}
+.flag.flag-nc {background-position: 0 -110px}
+.flag.flag-ne {background-position: -16px -110px}
+.flag.flag-nf {background-position: -32px -110px}
+.flag.flag-ng {background-position: -48px -110px}
+.flag.flag-ni {background-position: -64px -110px}
+.flag.flag-nl {background-position: -80px -110px}
+.flag.flag-no {background-position: -96px -110px}
+.flag.flag-np {background-position: -112px -110px}
+.flag.flag-nr {background-position: -128px -110px}
+.flag.flag-nu {background-position: -144px -110px}
+.flag.flag-nz {background-position: -160px -110px}
+.flag.flag-om {background-position: -176px -110px}
+.flag.flag-pa {background-position: -192px -110px}
+.flag.flag-pe {background-position: -208px -110px}
+.flag.flag-pf {background-position: -224px -110px}
+.flag.flag-pg {background-position: -240px -110px}
+.flag.flag-ph {background-position: 0 -121px}
+.flag.flag-pk {background-position: -16px -121px}
+.flag.flag-pl {background-position: -32px -121px}
+.flag.flag-pm {background-position: -48px -121px}
+.flag.flag-pn {background-position: -64px -121px}
+.flag.flag-pr {background-position: -80px -121px}
+.flag.flag-ps {background-position: -96px -121px}
+.flag.flag-pt {background-position: -112px -121px}
+.flag.flag-pw {background-position: -128px -121px}
+.flag.flag-py {background-position: -144px -121px}
+.flag.flag-qa {background-position: -160px -121px}
+.flag.flag-re {background-position: -176px -121px}
+.flag.flag-ro {background-position: -192px -121px}
+.flag.flag-rs {background-position: -208px -121px}
+.flag.flag-ru {background-position: -224px -121px}
+.flag.flag-rw {background-position: -240px -121px}
+.flag.flag-sa {background-position: 0 -132px}
+.flag.flag-sb {background-position: -16px -132px}
+.flag.flag-sc {background-position: -32px -132px}
+.flag.flag-scotland {background-position: -48px -132px}
+.flag.flag-sd {background-position: -64px -132px}
+.flag.flag-se {background-position: -80px -132px}
+.flag.flag-sg {background-position: -96px -132px}
+.flag.flag-sh {background-position: -112px -132px}
+.flag.flag-si {background-position: -128px -132px}
+.flag.flag-sk {background-position: -144px -132px}
+.flag.flag-sl {background-position: -160px -132px}
+.flag.flag-sm {background-position: -176px -132px}
+.flag.flag-sn {background-position: -192px -132px}
+.flag.flag-so {background-position: -208px -132px}
+.flag.flag-somaliland {background-position: -224px -132px}
+.flag.flag-sr {background-position: -240px -132px}
+.flag.flag-ss {background-position: 0 -143px}
+.flag.flag-st {background-position: -16px -143px}
+.flag.flag-sv {background-position: -32px -143px}
+.flag.flag-sx {background-position: -48px -143px}
+.flag.flag-sy {background-position: -64px -143px}
+.flag.flag-sz {background-position: -80px -143px}
+.flag.flag-tc {background-position: -96px -143px}
+.flag.flag-td {background-position: -112px -143px}
+.flag.flag-tf {background-position: -128px -143px}
+.flag.flag-tg {background-position: -144px -143px}
+.flag.flag-th {background-position: -160px -143px}
+.flag.flag-tibet {background-position: -176px -143px}
+.flag.flag-tj {background-position: -192px -143px}
+.flag.flag-tk {background-position: -208px -143px}
+.flag.flag-tl {background-position: -224px -143px}
+.flag.flag-tm {background-position: -240px -143px}
+.flag.flag-tn {background-position: 0 -154px}
+.flag.flag-to {background-position: -16px -154px}
+.flag.flag-tr {background-position: -32px -154px}
+.flag.flag-tt {background-position: -48px -154px}
+.flag.flag-tv {background-position: -64px -154px}
+.flag.flag-tw {background-position: -80px -154px}
+.flag.flag-tz {background-position: -96px -154px}
+.flag.flag-ua {background-position: -112px -154px}
+.flag.flag-ug {background-position: -128px -154px}
+.flag.flag-um {background-position: -144px -154px}
+.flag.flag-us {background-position: -160px -154px}
+.flag.flag-uy {background-position: -176px -154px}
+.flag.flag-uz {background-position: -192px -154px}
+.flag.flag-va {background-position: -208px -154px}
+.flag.flag-vc {background-position: -224px -154px}
+.flag.flag-ve {background-position: -240px -154px}
+.flag.flag-vg {background-position: 0 -165px}
+.flag.flag-vi {background-position: -16px -165px}
+.flag.flag-vn {background-position: -32px -165px}
+.flag.flag-vu {background-position: -48px -165px}
+.flag.flag-wales {background-position: -64px -165px}
+.flag.flag-wf {background-position: -80px -165px}
+.flag.flag-ws {background-position: -96px -165px}
+.flag.flag-xk {background-position: -112px -165px}
+.flag.flag-ye {background-position: -128px -165px}
+.flag.flag-yt {background-position: -144px -165px}
+.flag.flag-za {background-position: -160px -165px}
+.flag.flag-zanzibar {background-position: -176px -165px}
+.flag.flag-zm {background-position: -192px -165px}
+.flag.flag-zw {background-position: -208px -165px}
+
+.kwins-loading:before,
+.kwins-loading:after,
+.kwins-loading {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: load7 1.8s infinite ease-in-out;
+  animation: load7 1.8s infinite ease-in-out;
+}
+.kwins-loading {
+  font-size: 10px;
+  position: fixed;
+  height: 2.5em;
+  left: 50%;
+  top: 50%;
+  margin-top: -2.5em;
+  margin-left: -2.5em;
+
+  text-indent: -9999em;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+.kwins-loading:before {
+  left: -3.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+.kwins-loading:after {
+  left: 3.5em;
+}
+.kwins-loading:before,
+.kwins-loading:after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+@-webkit-keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1em #ffffff;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #ffffff;
+  }
+}
+@keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1em #ffffff;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #ffffff;
+  }
+}
+
+/* Google Trends */
+
+.trends-component-error {
+    color:#333;
+    height:285px;
+    text-align:center
+}
+
+.trends-component-error td {
+    vertical-align:top
+}
+
+.trends-table {
+    padding:0;
+    width:100%
+}
+
+.trends-table td {
+    vertical-align:middle
+}
+
+.trends-table-innertitle {
+    background-color:#cbd9f3;
+    color:#333;
+    font-size:14px;
+    padding:5px;
+    text-align:left;
+    vertical-align:middle;
+    white-space:nowrap
+}
+
+.trends-table-innertitle-nobackground {
+    color:#333;
+    font-size:14px;
+    padding:5px;
+    text-align:left;
+    vertical-align:middle;
+    white-space:nowrap
+}
+
+.trends-table-innertitle-firstrow {
+    color:#333;
+    text-align:left;
+    vertical-align:middle;
+    white-space:nowrap
+}
+
+.trends-table-innertitle-firstrow .banner {
+    font-size:smaller
+}
+
+.trends-table-data th {
+    background-color:#cbd9f3;
+    border-collapse:collapse
+}
+
+.trends-table-data a,.trends-table-data span {
+    white-space:nowrap
+}
+
+.trends-bar-chart-row-first,.trends-bar-chart-row-last,.trends-bar-chart-row {
+    border-bottom:1px solid #eee
+}
+
+.trends-table-row {
+    height:35px
+}
+
+.trends-table-row a {
+    color:#333!important;
+    text-decoration:none
+}
+
+.trends-table-rownum {
+    border-right:1px solid #eff3f8;
+    padding-right:5px;
+    text-align:right
+}
+
+.trends-hbars-bars-titles {
+    font-size:.6em;
+    height:1em
+}
+
+.trends-hbars-barscell-hor {
+    float:left;
+    margin-bottom:1px;
+    margin-top:1px;
+    width:33%
+}
+
+.trends-hbars-tip {
+    border-color:#666;
+    padding:0
+}
+
+.trends-hbars-barscell .trends-hbars-value,.trends-hbars-barscell .trends-hbars-bar {
+    display:inline-block
+}
+
+.trends-hbars-barscell .trends-hbars-value {
+    color:#666
+}
+
+.trends-hbars-barscell .trends-hbars-bar .hotness-scale {
+    background-color:#cfd5d8;
+    font-size:0;
+    height:8px;
+    margin:0;
+    padding:0
+}
+
+.trends-hbars-barscell {
+    float:right
+}
+
+.trends-hbars-barscell .trends-hbars-bar {
+    padding-left:5px;
+    width:50px
+}
+
+.trends-bar-chart-value-cell {
+    text-align:right;
+    width:80px
+}
+
+.hotness-scale {
+    vertical-align:middle
+}
+
+.trends-table-data {
+    width:100%
+}
+
+.trends-bar-chart-google-link-image {
+    display:inline-block;
+    vertical-align:middle
+}
+
+.trends-bar-chart-row:hover .google-link,.trends-bar-chart-row-first:hover .google-link,.trends-bar-chart-row-last:hover .google-link {
+    visibility:visible
+}
+
+.hotness-scale {
+    display:inline-block;
+    margin-right:10px
+}
+
+.hotness-scale-bar {
+    background-color:#eaeaea;
+    display:inline-block;
+    height:10px;
+    width:10px
+}
+
+.hotness-scale-text {
+    display:inline-block
+}
+
+.continuous-hotness-scale {
+    height:10px;
+    position:relative;
+    width:50px
+}
+
+.continuous-hotness-scale-background {
+    background-color:#eaeaea;
+    height:100%;
+    position:absolute;
+    top:0;
+    width:100%
+}
+
+.continuous-hotness-scale-filling {
+    height:100%;
+    position:absolute;
+    top:0
+}
+
+/* CSS for headless components */
+
+#keyword-score-mount .kw-scores {
+  padding: 0 0.7em;
+  border: none;
+  box-shadow: none;
+  width: auto;
+}
+
+#queries-report-mount {
+  padding: 1em;
+}
+
+#queries-report-mount tr:last-child td {
+  border-bottom: 0;
+}
+
+#queries-report-mount h3 {
+  font-weight: bold;
+}

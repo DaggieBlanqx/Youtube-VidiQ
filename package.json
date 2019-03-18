@@ -1,0 +1,15 @@
+{
+  "name": "BikeX",
+  "slug": "bikex",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": { "prettier": "prettier --single-quote --trailing-comma es5 --write \"{main/components,.,*,__{tests,mocks}__}/**/*.js\""
+  },
+  "dependencies": {
+    "prettier": "^1.16.4"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}

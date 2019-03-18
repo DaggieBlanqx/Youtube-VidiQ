@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "了解是什么让视频获得病毒般的扩散，并优化您的视频以获得更多浏览量！\n\n凭借超越 YouTube Analytics 的度量，vidIQ Vision 可以为任何 YouTube 视频提供全面的优化报告卡——就在您的浏览器上！\n\n无论您是内容创作者、营销经理还是 YouTube 用户，您毫无疑问想知道：\n\n-   是什么让相关视频相关的？\n-   视频在搜索中是如何排名的？\n-   推荐视频从何而来？\n-   良好的 YouTube SEO 是什么模样？\n-   社交媒体如何适应观众扩展？\n\n我们提供的答案和优化数据，可以显著提高您的视频性能、用户参与度和推广机会。\n\n本扩展包括：\n\nvidIQ 分数 - 我们根据专有的、跨平台的算法对所有 YouTube 视频进行排名，并为其评定优化得分来预测其在相关视频、搜索和推荐视频等得到推广的可能性。\n\n速度——测量每小时浏览次数，速度功能可让您通过查看浏览量增加的有多快，来确定哪些 YouTube 视频正获得病毒牵引——是实时的！\n\n平均观看时间——准确了解您的视频以及您正观看的视频的平均观看长度。社交媒体喜欢/分享/评论——查看别人多少次在 Facebook、Twitter 或 reddit 喜欢、分享了您的视频或在评论中提及了您视频的网址。\n\n标签——查看 SEO 数据如任何 YouTube 视频的元标签，以便在优化自己的频道内容时获得优势。\n\n每分钟字数——每分钟字数 (WPM) 按视频长度测量字数，以揭示关于花言巧语、跳跃剪辑创作者内容的成功的意想不到的见解。\n\n说明链接数量——我们提供添加链接到您的视频描述的宝贵建议和最佳实践。\n\n说明字数——当您的视频描述过短时我们会提醒您，并让您知道何时正好适合 YouTube 优化。\n\n通过我们的升级计划，从 vidIQ 获得更多：\n\nvidIQ Pro——获取历史数据以了解热门视频的过去，进行关键词研究来为您的下一部视频获得最佳的关键词，跟踪您的竞争，并通过广告活动推广您的视频。\n\nvidIQ Boost——使用 vidIQ 的专有关键字推荐引擎快速而简单地提高您的视频的 SEO，来优化标签、标题和说明。无限地使用专业工具和能力来跟踪和优化更多频道。\n\nVision 只是 vidIQ 强大视频营销软件套装和 YouTube 观众扩展工具的一部分。要访问这些并查看我们的行业白皮书，请访问我们的网站 @ http://www.vidIQ.com\n\n保持联系：\n在 Facebook 上喜欢我们：http://facebook.com/vidIQapp\n在 Twitter 上关注我们：http://twitter.com/vidIQ\n\n支持：\n有任何问题或反馈？请与我们的支持团队取得联系：contact@vidIQ.com"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "vidIQ Vision for YouTube"
+   }
+}

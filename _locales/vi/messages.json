@@ -1,0 +1,5866 @@
+{
+   "CSVPreview": {
+      "message": "Xem trước CSV"
+   },
+   "SEOTagsTitle": {
+      "message": "SEO | Thẻ tag quá"
+   },
+   "accountCreationProblem": {
+      "message": "Có lỗi xảy ra khi tạo tài khoản cho bạn"
+   },
+   "actionableSeoScore": {
+      "message": "Điểm Actionable SEO"
+   },
+   "actionableSeoScoreAverageSubtextBad": {
+      "message": "Điểm actionable SEO trung bình của bạn khá thấp. Hãy gắng đạt ít nhất 40 điểm cho mỗi video."
+   },
+   "actionableSeoScoreAverageSubtextGood": {
+      "message": "Điểm actionable SEO trung bình của bạn là tốt!"
+   },
+   "actionableSeoScoreChannelAuditEdit": {
+      "message": "Điểm Actionable SEO"
+   },
+   "actionableSeoScoreEditTitle": {
+      "message": "Điểm Actionable SEO nên ít nhất là 40"
+   },
+   "actionableTitle": {
+      "message": "Actionable"
+   },
+   "addAllTitle": {
+      "message": "Thêm tất cả"
+   },
+   "addAnnotationsToSave": {
+      "message": "Thêm chú thích để lưu!"
+   },
+   "addCardsToSave": {
+      "message": "Thêm thẻ để lưu!"
+   },
+   "addCreateOverwrite": {
+      "message": "Thêm nội dung để tạo hay viết đè lên mẫu"
+   },
+   "addKeyword": {
+      "message": "Thêm từ khoá này"
+   },
+   "addMoreTagsForDescriptionRecs": {
+      "message": "Hãy thêm nhiều từ khoá để có thêm nhiều đề xuất cho mô tả của bạn!"
+   },
+   "addMoreTagsForTitleRecs": {
+      "message": "Hãy thêm nhiều từ khoá để có thêm nhiều đề xuất cho tiêu đề của bạn!"
+   },
+   "addShapeTitle": {
+      "message": "Thêm hình khối"
+   },
+   "addStuffToThumbnail": {
+      "message": "Thêm nội dung, hình ảnh, và hình khối lên trên hình thu nhỏ của bạn. "
+   },
+   "addTagTitle": {
+      "message": "Thêm Thẻ Tag"
+   },
+   "addTagsForRecs": {
+      "message": "Thêm một vài từ khoá để có thêm các đề xuất!"
+   },
+   "addTextTitle": {
+      "message": "Thêm nội dung  "
+   },
+   "addedToPlaylistAverageSubtextBad": {
+      "message": "Chưa đủ số video của bạn nằm trong danh sách phát. Chúng tôi gợi ý thêm mỗi video vào ít nhất một danh sách phát."
+   },
+   "addedToPlaylistAverageSubtextGood": {
+      "message": "Trung bình, các video của bạn được thêm vào đủ danh sách phát!"
+   },
+   "addedToPlaylistAverageSubtextOkay": {
+      "message": "Hãy xem xét thêm các video của bạn vào nhiều danh sách phát hơn nữa. Hai danh sách phát hay nhiều hơn cho mỗi video sẽ tuyệt đấy!"
+   },
+   "addedToPlaylistChannelAuditEdit": {
+      "message": "Cập nhật Danh Sách Phát"
+   },
+   "addedToPlaylistChannelAuditHas": {
+      "message": "Video được thêm vào  $numPlaylists$ danh sách phát",
+      "placeholders": {
+         "numPlaylists": {
+            "content": "$1"
+         }
+      }
+   },
+   "addedToPlaylistChannelAuditInfo": {
+      "message": "Mọi video được công khai nên ít nhất ở trong một danh sách phát."
+   },
+   "addedToPlaylistChannelAuditMissing": {
+      "message": "Không có Danh Sách Phát"
+   },
+   "addedToPlaylistChannelAuditMissingMessage": {
+      "message": "Thêm video vào ít nhất một danh sách phát"
+   },
+   "addedToPlaylistMissingInfo": {
+      "message": "Những video đã được liệt kê chưa được thêm vào đủ danh sách phát. Chúng tôi gợi ý thêm chúng vào mọi danh sách phát."
+   },
+   "addedToPlaylistMissingSubtextBad": {
+      "message": "Thêm mọi video vào ít nhất một danh sách phát"
+   },
+   "addedToPlaylistMissingSubtextGood": {
+      "message": "Tất cả video củủa bạn đều được thêm vào danh sách phát!"
+   },
+   "addedToPlaylistMissingTitle": {
+      "message": "Video Chưa Được Thêm vào Danh Sách Phát"
+   },
+   "addingTranslatedKeywords": {
+      "message": "Đang thêm từ khoá đã được dịch..."
+   },
+   "advancedEmbedInfo": {
+      "message": "Hộp thoại này giúp bạn tận dụng những tuỳ chọn mã nhúng sẵn có được YouTube cung cấp. Để đọc thêm về những tuỳ chọn này, hãy xem \u003Ca$href$>tài liệu mã nhúng của YouTube\u003C/a>.",
+      "placeholders": {
+         "href": {
+            "content": "$1"
+         }
+      }
+   },
+   "advancedEmbedTitle": {
+      "message": "Mã Nhúng Cao cấp"
+   },
+   "agreeToTOS": {
+      "message": "Đồng ý với$begin$Điều khoản Sử dụng Dịch vụ$end$ của chúng tôi",
+      "placeholders": {
+         "begin": {
+            "content": "$1"
+         },
+         "end": {
+            "content": "$2"
+         }
+      }
+   },
+   "all": {
+      "message": "Tất cả"
+   },
+   "allCommentThreads": {
+      "message": "Tất cả bình luận (chọn bộ lọc)"
+   },
+   "allFieldsRequired": {
+      "message": "Cần điền tất cả các trường"
+   },
+   "allLanguages": {
+      "message": "Tất cả ngôn ngữ"
+   },
+   "allTimeTitle": {
+      "message": "Tất Cả Thời Gian"
+   },
+   "allVideosLoaded": {
+      "message": "Tất cả video đã được tải!"
+   },
+   "allVideosUpTo": {
+      "message": "Tất cả video (lên đến $limit$)",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "allowFullscreen": {
+      "message": "Cho phép toàn màn hình"
+   },
+   "anErrorOccurred": {
+      "message": "Có lỗi đã xảy ra. Vui lòng thử lại."
+   },
+   "analyticsTitle": {
+      "message": "Phân tích"
+   },
+   "and": {
+      "message": "và"
+   },
+   "annotation": {
+      "message": "chú thích"
+   },
+   "annotationTemplates": {
+      "message": "Mẫu chú thích"
+   },
+   "annotationsStatLabel": {
+      "message": "chú thích"
+   },
+   "annotationsTooltip": {
+      "message": "Số chú thích của video này. "
+   },
+   "appDesc": {
+      "message": "Khám phá điều gì khiến một video lan rộng và tối ưu các video của bạn để thu hút thêm lượt xem!\n\nVới chuẩn đo vượt xa hệ thống Phân tích YouTube, vidIQ Vision mang đến một bản báo cáo tối ưu hóa toàn diện cho bất cứ video YouTube nào - ngay trên trình duyệt của bạn!\n\nDù bạn là người sáng tạo nội dung, một người quản lý tiếp thị hay một công dân YouTube, không nghi ngờ gì bạn đã từng tự hỏi: \n\n-   Điều gì khiến các Video Liên quan liên quan tới nhau?\n-   Các video được xếp hạng trong Tìm kiếm như thế nào?\n-   Các Video Đề xuất từ đâu ra?\n-   SEO (Tối ưu hóa Công cụ Tìm kiếm) của YouTube tốt thì trông ra sao? \n-   Mạng xã hội hỗ trợ thế nào với sự phát triển khán giả?\n\nChúng tôi cung cấp câu trả lời và thông tin tối ưu hóa mà có thể thay đổi nhanh chóng hiệu suất của các video, sự tham gia của người đăng ký, và các cơ hội quảng bá.\n\nTiện ích này bao gồm:\n\nvidIQ Score (Điểm vidIQ) – Chúng tôi xếp hạng từng video YouTube dựa theo một thuật toán độc quyền, đa nền tảng, và phân cho nó một điểm số tối ưu hóa để dự đoán khả năng quảng bá trong các Video Liên quan, Tìm kiếm, các Video Đề xuất, và hơn nữa.\n\nVelocity (Gia tốc) – Được đo bằng Lượt xem Trên Giờ, tính năng Velocity cho phép bạn nhận dạng các video YouTube nào đang dần được lan rộng bằng cách xem lượt xem đang gia tăng nhanh như thế nào – theo thời gian thực!\n\nAverage Watch Time (Thời gian Xem Trung bình) – Biết chính xác độ dài lượt xem trung bình cho cả video của bạn lẫn những cái bạn đang xem.\n\nLượt thích/Lượt chia sẻ/Bình luận Mạng Xã hội – Xem đã bao nhiêu lần ai đó trên Facebook, Twitter, hay Reddit đã Thích, Chia sẻ hay kèm theo đường dẫn tới video của bạn trong một bình luận.\n\nTags (Thẻ) – Xem thông tin SEO như các thẻ meta trên bất cứ video YouTube nào để có lợi thế khi tối ưu hóa nội dung trên kênh riêng của bạn.\n\nWords Per Minute (Từ Trên Phút) – WPM đếm số từ theo độ dài video để cho thấy thông tin nội bộ không ngờ tới về sự thành công của nội dung do những nhà sáng tạo lưu loát, lanh lợi.\n\nDescription Link Count (Bộ đếm Đường dẫn trong Mô tả) – Chúng tôi cung cấp các gợi ý có giá trị và các phương thức tốt nhất để thêm vào đường dẫn trong phần mô tả video của bạn.\n\nDescription Word Count (Bộ đếm Từ trong Mô tả) – Chúng tôi nhắc nhở bạn khi mô tả video của bạn quá ngắn và chúng tôi sẽ cho bạn biết khi nào nó là vừa đủ để tối ưu hóa cho YouTube.\n\nCó thêm nhiều hơn nữa từ vidIQ với các gói nâng cấp của chúng tôi:\n\nvidIQ Pro - Có quyền truy cập vào lịch sử thông tin để quay ngược thời gian trên các video nổi tiếng, thực hiện nghiên cứu từ khóa để có được những từ khóa tốt nhất cho video tiếp theo của bạn, theo dõi đối thủ của bạn, và quảng bá video của bạn thông qua các Chiến dịch Mô tả.\n\nvidIQ Boost - Tăng cường SEO của video bạn một cách nhanh chóng và đơn giản với công cụ đề xuất từ khóa độc quyền của vidIQ nhằm tối ưu hóa thẻ, tiêu đề, và mô tả. Truy cập không giới hạn tới các công cụ Chuyên nghiệp và khả năng theo dõi và tối ưu hóa thêm nhiều kênh.\n\nVision chỉ là một phần trong bộ phần mềm tiếp thị video chất lượng cao và các công cụ phát triển khán giả của vidIQ. Để truy cập vào những công cụ này và xem công nghiệp Sách Trắng của chúng tôi, hãy ghé thăm chúng tôi tại http://www.vidIQ.com\n\nGiữ liên lạc:\nThích chúng tôi trên Facebook: http://facebook.com/vidIQapp\nTheo dõi chúng tôi trên Twitter: http://twitter.com/vidIQ\n\nHỗ trợ:\nCó bất cứ câu hỏi hay phản hồi nào? Xin hãy liên lạc với đội ngũ hỗ trợ của chúng tôi tại contact@vidIQ.com"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "vidIQ Vision for YouTube"
+   },
+   "archiveAndSyndicateInfo": {
+      "message": "Lưu trữ nguồn video của bạn \u003Cbr />và đồng bộ chúng với \u003Cb>Facebook\u003C/b>!"
+   },
+   "archiveAndSyndicateTitle": {
+      "message": "Lưu Trữ và Đồng Bộ"
+   },
+   "archiveCheckboxInfo": {
+      "message": "Chọn ô này để đồng bộ nguồn file video của bạn để tải xuống sau này hay để tự động đồng bộ video của bạn với các dịch vụ khác, như Facebook (tuỳ chọn)"
+   },
+   "archiveInfo": {
+      "message": "Lưu trữ file nguồn video của bạn để tải sau này hay để đồng bộ video này với Facebook"
+   },
+   "archiveSuccessful": {
+      "message": "Lưu trữ thành công!"
+   },
+   "archiveVideoPrivate": {
+      "message": "Rất tiếc, những video riêng tư không thể được đăng tải."
+   },
+   "archivedCampaignsTitle": {
+      "message": "Chiến Dịch đã Lưu"
+   },
+   "archivingSource": {
+      "message": "Đang lưu trữ tập nguồn của video vào \u003Cb>vidIQ\u003C/b>"
+   },
+   "associatedWebsiteTitle": {
+      "message": "Trang Web Liên Kết"
+   },
+   "authChannelTitle": {
+      "message": "Xác Thực Kênh Này!"
+   },
+   "authChannelWithVidIQ": {
+      "message": "Xác thực kênh của bạn với \u003Cb>vidIQ\u003C/b>"
+   },
+   "authFacebookTitle": {
+      "message": "Xác Thực Facebook"
+   },
+   "authForShortcuts": {
+      "message": "Xác thực để dùng shortcut của vidIQ"
+   },
+   "authThanks": {
+      "message": "Cám ơn bạn đã xác thực!"
+   },
+   "autoDetect": {
+      "message": "Tự động phát hiện"
+   },
+   "automaticallySendVideo": {
+      "message": "Tự động gửi video này về máy chủ của chúng tôi để tiếp tục đồng bộ"
+   },
+   "autoplayVideo": {
+      "message": "Tự động phát video"
+   },
+   "averageMinutesWatched": {
+      "message": "số phút được xem trung bình"
+   },
+   "averagesChannelAuditError": {
+      "message": "Tải lên nhiều video hơn để xem số liệu như độ dài tiêu đề trung bình và điểm SEO trung bình trong 30 ngày qua"
+   },
+   "avgDailySubsStatLabel": {
+      "message": "lượt đăng ký trung bình mỗi ngày"
+   },
+   "avgDailyViewsStatLabel": {
+      "message": "lượt xem trung bình mỗi ngày"
+   },
+   "avgPerViewSingular": {
+      "message": "$value$ mỗi lượt xem",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerViews": {
+      "message": "$value$ mỗi $numViews$ lượt xem",
+      "placeholders": {
+         "numViews": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerWatchTime": {
+      "message": "$value$ mỗi $minutes$ phút xem",
+      "placeholders": {
+         "minutes": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPercentViewedStatLabel": {
+      "message": "tỷ lệ xem trung bình"
+   },
+   "avgRevenuePerDay": {
+      "message": "doanh thu trung bình hàng ngày"
+   },
+   "avgRevenuePerMonth": {
+      "message": "doanh thu trung bình hàng tháng"
+   },
+   "avgRevenuePerWeek": {
+      "message": "doanh thu trung bình hàng tuần"
+   },
+   "avgSubsPerMonth": {
+      "message": "số đăng ký trung bình hàng tháng"
+   },
+   "avgSubsPerWeek": {
+      "message": "số đăng ký trung bình hàng tuần"
+   },
+   "avgSubscribers": {
+      "message": "Số Người Đăng Ký Trung Bình"
+   },
+   "avgVideosPerDay": {
+      "message": "số video được phát hành trung bình hàng ngày"
+   },
+   "avgVideosPerMonth": {
+      "message": "số video được phát hành trung bình hàng tháng"
+   },
+   "avgVideosPerWeek": {
+      "message": "số video được phát hành trung bình hàng tuần"
+   },
+   "avgViewTimeStatLabel": {
+      "message": "thời gian xem trung bình"
+   },
+   "avgViewsPerMonth": {
+      "message": "lượt xem trung bình hàng tháng"
+   },
+   "avgViewsPerWeek": {
+      "message": "lượt xem trung bình hàng tuần"
+   },
+   "back": {
+      "message": "Trở lại"
+   },
+   "backToLogin": {
+      "message": "Quay lại đăng nhập"
+   },
+   "basedOnLast30Days": {
+      "message": "Dựa vào 30 ngày gần đây"
+   },
+   "bestForViewer": {
+      "message": "Tốt nhất cho người xem"
+   },
+   "blog": {
+      "message": "Blog"
+   },
+   "boostLearnMore": {
+      "message": "Bạn có thể tìm hiểu thêm về boost video mới trong $start$video hướng dẫn$end$ này!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "boostToGetDescRecs": {
+      "message": "Boost video này để có đề xuất cho mô tả!"
+   },
+   "boostToGetDescriptionRecs": {
+      "message": "Boost video này để có đề xuất cho mô tả!"
+   },
+   "boostToGetTitleRecs": {
+      "message": "Boost video này để có đề xuất cho tiêu đề!"
+   },
+   "boostUpgradeTitle": {
+      "message": "Nâng Cấp Lên Boost"
+   },
+   "boostVideoTitle": {
+      "message": "Boost Video Này"
+   },
+   "borderTitle": {
+      "message": "Đường Viền"
+   },
+   "borderWidthTitle": {
+      "message": "Bề Rộng Đường Viền"
+   },
+   "bulkProcessFail": {
+      "message": "\u003Cb>$number$ $resources$ chưa được sửa đổi thành công.\u003C/b> Vui lòng kiểm tra video trong danh sách trên để biết video nào chưa được cập nhật.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessFailSingular": {
+      "message": "\u003Cb>$resources$ của bạn chưa được sửa đổi thành công.\u003C/b> ",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessSuccess": {
+      "message": "Đã thành công, $number$ $resources$ của bạn đã được sửa đổi!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessSuccessSingular": {
+      "message": "Đã thành công, $resources$ của bạn đã được sửa đổi!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessorBeforeHeading": {
+      "message": "Bạn sắp \u003Cb>$task$\u003C/b>",
+      "placeholders": {
+         "task": {
+            "content": "$1"
+         }
+      }
+   },
+   "buy": {
+      "message": "Mua"
+   },
+   "by": {
+      "message": "theo"
+   },
+   "callToAction": {
+      "message": "Cần hành động"
+   },
+   "campaignErrorTitle": {
+      "message": "Đang ở Video $link$ Cho $campaignId$",
+      "placeholders": {
+         "campaignId": {
+            "content": "$2"
+         },
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignErrorTitleCurrent": {
+      "message": "Đang ở video $link$ cho chiến dịch hiện tại",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignProcessFinished": {
+      "message": "Hoàn thành xử lý! Có thể mất đến 10 phút để những thay đổi được thể hiện trên tất cả video, nhưng những thay đổi này phải được nhìn thấy ngay bây giờ trên trang chỉnh sửa cho từng video."
+   },
+   "campaignStatusEnded": {
+      "message": "Đã chấm dứt"
+   },
+   "campaignStatusPending": {
+      "message": "Đang chờ xử lý"
+   },
+   "campaignStatusPreparing": {
+      "message": "Đang chuẩn bị"
+   },
+   "campaignStatusRestoring": {
+      "message": "Đang khôi phục"
+   },
+   "campaignStatusRunning": {
+      "message": "Đang chạy"
+   },
+   "campaignTextInvalid": {
+      "message": "Nội dung Chiến dịch phải chứa ký tự khác ngoài ký tự trống"
+   },
+   "campaignTextTitle": {
+      "message": "Nội Dung Chiến Dịch  "
+   },
+   "campaignUpgradePrompt": {
+      "message": "Nâng cấp lên Pro để đạt được tất cả tính năng cho Chiến dịch Mô tả"
+   },
+   "campaignUpgradeReason1": {
+      "message": "Gỡ giới hạn 30 video"
+   },
+   "campaignUpgradeReason2": {
+      "message": "Chọn từ những video đăng tải theo ngày đăng tải, danh sách phát, hay danh sách ID"
+   },
+   "campaignUpgradeReason3": {
+      "message": "Tắt thu gọn URL"
+   },
+   "campaignVideoChoice": {
+      "message": "Chiến dịch này nên được dùng cho những video nào?"
+   },
+   "cancel": {
+      "message": "Huỷ"
+   },
+   "cantLoadSeoScoreChecklist": {
+      "message": "Không thể tải thẻ điểm SEO hay checklist"
+   },
+   "cantSendVideoNoteProcessing": {
+      "message": "Lưu ý: cần làm mới sau khi việc xử lý kết thúc"
+   },
+   "cantSendVideoNotePublishing": {
+      "message": "Lưu ý: cần làm mới sau khi việc xử lý kết thúc"
+   },
+   "cantSendVideoProcessing": {
+      "message": "Video này không thể gửi được đến Facebook bởi vì nó chưa được hoàn thành quy trình xử lý."
+   },
+   "cantSendVideoPublishing": {
+      "message": "Video này không thể gửi được đến Facebook bởi vì nó chưa được phát hành."
+   },
+   "card": {
+      "message": "thẻ"
+   },
+   "cardClickRates": {
+      "message": "Tỷ lệ Nhấp vào Thẻ"
+   },
+   "cardTemplates": {
+      "message": "Mẫu thẻ"
+   },
+   "cardsChannelAuditEdit": {
+      "message": "Cập nhật Thẻ"
+   },
+   "cardsChannelAuditHas": {
+      "message": "Video có $numCards$ thẻ",
+      "placeholders": {
+         "numCards": {
+            "content": "$1"
+         }
+      }
+   },
+   "cardsChannelAuditInfo": {
+      "message": "Các thẻ tương tác được hiển thị khi video phát nhằm giúp tăng gắn kết và tăng thời gian xem mỗi phiên của bạn."
+   },
+   "cardsChannelAuditMissing": {
+      "message": "Không có Thẻ"
+   },
+   "cardsChannelAuditMissingMessage": {
+      "message": "Thêm í́t nhất một màn hình kết thúc"
+   },
+   "cardsMissingInfo": {
+      "message": "Những video đã được liệt kê không có bất kỳ thẻ nào. Chúng tôi gợi ý thêm chúng cho mọi video."
+   },
+   "cardsMissingSubtextBad": {
+      "message": "Thêm thẻ vào tất cả video của bạn"
+   },
+   "cardsMissingSubtextGood": {
+      "message": "Không có thẻ bị sót trên video của bạn!"
+   },
+   "cardsMissingTitle": {
+      "message": "Video Không Có Thẻ"
+   },
+   "cardsStatLabel": {
+      "message": "Sao chép thẻ"
+   },
+   "cardsTooltip": {
+      "message": "Số thẻ của video này."
+   },
+   "caseSensitiveQ": {
+      "message": "Trường hợp nhạy cảm?"
+   },
+   "categoryAny": {
+      "message": "Tất Cả Danh Mục"
+   },
+   "categoryAutosAndVehicles": {
+      "message": "Ô tô & Xe"
+   },
+   "categoryBeautyFashion": {
+      "message": "Làm đẹp/Thời Trang"
+   },
+   "categoryBusiness": {
+      "message": "Kinh Doanh"
+   },
+   "categoryCarsTrucks": {
+      "message": "Ô Tô/Xe Tải"
+   },
+   "categoryComedy": {
+      "message": "Phim hài"
+   },
+   "categoryCuteAnimals": {
+      "message": "Động Vật Dễ Thương"
+   },
+   "categoryDocumentary": {
+      "message": "Phim tài liệu"
+   },
+   "categoryDrama": {
+      "message": "Kịch"
+   },
+   "categoryEducation": {
+      "message": "Giáo dục"
+   },
+   "categoryEntertainment": {
+      "message": "Giải trí"
+   },
+   "categoryFamily": {
+      "message": "Gia đình"
+   },
+   "categoryFilmAndAnimation": {
+      "message": "Phim & Hoạt hình"
+   },
+   "categoryFoodHealth": {
+      "message": "Thức ăn/Sức Khoẻ"
+   },
+   "categoryGaming": {
+      "message": "Game"
+   },
+   "categoryHome": {
+      "message": "Nhà Cửa"
+   },
+   "categoryHorror": {
+      "message": "Kinh dị"
+   },
+   "categoryHowtoAndStyle": {
+      "message": "Làm thế nào để & Phong cách"
+   },
+   "categoryLifestyle": {
+      "message": "Lối Sống"
+   },
+   "categoryMovies": {
+      "message": "Phim"
+   },
+   "categoryMusic": {
+      "message": "Nhạc"
+   },
+   "categoryNews": {
+      "message": "Tin Tức"
+   },
+   "categoryNewsAndPolitics": {
+      "message": "Tin tức & Chính trị"
+   },
+   "categoryNone": {
+      "message": "Không"
+   },
+   "categoryNonprofitsAndActivism": {
+      "message": "Phi lợi nhuận & Các hoạt động"
+   },
+   "categoryOther": {
+      "message": "Khác"
+   },
+   "categoryPeopleAndBlogs": {
+      "message": "Con người & Blog"
+   },
+   "categoryPetsAndAnimals": {
+      "message": "Thú cưng & Động vật"
+   },
+   "categoryPolitics": {
+      "message": "Chính Trị"
+   },
+   "categoryScience": {
+      "message": "Khoa Học"
+   },
+   "categoryScienceAndTechnology": {
+      "message": "Khoa học & Công nghệ"
+   },
+   "categoryShows": {
+      "message": "Chương trình truyền hình "
+   },
+   "categorySports": {
+      "message": "Thể thao"
+   },
+   "categoryTechnology": {
+      "message": "Công Nghệ"
+   },
+   "categoryThriller": {
+      "message": "Chuyện ly kỳ"
+   },
+   "categoryTitle": {
+      "message": "Danh Mục"
+   },
+   "categoryTravelAndEvents": {
+      "message": "Du lịch & Sự kiện"
+   },
+   "categoryVideoGaming": {
+      "message": "Game"
+   },
+   "channelAudit": {
+      "message": "Kiểm tra kênh"
+   },
+   "channelAuditAverageMetricsHeader": {
+      "message": "Số Liệu Trung Bình trong 30 Ngày Qua."
+   },
+   "channelAuditAverageMetricsInfo": {
+      "message": "Đây là những số liệu trung bình cho các video bạn vừa đăng tải trong 30 ngày qua. Hãy nhấp vào một só liệu để xem danh sách các link video để chỉnh sửa những giá trị này."
+   },
+   "channelAuditContentNotWorking": {
+      "message": "Những Nội dung Không Tốt Có thể được Cải thiện"
+   },
+   "channelAuditContentNotWorkingInfo": {
+      "message": "Đây là những video YouTube có kết quả tệ nhất của bạn trong $numDays$ ngày. Hãy nghiên cứu nội dung, phản hồi của cộng đồng và tỷ lệ giữ chân người xem để xác định lý do tại sao.",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditDoubleDownHeader": {
+      "message": "Nội dung để Tập trung Phát triển"
+   },
+   "channelAuditDoubleDownInfo": {
+      "message": "Đây là những video hiệu quả nhất trên YouTube của bạn trong 30 ngày qua. Hãy xem lại chủ đề, nội dung và việc sản xuất video này để biết vì sao nó thành công như vậy và lặp lại điều đó."
+   },
+   "channelAuditError": {
+      "message": "Khoông đủ dữ liệu để truy hồi số liệu"
+   },
+   "channelAuditFeedbackErrorMessage": {
+      "message": "Có lỗi đã xảy ra. Vui lòng đảm bảo rằng bạn đã đăng nhập vào vidIQ và liên hệ support@vidiq.com nếu vẫn gặp lỗi."
+   },
+   "channelAuditFeedbackRatingMessage": {
+      "message": "Bạn sẽ đánh giá trải nghiệm của mình trong việc sử dụng Kiểm tra Kênh như thế nào?"
+   },
+   "channelAuditFeedbackSubmittedMessage": {
+      "message": "Cám ơn bạn! Phản hồi của bạn đã được gửi. "
+   },
+   "channelAuditItemsToImproveHeader": {
+      "message": "Các mục cần Cải thiện"
+   },
+   "channelAuditItemsToImproveInfo": {
+      "message": "Đây là những yếu tố quan trọng góp phần vào sự thành công của video. Hãy khắc phục những vấn đề này để đảm bảo nội dung của bạn được nhấp vào và có nhiều người xem đến nhiều video của bạn hơn nữa!"
+   },
+   "channelAuditShowMoreHeader": {
+      "message": "Video $type$ của bạn cho $stat$ trong $numDays$ ngày qua, được xếp hạng",
+      "placeholders": {
+         "numDays": {
+            "content": "$3"
+         },
+         "stat": {
+            "content": "$2"
+         },
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditStatsUpsellMessage": {
+      "message": "Nâng lên VidIQ Pro hay Boost để khám phá thêm nhiều phân tích kênh nữa!"
+   },
+   "channelAuditTimeframe": {
+      "message": "Khung thời gian: $numDays$ ngày",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditTitle": {
+      "message": "Kiểm Tra Kênh"
+   },
+   "channelAuditUpsellMessage": {
+      "message": "\u003Cstrong>Nâng cấp lên vidIQ Pro\u003C/strong> hay hơn nữa để xem tất cả kết quả"
+   },
+   "channelCountryStatLabel": {
+      "message": "quốc gia của kênh"
+   },
+   "channelGrowthTooltip": {
+      "message": "So sánh sự phát triển trong 30 ngày qua với khoảng thời gian trước ($value$)",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelSubscribersStatLabel": {
+      "message": "lượt đăng ký"
+   },
+   "channelTagsTitle": {
+      "message": "Thẻ Tag Kênh"
+   },
+   "channelTitle": {
+      "message": "Kênh"
+   },
+   "channelTrendingUpsellMessage": {
+      "message": "Nâng cấp lên vidIQ Pro để xem tất cả các video theo mức xem (velocity)"
+   },
+   "channelViewsStatLabel": {
+      "message": "tổng lượt xem"
+   },
+   "characterCountersTitle": {
+      "message": "Bộ Đếm Ký Tự"
+   },
+   "checkEmailForInfo": {
+      "message": "Hãy kiểm tra email của bạn để biết những hướng dẫn tiếp theo!"
+   },
+   "checkOutLatestVideo": {
+      "message": "Hãy xem những video mới nhất của tôi!"
+   },
+   "checkOutVidiqBoost": {
+      "message": "Hãy xem \u003Ca href=\\\"$videoUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">vidIQ Boost\u003C/a>",
+      "placeholders": {
+         "videoUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "checklistCC": {
+      "message": "Phụ đề (nhập tay)"
+   },
+   "checklistCard": {
+      "message": "Ít nhất 1 thẻ"
+   },
+   "checklistComment": {
+      "message": "Trả lời một bình luận gần đây"
+   },
+   "checklistDescRangeTooltip": {
+      "message": "Mô tả nên có hơn 300 ký tự"
+   },
+   "checklistEndScreen": {
+      "message": "Ít nhất 1 màn hình kết thúc"
+   },
+   "checklistFacebook": {
+      "message": "Đã chia sẻ trên Facebook với ít nhất 1 lượt thích"
+   },
+   "checklistMoney": {
+      "message": "Đã bật Kiếm tiền"
+   },
+   "checklistPlaylist": {
+      "message": "Đã được thêm vào một danh sách phát"
+   },
+   "checklistPublic": {
+      "message": "Công khai"
+   },
+   "checklistTagsRangeTooltip": {
+      "message": "Tất cả thẻ tag cộng lại nên có trên 200 ký tự"
+   },
+   "checklistTitle": {
+      "message": "Checklist"
+   },
+   "checklistTitleRangeTooltip": {
+      "message": "Tiêu đề nên có từ 20 đến 60 ký tự"
+   },
+   "checklistTwitter": {
+      "message": "Đã chia sẻ trên Twitter"
+   },
+   "chooseATemplate": {
+      "message": "Chọn mẫu"
+   },
+   "chooseAnotherFileTitle": {
+      "message": "Chọn File Khác"
+   },
+   "chooseCurrentThumb": {
+      "message": "Chọn hình thu nhỏ hiện tại"
+   },
+   "chooseEllipses": {
+      "message": "Lựa chọn..."
+   },
+   "chooseLanguage": {
+      "message": "Chọn một ngôn ngữ để dịch sang!"
+   },
+   "chooseLanguage2": {
+      "message": "Chọn một ngôn ngữ..."
+   },
+   "choosePlaylist": {
+      "message": "Chọn một danh sách phát"
+   },
+   "chooseResourcesToCopy": {
+      "message": "Chọn $resources$ bạn muốn sao chép",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "chooseResourcesToEditTitle": {
+      "message": "Chọn Nguồn để Chính sửa hay Huỷ"
+   },
+   "chooseSourceVideoTitle": {
+      "message": "Chọn Nguồn Video"
+   },
+   "chooseTemplate": {
+      "message": "Chọn mẫu"
+   },
+   "chooseThumbBgColor": {
+      "message": "Chọn màu hình nền mong muốn cho hình thu nhỏ của bạn"
+   },
+   "chooseThumbStill": {
+      "message": "Để dùng khung video cho hình thu nhỏ của bạn, hãy dừng video tại khung hình mong muốn"
+   },
+   "chooseTwoLangs": {
+      "message": "Chọn hai ngôn ngữ khác nhau để dịch sang!"
+   },
+   "chooseVideoCopyTargets": {
+      "message": "Chọn video bạn muốn sao chép $resources$ này vào",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearKeywordsTitle": {
+      "message": "Xoá Các Từ Khoá"
+   },
+   "clearPendingDeletionsTitle": {
+      "message": "Xoá Huỷ Bỏ Đang Xử Lý"
+   },
+   "clearPendingEditsTitle": {
+      "message": "Xoá Chỉnh Sửa Chưa Xử Lý"
+   },
+   "clearTitle": {
+      "message": "Xoá"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "commentTemplatesTitle": {
+      "message": "Những Mẫu Thông Dụng"
+   },
+   "comments": {
+      "message": "bình luận"
+   },
+   "commentsMadeBy": {
+      "message": "Bình luận của..."
+   },
+   "commentsTitle": {
+      "message": "Bình luận"
+   },
+   "communityCcTitle": {
+      "message": "Phụ đề đóng góp của cộng đồng và giấy phép CC "
+   },
+   "comparisonLabel": {
+      "message": "$value$ thời gian trước ",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "competition": {
+      "message": "Điểm Cạnh tranh vidIQ"
+   },
+   "competitors": {
+      "message": "Đối thủ"
+   },
+   "competitorsAdd": {
+      "message": "Thêm"
+   },
+   "competitorsAllTime": {
+      "message": "Tất cả thời gian"
+   },
+   "competitorsCompetitorChannels": {
+      "message": "Kênh đối thủ"
+   },
+   "competitorsDateUploaded": {
+      "message": "Ngày đăng tải"
+   },
+   "competitorsErrorNoChannelId": {
+      "message": "ID kênh đó không tồn tại. Hãy đảm bảo rằng bạn đã sao chép ID từ URL YouTube như thể hiện ở trên."
+   },
+   "competitorsErrorNoCompetitors": {
+      "message": "Để xem những video thịnh hành mới nhất từ các đối thủ của bạn, hãy thêm một vài kênh của đối thủ với biểu mẫu bên phải."
+   },
+   "competitorsErrorNoCompetitorsFound": {
+      "message": "Không tìm thấy đối thủ"
+   },
+   "competitorsErrorNoTrendingVideosButton": {
+      "message": "Hiển thị những video thịnh hành mọi lúc"
+   },
+   "competitorsErrorNoTrendingVideosMessage": {
+      "message": "Đối thủ của bạn không có video thịnh hành trong thời gian được chọn. Hãy thử thay đổi thời gian bằng cách dùng nút bên trên và kiểm tra lại sau."
+   },
+   "competitorsErrorUnableToRemove": {
+      "message": "Chúng tôi không thể bỏ đối thủ đó. Vui lòng tải lại trang và thử lại."
+   },
+   "competitorsErrorUnauthenticatedButton": {
+      "message": "Xác thực kênh của bạn"
+   },
+   "competitorsErrorUnauthenticatedHint": {
+      "message": "Hãy nhớ làm mới trang này sau khi bạn xác thực kênh của bạn."
+   },
+   "competitorsErrorUnauthenticatedMessage": {
+      "message": "Bạn phải xác thực kênh của bạn với vidIQ để xem những video đang thịnh hành của đối thủ của bạn."
+   },
+   "competitorsErrorUnknownButton": {
+      "message": "Trở lại YouTube"
+   },
+   "competitorsErrorUnknownMessage": {
+      "message": "Một lỗi không xác định đã xảy ra. Chúng tôi đã lưu ý về lỗi này và sẽ khắc phục nó sớm nhấ có thể."
+   },
+   "competitorsPast48Hours": {
+      "message": "48 giờ qua"
+   },
+   "competitorsRemoveCompetitor": {
+      "message": "Bỏ đối thủ"
+   },
+   "competitorsSubsDriven": {
+      "message": "lượng người đăng ký đạt được"
+   },
+   "competitorsThisMonth": {
+      "message": "Tháng này"
+   },
+   "competitorsThisWeek": {
+      "message": "Tuần này"
+   },
+   "competitorsUpsellButton": {
+      "message": "Nâng cấp tài khoản của tôi"
+   },
+   "competitorsUpsellMessage": {
+      "message": "Bạn đã chạm $userType$ giới hạn tài khoản của bạn về \u003Cstrong>$limit$ số đối thủ được theo dõi\u003C/strong>. Để theo dõi nhiều kênh hơn nữa, vui lòng nâng cấp tài khoản của bạn.",
+      "placeholders": {
+         "limit": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "competitorsViewChannel": {
+      "message": "Xem kênh."
+   },
+   "competitorsViews": {
+      "message": "Lượt xem"
+   },
+   "competitorsVph": {
+      "message": "VPH"
+   },
+   "completeSyndicationTitle": {
+      "message": "Hoàn Thành Đồng Bộ Hoá"
+   },
+   "configureInSettings": {
+      "message": "Thiết lập vidIQ trong cài đặt"
+   },
+   "confirmEmailTitle": {
+      "message": "Xác Nhận Email"
+   },
+   "confirmFileMatch": {
+      "message": "Vui lòng xác nhận rằng điều này phù hợp với video liên quan"
+   },
+   "confirmFileTitle": {
+      "message": "Xác Nhận file"
+   },
+   "confirmPasswordTitle": {
+      "message": "Xác Nhận Mật Khẩu"
+   },
+   "connectFacebookContinue": {
+      "message": "Kết nối với Facebook để tiếp tục"
+   },
+   "connectSyndicationEnable": {
+      "message": "Kết nối để bật đồng bộ hoá"
+   },
+   "considerIncludingDesc": {
+      "message": "Hãy xem xét thêm những từ khoá được tìm kiếm nhiều này vào mô tả của bạn"
+   },
+   "considerIncludingDescription": {
+      "message": "Hãy xem xét thêm những từ khoá được tìm kiếm nhiều này vào mô tả của bạn"
+   },
+   "considerIncludingTitle": {
+      "message": "Hãy xem xét thêm những từ khoá được tìm kiếm nhiều này vào tiêu đề của bạn"
+   },
+   "containNegativeWords": {
+      "message": "Bao gồm (những) từ không hay"
+   },
+   "containPositiveWords": {
+      "message": "Bao gồm (những) từ tốt đẹp"
+   },
+   "containProfanity": {
+      "message": "Bao gồm nội dung xấu"
+   },
+   "containQuestions": {
+      "message": "Bao gồm (những) câu hỏi"
+   },
+   "continueWhenReady": {
+      "message": "Tiếp tục khi sẵn sàng"
+   },
+   "controversialKeywords": {
+      "message": "Những Từ Khoá Gây Tranh Cãi"
+   },
+   "controversialKeywordsUpgrade": {
+      "message": "Nâng cấp lên Pro để xem những từ khoá gây tranh cãi có thể dẫn đến việc bị gắn cờ hay tắt kiếm tiền"
+   },
+   "copyAnnotationsTitle": {
+      "message": "Sao Chép Chú Thích"
+   },
+   "copyCardsTitle": {
+      "message": "Sao Chép Thẻ"
+   },
+   "copyEndScreenNote": {
+      "message": "Lưu Ý: việc chép các phần của màn hình kết thúc vào một video với các ghi chú sẽ huỷ phát hành chúng cho các video đó để màn hình kết thúc có thể được sao chép"
+   },
+   "copyEndScreenTitle": {
+      "message": "Sao Chép Màn Hình Kết Thúc"
+   },
+   "copyFromYouTubeTitle": {
+      "message": "Sao chép từ YouTube"
+   },
+   "copyKeywordsTitle": {
+      "message": "Sao Chép Các Từ Khoá"
+   },
+   "copyTags": {
+      "message": "Sao chép thẻ tag vào bộ nhớ tạm"
+   },
+   "copyVideoResourcesFail": {
+      "message": "\u003Cb>Chúng tôi đã sao chép $resources$ của bạn, nhưng $number$ đã không được lưu.\u003C/b> Vui lòng kiểm tra các video trong danh sách trên để biết video nào chưa được nâng cấp. Để xem $resources$, đơn giản chỉ cần nhấp vào bất kỳ video nào.",
+      "placeholders": {
+         "number": {
+            "content": "$2"
+         },
+         "resources": {
+            "content": "$3"
+         }
+      }
+   },
+   "copyVideoResourcesSuccess": {
+      "message": "\u003Cb>Thành công, $resources$ bạn chọn đã được sao chép!\u003C/b> Nếu bạn muốn xem $resources$, đơn giản chỉ càn nhấp vào bất kỳ video nào trên danh sách trên.",
+      "placeholders": {
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "copyVideoResourcesTask": {
+      "message": "sao chép $resources$",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotFindOwnedChannels": {
+      "message": "Không thể tìm thấy kênh bạn sở hữu"
+   },
+   "couldNotGetTemplates": {
+      "message": "Không thể nhận mẫu: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotRetrieveCurrThumb": {
+      "message": "Không thể truy xuất hình thu nhỏ hiện tại"
+   },
+   "couldNotShortenUrls": {
+      "message": "Không thể thu gọn URL"
+   },
+   "countryAfghanistan": {
+      "message": "Afghanistan"
+   },
+   "countryAlbania": {
+      "message": "Albani"
+   },
+   "countryAlgeria": {
+      "message": "Algeria"
+   },
+   "countryAmericanSamoa": {
+      "message": "American Samoa"
+   },
+   "countryAndorra": {
+      "message": "Andorra"
+   },
+   "countryAngola": {
+      "message": "Angola"
+   },
+   "countryAnguilla": {
+      "message": "Anguilla"
+   },
+   "countryAntarctica": {
+      "message": "Nam Cực"
+   },
+   "countryAntiguaandBarbuda": {
+      "message": "Antigua và Barbuda"
+   },
+   "countryArgentina": {
+      "message": "Argentina"
+   },
+   "countryArmenia": {
+      "message": "Armenia"
+   },
+   "countryAruba": {
+      "message": "Aruba"
+   },
+   "countryAustralia": {
+      "message": "Úc"
+   },
+   "countryAustria": {
+      "message": "Áo"
+   },
+   "countryAzerbaijan": {
+      "message": "Azerbaijan"
+   },
+   "countryBahamas": {
+      "message": "Bahamas"
+   },
+   "countryBahrain": {
+      "message": "Bahrain"
+   },
+   "countryBangladesh": {
+      "message": "Bangladesh"
+   },
+   "countryBarbados": {
+      "message": "Barbados"
+   },
+   "countryBelarus": {
+      "message": "Belarus"
+   },
+   "countryBelgium": {
+      "message": "Bỉ"
+   },
+   "countryBelize": {
+      "message": "Belize"
+   },
+   "countryBenin": {
+      "message": "Benin"
+   },
+   "countryBermuda": {
+      "message": "Bermuda"
+   },
+   "countryBhutan": {
+      "message": "Bhutan"
+   },
+   "countryBoliviaPlurinationalStateof": {
+      "message": "Cộng hoà Đa dân tộc Bolivia"
+   },
+   "countryBonaireSintEustatiusandSaba": {
+      "message": "Bonaire, Sint Eustatius và Saba"
+   },
+   "countryBosniaandHerzegovina": {
+      "message": "Bosnia và Herzegovina"
+   },
+   "countryBotswana": {
+      "message": "Botswana"
+   },
+   "countryBouvetIsland": {
+      "message": "Đảo Bouvet"
+   },
+   "countryBrazil": {
+      "message": "Brazil"
+   },
+   "countryBritishIndianOceanTerritory": {
+      "message": "Lãnh thổ Ấn Độ Dương thuộc Anh"
+   },
+   "countryBruneiDarussalam": {
+      "message": "Vương quốc Bru-nây"
+   },
+   "countryBulgaria": {
+      "message": "Bulgari"
+   },
+   "countryBurkinaFaso": {
+      "message": "Burkina Faso"
+   },
+   "countryBurundi": {
+      "message": "Burundi"
+   },
+   "countryCambodia": {
+      "message": "Campuchia"
+   },
+   "countryCameroon": {
+      "message": "Cameroon"
+   },
+   "countryCanada": {
+      "message": "Canada"
+   },
+   "countryCapeVerde": {
+      "message": "Cape Verde"
+   },
+   "countryCaymanIslands": {
+      "message": "Quần đảo Cayman"
+   },
+   "countryCentralAfricanRepublic": {
+      "message": "Cộng hòa Trung Phi"
+   },
+   "countryChad": {
+      "message": "Chad"
+   },
+   "countryChile": {
+      "message": "Chile"
+   },
+   "countryChina": {
+      "message": "Trung Quốc"
+   },
+   "countryChristmasIsland": {
+      "message": "Đảo Christmas"
+   },
+   "countryCocosKeelingIslands": {
+      "message": "Quần đảo Cocos (Keeling)"
+   },
+   "countryColombia": {
+      "message": "Colombia"
+   },
+   "countryComoros": {
+      "message": "Comoros"
+   },
+   "countryCongo": {
+      "message": "Congo"
+   },
+   "countryCongotheDemocraticRepublicofthe": {
+      "message": "Cộng hòa Dân chủ Congo"
+   },
+   "countryCookIslands": {
+      "message": "Quần đảo Cook"
+   },
+   "countryCostaRica": {
+      "message": "Costa Rica"
+   },
+   "countryCroatia": {
+      "message": "Croatia"
+   },
+   "countryCtedIvoire": {
+      "message": "Côte d'Ivoire"
+   },
+   "countryCuba": {
+      "message": "Cuba"
+   },
+   "countryCuraao": {
+      "message": "Curacao"
+   },
+   "countryCyprus": {
+      "message": "Síp"
+   },
+   "countryCzechRepublic": {
+      "message": "Cộng hòa Séc"
+   },
+   "countryDenmark": {
+      "message": "Đan mạch"
+   },
+   "countryDjibouti": {
+      "message": "Djibouti"
+   },
+   "countryDominica": {
+      "message": "Dominica"
+   },
+   "countryDominicanRepublic": {
+      "message": "Cộng hòa Dominican"
+   },
+   "countryEcuador": {
+      "message": "Ecuador"
+   },
+   "countryEgypt": {
+      "message": "Ai Cập"
+   },
+   "countryElSalvador": {
+      "message": "El Salvador"
+   },
+   "countryEquatorialGuinea": {
+      "message": "Equatorial Guinea"
+   },
+   "countryEritrea": {
+      "message": "Eritrea"
+   },
+   "countryEstonia": {
+      "message": "Estonia"
+   },
+   "countryEthiopia": {
+      "message": "Ethiopia"
+   },
+   "countryFalklandIslandsMalvinas": {
+      "message": "Quần đảo Falkland (Malvinas)"
+   },
+   "countryFaroeIslands": {
+      "message": "Quần đảo Faroe"
+   },
+   "countryFiji": {
+      "message": "Fiji"
+   },
+   "countryFinland": {
+      "message": "Phần Lan"
+   },
+   "countryFrance": {
+      "message": "Pháp"
+   },
+   "countryFrenchGuiana": {
+      "message": "Guiana thuộc Pháp"
+   },
+   "countryFrenchPolynesia": {
+      "message": "Polynesia thuộc Pháp"
+   },
+   "countryFrenchSouthernTerritories": {
+      "message": "Lãnh thổ phía Nam của Pháp"
+   },
+   "countryGabon": {
+      "message": "Gabon"
+   },
+   "countryGambia": {
+      "message": "Gambia"
+   },
+   "countryGeorgia": {
+      "message": "Gruzia"
+   },
+   "countryGermany": {
+      "message": "Đức"
+   },
+   "countryGhana": {
+      "message": "Ghana"
+   },
+   "countryGibraltar": {
+      "message": "Gibraltar"
+   },
+   "countryGreece": {
+      "message": "Hy Lạp"
+   },
+   "countryGreenland": {
+      "message": "Greenland"
+   },
+   "countryGrenada": {
+      "message": "Grenada"
+   },
+   "countryGuadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "countryGuam": {
+      "message": "Đảo Guam"
+   },
+   "countryGuatemala": {
+      "message": "Guatemala"
+   },
+   "countryGuernsey": {
+      "message": "Guernsey"
+   },
+   "countryGuinea": {
+      "message": "Guinea"
+   },
+   "countryGuineaBissau": {
+      "message": "Guinea-Bissau"
+   },
+   "countryGuyana": {
+      "message": "Guyana"
+   },
+   "countryHaiti": {
+      "message": "Haiti"
+   },
+   "countryHeardIslandandMcDonaldIslands": {
+      "message": "Đảo Heard và McDonald"
+   },
+   "countryHolySeeVaticanCityState": {
+      "message": "Tòa thánh (Nhà nước Vatican City)"
+   },
+   "countryHonduras": {
+      "message": "Honduras"
+   },
+   "countryHongKong": {
+      "message": "Hồng Kông"
+   },
+   "countryHungary": {
+      "message": "Hungary"
+   },
+   "countryIceland": {
+      "message": "Iceland"
+   },
+   "countryIndia": {
+      "message": "Ấn Độ"
+   },
+   "countryIndonesia": {
+      "message": "Indonesia"
+   },
+   "countryIranIslamicRepublicof": {
+      "message": "Cộng hòa Hồi giáo Iran "
+   },
+   "countryIraq": {
+      "message": "Iraq"
+   },
+   "countryIreland": {
+      "message": "Ireland"
+   },
+   "countryIsleofMan": {
+      "message": "Đảo Man"
+   },
+   "countryIsrael": {
+      "message": "Israel"
+   },
+   "countryItaly": {
+      "message": "Ý"
+   },
+   "countryJamaica": {
+      "message": "Jamaica"
+   },
+   "countryJapan": {
+      "message": "Nhật Bản"
+   },
+   "countryJersey": {
+      "message": "Jersey"
+   },
+   "countryJordan": {
+      "message": "Jordan"
+   },
+   "countryKazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "countryKenya": {
+      "message": "Kenya"
+   },
+   "countryKiribati": {
+      "message": "Kiribati"
+   },
+   "countryKoreaDemocraticPeoplesRepublicof": {
+      "message": "Cộng hoà Dân chủ Nhân dân Triều Tiên"
+   },
+   "countryKoreaRepublicof": {
+      "message": "Hàn Quốc"
+   },
+   "countryKuwait": {
+      "message": "Kuwait"
+   },
+   "countryKyrgyzstan": {
+      "message": "Kyrgyzstan"
+   },
+   "countryLaoPeoplesDemocraticRepublic": {
+      "message": "Cộng hòa Dân chủ Nhân dân Lào"
+   },
+   "countryLatvia": {
+      "message": "Latvia"
+   },
+   "countryLebanon": {
+      "message": "Lebanon"
+   },
+   "countryLesotho": {
+      "message": "Lesotho"
+   },
+   "countryLiberia": {
+      "message": "Liberia"
+   },
+   "countryLibya": {
+      "message": "Libya"
+   },
+   "countryLiechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "countryLithuania": {
+      "message": "Lithuania"
+   },
+   "countryLuxembourg": {
+      "message": "Luxembourg"
+   },
+   "countryMacao": {
+      "message": "Macao"
+   },
+   "countryMacedonia": {
+      "message": "Macedonia"
+   },
+   "countryMacedoniatheFormerYugoslavRepublicof": {
+      "message": "Macedonia, Cộng hòa Nam Tư cũ"
+   },
+   "countryMadagascar": {
+      "message": "Madagascar"
+   },
+   "countryMalawi": {
+      "message": "Malawi"
+   },
+   "countryMalaysia": {
+      "message": "Malaysia"
+   },
+   "countryMaldives": {
+      "message": "Maldives"
+   },
+   "countryMali": {
+      "message": "Mali"
+   },
+   "countryMalta": {
+      "message": "Malta"
+   },
+   "countryMarshallIslands": {
+      "message": "Đảo Marshall"
+   },
+   "countryMartinique": {
+      "message": "Martinique"
+   },
+   "countryMauritania": {
+      "message": "Mauritania"
+   },
+   "countryMauritius": {
+      "message": "Mauritius"
+   },
+   "countryMayotte": {
+      "message": "Mayotte"
+   },
+   "countryMexico": {
+      "message": "Mexico"
+   },
+   "countryMicronesiaFederatedStatesof": {
+      "message": "Micronesia, Liên bang Hoa Kỳ"
+   },
+   "countryMoldovaRepublicof": {
+      "message": "Cộng hòa Moldova"
+   },
+   "countryMonaco": {
+      "message": "Monaco"
+   },
+   "countryMongolia": {
+      "message": "Mông Cổ"
+   },
+   "countryMontenegro": {
+      "message": "Montenegro"
+   },
+   "countryMontserrat": {
+      "message": "Montserrat"
+   },
+   "countryMorocco": {
+      "message": "Ma-rốc"
+   },
+   "countryMozambique": {
+      "message": "Mozambique"
+   },
+   "countryMyanmar": {
+      "message": "Myanmar"
+   },
+   "countryNamibia": {
+      "message": "Namibia"
+   },
+   "countryNauru": {
+      "message": "Nauru"
+   },
+   "countryNepal": {
+      "message": "Nepal"
+   },
+   "countryNetherlands": {
+      "message": "Hà Lan"
+   },
+   "countryNewCaledonia": {
+      "message": "New Caledonia"
+   },
+   "countryNewZealand": {
+      "message": "New Zealand"
+   },
+   "countryNicaragua": {
+      "message": "Nicaragua"
+   },
+   "countryNiger": {
+      "message": "Niger"
+   },
+   "countryNigeria": {
+      "message": "Nigeria"
+   },
+   "countryNiue": {
+      "message": "Niue"
+   },
+   "countryNorfolkIsland": {
+      "message": "Đảo Norfolk"
+   },
+   "countryNorthernMarianaIslands": {
+      "message": "Quần đảo Bắc Mariana"
+   },
+   "countryNorway": {
+      "message": "Na Uy"
+   },
+   "countryOman": {
+      "message": "Oman"
+   },
+   "countryPakistan": {
+      "message": "Pakistan"
+   },
+   "countryPalau": {
+      "message": "Palau"
+   },
+   "countryPalestineStateof": {
+      "message": "Nhà nước Palestine"
+   },
+   "countryPanama": {
+      "message": "Panama"
+   },
+   "countryPapuaNewGuinea": {
+      "message": "Papua New Guinea"
+   },
+   "countryParaguay": {
+      "message": "Paraguay"
+   },
+   "countryPeru": {
+      "message": "Peru"
+   },
+   "countryPhilippines": {
+      "message": "Philippines"
+   },
+   "countryPitcairn": {
+      "message": "Pitcairn"
+   },
+   "countryPoland": {
+      "message": "Ba Lan"
+   },
+   "countryPortugal": {
+      "message": "Bồ Đào Nha"
+   },
+   "countryPuertoRico": {
+      "message": "Puerto Rico"
+   },
+   "countryQatar": {
+      "message": "Qatar"
+   },
+   "countryRomania": {
+      "message": "Romania"
+   },
+   "countryRunion": {
+      "message": "Réunion"
+   },
+   "countryRussia": {
+      "message": "Nga"
+   },
+   "countryRussianFederation": {
+      "message": "Liên bang Nga"
+   },
+   "countryRwanda": {
+      "message": "Rwanda"
+   },
+   "countrySaintBarthlemy": {
+      "message": "Saint Barthélemy"
+   },
+   "countrySaintHelenaAscensionandTristandaCunha": {
+      "message": "Saint Helena, Ascension và Tristan da Cunha"
+   },
+   "countrySaintKittsandNevis": {
+      "message": "Saint Kitts và Nevis"
+   },
+   "countrySaintLucia": {
+      "message": "Saint Lucia"
+   },
+   "countrySaintMartinFrenchpart": {
+      "message": "Saint Martin (phần của Pháp)"
+   },
+   "countrySaintPierreandMiquelon": {
+      "message": "Saint Pierre và Miquelon"
+   },
+   "countrySaintVincentandtheGrenadines": {
+      "message": "Saint Vincent và Grenadines"
+   },
+   "countrySamoa": {
+      "message": "Samoa"
+   },
+   "countrySanMarino": {
+      "message": "San Marino"
+   },
+   "countrySaoTomeandPrincipe": {
+      "message": "Sao Tome và Principe"
+   },
+   "countrySaudiArabia": {
+      "message": "Saudi Arabia"
+   },
+   "countrySenegal": {
+      "message": "Senegal"
+   },
+   "countrySerbia": {
+      "message": "Serbia"
+   },
+   "countrySeychelles": {
+      "message": "Seychelles"
+   },
+   "countrySierraLeone": {
+      "message": "Sierra Leone"
+   },
+   "countrySingapore": {
+      "message": "Singapore"
+   },
+   "countrySintMaartenDutchpart": {
+      "message": "Sint Maarten (một phần của Hà Lan)"
+   },
+   "countrySlovakia": {
+      "message": "Slovakia"
+   },
+   "countrySlovenia": {
+      "message": "Slovenia"
+   },
+   "countrySolomonIslands": {
+      "message": "Quần đảo Solomon"
+   },
+   "countrySomalia": {
+      "message": "Somalia"
+   },
+   "countrySouthAfrica": {
+      "message": "Nam Phi"
+   },
+   "countrySouthGeorgiaandtheSouthSandwichIslands": {
+      "message": "Nam Georgia và Quần đảo Nam Sandwich"
+   },
+   "countrySouthKorea": {
+      "message": "Nam Triều Tiên"
+   },
+   "countrySouthSudan": {
+      "message": "Nam Sudan"
+   },
+   "countrySpain": {
+      "message": "Tây Ban Nha"
+   },
+   "countrySriLanka": {
+      "message": "Sri Lanka"
+   },
+   "countrySudan": {
+      "message": "Sudan"
+   },
+   "countrySuriname": {
+      "message": "Suriname"
+   },
+   "countrySvalbardandJanMayen": {
+      "message": "Svalbard và Jan Mayen"
+   },
+   "countrySwaziland": {
+      "message": "Swaziland"
+   },
+   "countrySweden": {
+      "message": "Thụy Điển"
+   },
+   "countrySwitzerland": {
+      "message": "Thụy sĩ"
+   },
+   "countrySyrianArabRepublic": {
+      "message": "Cộng Hòa Arập Syrian"
+   },
+   "countryTaiwan": {
+      "message": "Đài Loan"
+   },
+   "countryTaiwanProvinceofChina": {
+      "message": "Đài Loan, Tỉnh của Trung Quôc"
+   },
+   "countryTajikistan": {
+      "message": "Tajikistan"
+   },
+   "countryTanzaniaUnitedRepublicof": {
+      "message": "Cộng hòa Liên bang Tanzania"
+   },
+   "countryThailand": {
+      "message": "Thái Lan"
+   },
+   "countryTimorLeste": {
+      "message": "Timor-Leste"
+   },
+   "countryTitle": {
+      "message": "Quốc gia"
+   },
+   "countryTogo": {
+      "message": "Togo"
+   },
+   "countryTokelau": {
+      "message": "Tokelau"
+   },
+   "countryTonga": {
+      "message": "Tonga"
+   },
+   "countryTrinidadandTobago": {
+      "message": "Trinidad và Tobago"
+   },
+   "countryTunisia": {
+      "message": "Tunisia"
+   },
+   "countryTurkey": {
+      "message": "Thổ Nhĩ Kỳ"
+   },
+   "countryTurkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "countryTurksandCaicosIslands": {
+      "message": "Quần đảo Turks và Caicos"
+   },
+   "countryTuvalu": {
+      "message": "Tuvalu"
+   },
+   "countryUganda": {
+      "message": "Uganda"
+   },
+   "countryUkraine": {
+      "message": "Ukraina"
+   },
+   "countryUnitedArabEmirates": {
+      "message": "Các Tiểu Vương Quốc Ả Rập Thống Nhất"
+   },
+   "countryUnitedKingdom": {
+      "message": "Vương quốc Anh"
+   },
+   "countryUnitedStates": {
+      "message": "Hoa Kỳ"
+   },
+   "countryUnitedStatesMinorOutlyingIslands": {
+      "message": "Quần đảo nhỏ xa xôi hẻo lánh của Hoa Kỳ"
+   },
+   "countryUnitedStatesWorldwide": {
+      "message": "Hoa Kỳ / Toàn cầu"
+   },
+   "countryUruguay": {
+      "message": "Uruguay"
+   },
+   "countryUzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "countryVanuatu": {
+      "message": "Vanuatu"
+   },
+   "countryVenezuelaBolivarianRepublicof": {
+      "message": "Venezuela, Cộng hòa Bolivia"
+   },
+   "countryVietnam": {
+      "message": "Việt Nam"
+   },
+   "countryVirginIslandsBritish": {
+      "message": "Quần đảo Virgin, Anh"
+   },
+   "countryVirginIslandsUS": {
+      "message": "Quần đảo Virgin, Hoa Kỳ"
+   },
+   "countryWallisandFutuna": {
+      "message": "Wallis và Futuna"
+   },
+   "countryWesternSahara": {
+      "message": "Phía tây Sahara"
+   },
+   "countryYemen": {
+      "message": "Yemen"
+   },
+   "countryZambia": {
+      "message": "Zambia"
+   },
+   "countryZimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "countrylandIslands": {
+      "message": "Quần đảo Aland"
+   },
+   "createAccountTitle": {
+      "message": "Tạo Tài Khoản"
+   },
+   "createNewCommentTemplateTitle": {
+      "message": "Tạo Mẫu Bình Luận Mới"
+   },
+   "createNewTitle": {
+      "message": "Tạo Mới"
+   },
+   "createThumbnailTitle": {
+      "message": "Tạo Hình Thu Nhỏ"
+   },
+   "createTitle": {
+      "message": "Tạo  "
+   },
+   "createdAtStatLabel": {
+      "message": "Được sáng tạo tại"
+   },
+   "createdCampaign": {
+      "message": "Đã tạo chiến dịch"
+   },
+   "creatorSuggestedStatLabel": {
+      "message": "đề xuất cho nhà sáng tạo"
+   },
+   "creatorSuggestedTooltip": {
+      "message": "Đề xuất của Nhà sáng tạo: Số video trong mục \\\"Tiếp theo\\\" từ kênh của nhà sáng tạo. Cho thấy nhà sáng tạo đã được tối ưu hoá tốt như thế nào để giữ người dùng."
+   },
+   "crowdfundingTitle": {
+      "message": "Huy động vốn từ cộng đồng"
+   },
+   "csvExportTitle": {
+      "message": "Xuất CSV"
+   },
+   "ctaBookTravel": {
+      "message": "Đặt Vé Du Lịch"
+   },
+   "ctaDownload": {
+      "message": "Tải Về"
+   },
+   "ctaLearnMore": {
+      "message": "Tìm Hiểu Thêm"
+   },
+   "ctaNoButton": {
+      "message": "Không"
+   },
+   "ctaShopNow": {
+      "message": "Mua Ngay"
+   },
+   "ctaSignUp": {
+      "message": "Đăng Ký"
+   },
+   "ctaTitle": {
+      "message": "Cần hành động"
+   },
+   "ctaURLTitle": {
+      "message": "Cần hành động cho URL"
+   },
+   "ctaWatchMore": {
+      "message": "Xem Thêm"
+   },
+   "currentCampaignTitle": {
+      "message": "Chiến Dịch Hiện Tại"
+   },
+   "currentThumbnailTitle": {
+      "message": "Hình thu nhỏ hiện tại"
+   },
+   "custom": {
+      "message": "Tuỳ Chọn"
+   },
+   "customThumbnail": {
+      "message": "Hình Đại diện Tuỳ chỉnh"
+   },
+   "customThumbnailChannelAuditEdit": {
+      "message": "Cập nhật Hình Thu Nhỏ"
+   },
+   "customThumbnailChannelAuditHas": {
+      "message": "Hình thu nhỏ Tuỳ chỉnh đã được Đăng tải"
+   },
+   "customThumbnailChannelAuditMissing": {
+      "message": "Không có Hình thu nhỏ Tuỳ chỉnh"
+   },
+   "customThumbnailChannelAuditMissingMessage": {
+      "message": "Đăng tải một Hình thu nhỏ Tuỳ chỉnh"
+   },
+   "customThumbnailMissingInfo": {
+      "message": "Những video đã được liệt kê không có hình ảnh thu nhỏ tuỳ chỉnh. Chúng tôi gợi ý thêm chúng cho mọi video."
+   },
+   "customThumbnailMissingSubtextBad": {
+      "message": "Đăng tải hình thu nhỏ tự tạo cho tất cả video của bạn"
+   },
+   "customThumbnailMissingSubtextGood": {
+      "message": "Tất cả video của bạn đều có hình thu nhỏ tự tạo!"
+   },
+   "customThumbnailMissingTitle": {
+      "message": "Video Không Có Hình Thu Nhỏ Tuỳ Chỉnh"
+   },
+   "customThumbnailUsageNotice": {
+      "message": "Để sử dụng hình thu nhỏ tuỳ chỉnh, tài khoản của bạn phải $start$được xác thực và hình ảnh phải tốt$end$",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "customUrlWarning": {
+      "message": "URLs theo tuỳ chọn có thể dẫn đến viêc lưu không thành công"
+   },
+   "dashboardTitle": {
+      "message": "Bảng Điều Khiển"
+   },
+   "datePublishedTitle": {
+      "message": "Ngày Phát Hành"
+   },
+   "day": {
+      "message": "ngày"
+   },
+   "dayAbbreviation": {
+      "message": "n"
+   },
+   "daysIntervalOption": {
+      "message": "Ngày  "
+   },
+   "default": {
+      "message": "Mặc định"
+   },
+   "deleteAllKeywordsQ": {
+      "message": "Xoá tất cả từ khoá?"
+   },
+   "deleteNThings": {
+      "message": "xoá $n$ $thing$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "thing": {
+            "content": "$2"
+         }
+      }
+   },
+   "deleteOneThing": {
+      "message": "Xisửa 1 $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTheTemplate": {
+      "message": "Xoá mẫu \"$template$\"?",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTitle": {
+      "message": "Xoá"
+   },
+   "descAverageSubtextBad": {
+      "message": "Độ dài mô tả trung bình của bạn quá ngắn. Hãy tạo mô tả với ít nhất 300 ký tự."
+   },
+   "descAverageSubtextGood": {
+      "message": "Độ dài mô tả trung bình của bạn là tốt!"
+   },
+   "descChannelAuditEdit": {
+      "message": "Cập nhật Mô tả"
+   },
+   "descLengthChannelAuditTitle": {
+      "message": "Độ Dài Mô Tả"
+   },
+   "descLinkCountStatLabel": {
+      "message": "số link trong mô tả"
+   },
+   "descWordCountStatLabel": {
+      "message": "số từ trong mô tả"
+   },
+   "descWordCountTooltip": {
+      "message": "Đây là số từ có được từ mô tả video."
+   },
+   "description": {
+      "message": "Mô tả"
+   },
+   "descriptionCampaignIntro": {
+      "message": "Tạo một Chiến dịch Mô tả để thêm nội dung chiến dịch đặc biệt vào mô tả video của bạn. Các chiến dịch đang được áp dụng có thể được ngưng để chuyển về trạng thái ban đầu."
+   },
+   "descriptionCampaignsTitle": {
+      "message": "Chiến Dịch Mô Yả"
+   },
+   "descriptionsTitle": {
+      "message": "Mô tả"
+   },
+   "desktopTitle": {
+      "message": "Desktop"
+   },
+   "disableInlineKeywords": {
+      "message": "Tắt Từ Khoá Inline"
+   },
+   "disableKeyboardControls": {
+      "message": "Tắt điều khiển bằng bàn phím"
+   },
+   "dislikes": {
+      "message": "không thích"
+   },
+   "dismissWarningsTitle": {
+      "message": "Bỏ Qua Cảnh Báo"
+   },
+   "domainNameTitle": {
+      "message": "Tên Miền"
+   },
+   "donationTitle": {
+      "message": "Quyên góp"
+   },
+   "doneExclaim": {
+      "message": "Xong!"
+   },
+   "doneTitle": {
+      "message": "Đã Xong"
+   },
+   "dontForgetRefresh": {
+      "message": "Đừng quên làm mới màn hình sau khi nâng cấp!"
+   },
+   "doubleDownChannelAuditError": {
+      "message": "Tải lên nhiều video hơn để xem số liệu như video có VPH hàng đầu và cụm từ tìm kiếm hàng đầu trong 30 ngày qua"
+   },
+   "download": {
+      "message": "Tải về"
+   },
+   "downloadCSVTitle": {
+      "message": "Tải CSV"
+   },
+   "downloadFileTitle": {
+      "message": "Tải File Xuống"
+   },
+   "downloadName": {
+      "message": "Xuất file CSV vidIQ cho $id$",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "dragDropKeywordsTitle": {
+      "message": "Kéo & Thả Từ Khoá"
+   },
+   "dropFileHere": {
+      "message": "Thả file vào đây, hay nhấp để tìm file"
+   },
+   "dropdownAddCompetitor": {
+      "message": "Thêm đối thủ"
+   },
+   "dropdownRemoveCompetitor": {
+      "message": "Xoá đối thủ"
+   },
+   "durationStatLabel": {
+      "message": "thời gian"
+   },
+   "edit": {
+      "message": "Chỉnh sửa"
+   },
+   "editDetailsTask": {
+      "message": "chỉnh sửa thông tin cho $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editNThings": {
+      "message": "chỉnh sửa $n$ $thing$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "thing": {
+            "content": "$2"
+         }
+      }
+   },
+   "editName": {
+      "message": "Chỉnh sửa tên"
+   },
+   "editOneThing": {
+      "message": "chỉnh sửa 1 $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "editSelectedObjectTitle": {
+      "message": "Chỉnh Sửa Đối Tượng Được Chọn"
+   },
+   "editThumbnailsTask": {
+      "message": "chỉnh sửa hình thu nhỏ cho $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "emailAddressInvalid": {
+      "message": "Địa chỉ email phải tồn tại"
+   },
+   "emailSuggestion": {
+      "message": "Có phải ý của bạn là \u003Cstrong>\u003C/strong>?"
+   },
+   "emailTaken": {
+      "message": "Email đó đã được sử dụng. Vui lòng thử lại với một email khác."
+   },
+   "emailTitle": {
+      "message": "Email"
+   },
+   "emailsMustMatch": {
+      "message": "Email phải chính xác"
+   },
+   "embedCodeCopy": {
+      "message": "Mã nhúng (nhấp để sao chép)"
+   },
+   "embedSourcesTitle": {
+      "message": "Nguồn Mã Nhúng"
+   },
+   "embedSrcsTooltip": {
+      "message": "Đây là số link có liên kết với trang này"
+   },
+   "embeddableTitle": {
+      "message": "Có thể nhúng"
+   },
+   "embeddedViewsStatLabel": {
+      "message": "lượt xem từ mã nhúng"
+   },
+   "emojiMenusTitle": {
+      "message": "Danh Sách Biểu Tượng"
+   },
+   "enableInlineKeywords": {
+      "message": "Bật Từ Khoá Inline"
+   },
+   "enablePrivacy": {
+      "message": "Bật tăng cường bảo mật (vd không có cookies) "
+   },
+   "endScreens": {
+      "message": "màn hình kết thúc"
+   },
+   "endscreenClickRates": {
+      "message": "Tỷ lệ Nhấp vào Màn hình Kết thúc"
+   },
+   "endscreensChannelAuditEdit": {
+      "message": "Cập nhật Màn Hình Kết Thúc"
+   },
+   "endscreensChannelAuditHas": {
+      "message": "Video có $numEndscreens$ màn hình kết thúc",
+      "placeholders": {
+         "numEndscreens": {
+            "content": "$1"
+         }
+      }
+   },
+   "endscreensChannelAuditInfo": {
+      "message": "Ở cuối mỗi video, người xem có thể nhấp vào thẻ bạn cho họ xem."
+   },
+   "endscreensChannelAuditMissing": {
+      "message": "Không có Màn hình Kết thúc"
+   },
+   "endscreensChannelAuditMissingMessage": {
+      "message": "Thêm ít nhất một màn hình kết thúc"
+   },
+   "endscreensMissingInfo": {
+      "message": "Những video đã được liệt kê không có màn hình kết thúc. Chúng tôi gợi ý thêm chúng cho mọi video."
+   },
+   "endscreensMissingSubtextBad": {
+      "message": "Thêm màn hình kết thúc vào tất cả video của bạn"
+   },
+   "endscreensMissingSubtextGood": {
+      "message": "Không có màn hình kết thúc bị sót trên video của bạn!"
+   },
+   "endscreensMissingTitle": {
+      "message": "Video Không Có Màn Hình Kết Thúc"
+   },
+   "engagementBreakdownTitle": {
+      "message": "Phân Tích Gắn Kết"
+   },
+   "engagementRateER": {
+      "message": "TLGK"
+   },
+   "engagementRatePopoverText": {
+      "message": "Một thước đo sự gắn kết được tính theo tỷ lệ phần trăm của tổng lượt xem\n"
+   },
+   "engagementRateStatLabel": {
+      "message": "tỷ lệ gắn kết"
+   },
+   "engagementRateTitle": {
+      "message": "Tỷ Lệ Gắn Kết"
+   },
+   "engagementRateTooltip": {
+      "message": "Tỷ lệ gắn kết (TLGK) là số đo về những gắn kết đã đạt được theo một tỷ lệ trên tổng lượt xem."
+   },
+   "engagementsStatLabel": {
+      "message": "gắn kết"
+   },
+   "engagementsTitle": {
+      "message": "Gắn Kết"
+   },
+   "enterMessageNote": {
+      "message": "Điền một in nhắn dưới đây để xem hộp featured badge trông sẽ như thế nào"
+   },
+   "enterText": {
+      "message": "Nhập nội dung"
+   },
+   "enterYourMessage": {
+      "message": "Nhập tin nhắn của bạn"
+   },
+   "errorOrNoEmail": {
+      "message": "Có lỗi xảy ra hay email này không tồn tại"
+   },
+   "errorPlural": {
+      "message": "lỗi"
+   },
+   "errorSingular": {
+      "message": "lỗi"
+   },
+   "estimatedEarningsStatLabel": {
+      "message": "thu nhập ước tính"
+   },
+   "estimatedEarningsTooltip": {
+      "message": "Thu nhập ước tính được tính theo 1,5usd/1.000 nhấp chuột cho video này."
+   },
+   "estimatedMonthlyRevenueStatLabel": {
+      "message": "≈ doanh thu hàng tháng"
+   },
+   "estimatedRevenue": {
+      "message": "doanh thu ước tính"
+   },
+   "estimatedRevenueStatLabel": {
+      "message": "doanh thu ước tính   "
+   },
+   "estimatedTime": {
+      "message": "$timeFromNow$ (ước tính)",
+      "placeholders": {
+         "timeFromNow": {
+            "content": "$1"
+         }
+      }
+   },
+   "exampleTemplateName": {
+      "message": "Tên (vd: my-template-1)"
+   },
+   "expandAllTitle": {
+      "message": "Mở Rộng Tất Cả"
+   },
+   "expandNoneTitle": {
+      "message": "Không Mở Rộng"
+   },
+   "expandedTitle": {
+      "message": "Mở Rộng"
+   },
+   "exportExplainMine": {
+      "message": "Dùng tính năng này để tải tất cả dữ liệu video chưa đưa vào danh sách, dữ liệu riêng và dữ liệu công khai của bạn trong file CSV"
+   },
+   "exportExplainMineLimited": {
+      "message": "Dùng tính năng này để tải một vài dữ liệu video công khai của \u003Cb>$channel$\u003C/b> trong file CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirs": {
+      "message": "Dùng tính năng này để tải tất cả dữ liệu video công khai của \u003Cb>$channel$\u003C/b> trong file CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirsLimited": {
+      "message": "Sử dụng tính năng này để tải một vài số liệu video công khai của kênh \u003Cb>$channel$\u003C/b> dưới dạng file CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportMyVideos": {
+      "message": "Xuất tất cả video của tôi"
+   },
+   "exportTheirVideos": {
+      "message": "Xuất tất cả video của họ"
+   },
+   "exportUpTo": {
+      "message": "Xuất lên đến $limit\" video"
+   },
+   "exportedNVideos": {
+      "message": "Xuất \u003Cb>$n$ video\u003C/b> trong \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "exportedOneVideo": {
+      "message": "Xuất \u003Cb>1 video\u003C/b> trong \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionSettingsTitle": {
+      "message": "Cài đặt Tiện Ích Mở Rộng"
+   },
+   "facebookApiChanges": {
+      "message": "Gần đây Facebook đã thay đổi API yêu cầu xác thực trực tiếp từ người dùng. Cám ơn bạn đã thông cảm."
+   },
+   "facebookAuthTitle": {
+      "message": "Xác Thực Với Facebook"
+   },
+   "facebookFollowersStatLabel": {
+      "message": "người theo dõi trên facebook"
+   },
+   "facebookGetMoreStats": {
+      "message": "Hãy liên kết để có thêm các thống kê \u003Cb>FB\u003C/b> "
+   },
+   "facebookPageTitle": {
+      "message": "Trang Facebook"
+   },
+   "facebookSyndicationComplete": {
+      "message": "Việc đồng bộ đã hoàn thành!"
+   },
+   "facebookSyndicationTitle": {
+      "message": "Đồng bộ Facebook."
+   },
+   "facebookTitle": {
+      "message": "Facebook"
+   },
+   "facebookVideoSettingsTitle": {
+      "message": "Cài Đặt Video Facebook"
+   },
+   "failedToLoadAnnsNoAnns": {
+      "message": "Không tải chú thích thành công: Không có chú thích tồn tại cho mẫu này"
+   },
+   "failedToLoadAnnsNoVideo": {
+      "message": "Không tải chú thích thành công: Video không còn tồn tại"
+   },
+   "failedToLoadAnnsOther": {
+      "message": "Không tải chú thích thành công: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToLoadCardsNoCards": {
+      "message": "Không tải thẻ thành công: Không có thẻ tồn tại cho mẫu này"
+   },
+   "failedToLoadCardsNoVideo": {
+      "message": "Không tải thẻ thành công: Video không còn tồn tại"
+   },
+   "failedToLoadCardsOther": {
+      "message": "Không tải thẻ thành công: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "fbCommentsStatTitle": {
+      "message": "Lượt Bình Luận Facebook"
+   },
+   "fbEngagementsStatLabel": {
+      "message": "gắn kết fb"
+   },
+   "fbEngagementsTooltip": {
+      "message": "Bao gồm thích, chia sẻ, và bình luận. Do sự giới hạn của FB, chúng tôi không thể có những báo cáo riêng lẻ cho mỗi chỉ số."
+   },
+   "fbErrorCode100Message": {
+      "message": "Tham số không hợp lệ"
+   },
+   "fbErrorCode102Message": {
+      "message": "Từ khoá của phiên giao dịch không có hay "
+   },
+   "fbErrorCode104Message": {
+      "message": "Chữ ký không đúng"
+   },
+   "fbErrorCode10Message": {
+      "message": "Ứng dụng chưa được cấp phép cho hành động này"
+   },
+   "fbErrorCode1357005Message": {
+      "message": "Thông số yêu cầu do người dùng cung cấp không khớp với các loại được chỉ định trong param_get/param_post.\r\n"
+   },
+   "fbErrorCode1363005Message": {
+      "message": "Không được phép chỉnh sửa video. Bạn thiếu quyền chỉnh sửa video này.\r\n"
+   },
+   "fbErrorCode1363005Suggestion": {
+      "message": "Cần thêm tên tệp vào thông số\r\n"
+   },
+   "fbErrorCode1363011Message": {
+      "message": "Lỗi khi lưu trữ hoặc chỉnh sửa video: Đã xảy ra lỗi lưu trữ hoặc chỉnh sửa video. Vui lòng thử lại."
+   },
+   "fbErrorCode1363011Suggestion": {
+      "message": "Thử đăng lại."
+   },
+   "fbErrorCode1363019Message": {
+      "message": "Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử tải lên lại.\r\n"
+   },
+   "fbErrorCode1363019Suggestion": {
+      "message": "Thử tải lên lại.\r\n"
+   },
+   "fbErrorCode1363020Message": {
+      "message": "Không có video nào được chọn. Vui lòng chọn video bạn muốn tải lên."
+   },
+   "fbErrorCode1363020Suggestion": {
+      "message": "Cần thêm tên tệp vào thông số\r\n"
+   },
+   "fbErrorCode1363021Message": {
+      "message": "Sự cố tải video lên: Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử lại.\r\n"
+   },
+   "fbErrorCode1363021Suggestion": {
+      "message": "Thử tải lên lại"
+   },
+   "fbErrorCode1363022Message": {
+      "message": "Video quá nhỏ: Video bạn đã cố tải lên quá nhỏ. Kích thước tối thiểu cho video là 1 KB. Vui lòng thử lại bằng một tệp lớn hơn."
+   },
+   "fbErrorCode1363022Suggestion": {
+      "message": "Cung cấp video có kích thước tối thiểu.\n"
+   },
+   "fbErrorCode1363023Message": {
+      "message": "Video quá lớn: Video bạn đã cố tải lên quá lớn. Kích thước tối đa cho video là 2 GB. Vui lòng thử lại bằng một tệp nhỏ hơn."
+   },
+   "fbErrorCode1363023Suggestion": {
+      "message": "Cung cấp video dưới kích thước cho phép tối đa.\r\n"
+   },
+   "fbErrorCode1363024Message": {
+      "message": "Định dạng video không được hỗ trợ: Video bạn cố tải lên ở định dạng không được hỗ trợ. Vui lòng thử lại bằng video ở định dạng được hỗ trợ, hãy xem Tham khảo API Đồ thị, Định dạng được hỗ trợ.\r\n"
+   },
+   "fbErrorCode1363024Suggestion": {
+      "message": "Cung cấp định dạng được hỗ trợ."
+   },
+   "fbErrorCode1363025Message": {
+      "message": "Video quá ngắn: Video bạn đã cố tải lên quá ngắn. Thời lượng tối thiểu cho video là 1 giây. Vui lòng tải video dài hơn lên.\r\n"
+   },
+   "fbErrorCode1363025Suggestion": {
+      "message": "Cung cấp video có thời lượng tối thiểu\r\n"
+   },
+   "fbErrorCode1363026Message": {
+      "message": "Video quá dài. Video bạn đã cố tải lên quá dài. Thời lượng tối đa cho video là 40 phút. Vui lòng tải video ngắn hơn lên.\r\n"
+   },
+   "fbErrorCode1363026Suggestion": {
+      "message": "Cung cấp video dưới thời lượng tối đa\r\n"
+   },
+   "fbErrorCode1363030Message": {
+      "message": "        \nHết thời gian chờ tải video lên. Quá trình tải video lên của bạn đã hết thời gian chờ trước khi hoàn tất. Đây có lẽ là do kết nối mạng chậm hoặc bởi video quá lớn. Vui lòng thử lại."
+   },
+   "fbErrorCode1363030Suggestion": {
+      "message": "Sửa sự cố, sau đó tải lên lại.\r\n"
+   },
+   "fbErrorCode1363031Message": {
+      "message": "Không phát hiện thấy video nào. Có vẻ như bạn đang tải lên một tệp không phải là video. Vui lòng thử tải lên định dạng được hỗ trợ. Xem Tham khảo API Đồ thị, Định dạng video\r\n"
+   },
+   "fbErrorCode1363031Suggestion": {
+      "message": "Cung cấp định dạng được hỗ trợ"
+   },
+   "fbErrorCode1363032Message": {
+      "message": "Không phát hiện thấy video nào. Có vẻ như bạn đang tải lên một tệp không phải là video. Vui lòng thử tải lên định dạng được hỗ trợ. Xem Tham khảo API Đồ thị, Định dạng video\r\n"
+   },
+   "fbErrorCode1363032Suggestion": {
+      "message": "Cung cấp định dạng được hỗ trợ\r\n"
+   },
+   "fbErrorCode1363033Message": {
+      "message": "Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử tải lên lại.\n"
+   },
+   "fbErrorCode1363033Suggestion": {
+      "message": "Thường là do sự cố kết nối khiến máy chủ nhận được tệp một phần. Cần thử lại.\r\n"
+   },
+   "fbErrorCode1363037Message": {
+      "message": "Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử tải lên lại.\r\n"
+   },
+   "fbErrorCode1363037Suggestion": {
+      "message": "Trả về khi máy chủ nhận được phần bù bắt đầu không hợp lệ từ máy khách. Thử tải lại mảng đã thành công trước đó."
+   },
+   "fbErrorCode1363041Message": {
+      "message": "Lỗi tải video lên: Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử tải lên lại."
+   },
+   "fbErrorCode1363041Suggestion": {
+      "message": "Kiểm tra để đảm bảo rằng bạn không sử dụng id phiên tải lên đã hết hạn."
+   },
+   "fbErrorCode1363042Message": {
+      "message": "Không được phép tải video lên: Bạn không có quyền tải video lên tại đây."
+   },
+   "fbErrorCode1363042Suggestion": {
+      "message": "Nhận mã truy cập hợp lệ. Xem Mã truy cập\n"
+   },
+   "fbErrorCode1363045Message": {
+      "message": "Đã xảy ra sự cố khi tải video của bạn lên. Vui lòng thử tải lên lại."
+   },
+   "fbErrorCode1363045Suggestion": {
+      "message": "Video tải lên không khớp với kích thước. Ví dụ: ai đó bắt đầu phiên tải lên để tải tệp 1MB lên nhưng tải lên dữ liệu hơn 1MB."
+   },
+   "fbErrorCode1607002Message": {
+      "message": "Ngày không hợp lệ, TIMELINE__INVALID_TIME_TOO_EARLY. Bạn không thể đăng lên khoảng thời gian đó."
+   },
+   "fbErrorCode1607002Suggestion": {
+      "message": "Thay đổi thành ngày sau đó."
+   },
+   "fbErrorCode1607004Message": {
+      "message": "Ngày cho sẵn sớm hơn ngày sinh của Người dùng.\r\n"
+   },
+   "fbErrorCode1607004Suggestion": {
+      "message": "Kiểm tra và xác minh rằng ngày là đúng rồi thử đăng lại"
+   },
+   "fbErrorCode1611177Message": {
+      "message": "Không được phép đính kèm hành động với vùng chứa: Bạn không được phép đăng hành động với số vùng chứa"
+   },
+   "fbErrorCode1611177Suggestion": {
+      "message": "Đảm bảo mã truy cập của bạn có quyền publish_actions\r\n"
+   },
+   "fbErrorCode1617003Message": {
+      "message": "Quá nhiều thẻ của người dùng: Rất tiếc, chúng tôi không thể lưu thẻ của bạn vì video này đã được gắn thẻ số người tối đa được phép. Vui lòng xem trang Câu hỏi thường gặp về gắn thẻ."
+   },
+   "fbErrorCode1617003Suggestion": {
+      "message": "Giới hạn các thẻ được phép."
+   },
+   "fbErrorCode1617005Message": {
+      "message": "Không thể thêm thẻ: Bạn không có quyền thêm thẻ này.\r\n"
+   },
+   "fbErrorCode1617005Suggestion": {
+      "message": "Xem Quyền về Đăng nhập Facebook."
+   },
+   "fbErrorCode1617006Message": {
+      "message": "Đã được gắn thẻ: Người dùng hoặc trang chỉ định đã được gắn thẻ trong video này."
+   },
+   "fbErrorCode17Message": {
+      "message": "Đã đạt hạn mức yêu cầu của người dùng"
+   },
+   "fbErrorCode190Message": {
+      "message": "Mã Truy Cập OAuth 2.0 không đúng"
+   },
+   "fbErrorCode1Message": {
+      "message": "Một lỗi chưa được biết đã xảy ra"
+   },
+   "fbErrorCode200Message": {
+      "message": "Lỗi cấp phép"
+   },
+   "fbErrorCode6000Message": {
+      "message": "\t\r\nĐã xảy ra sự cố khi tải tệp video của bạn lên. Vui lòng thử lại với tệp khác."
+   },
+   "fbErrorCode6000Suggestion": {
+      "message": "Thử lại vài lần và báo cáo lỗi nếu giải pháp này vẫn không có tác dụng.\r\n"
+   },
+   "fbLikeVidIQ": {
+      "message": "Thích \u003Cb>vidIQ\u003C/b> trên Facebook?"
+   },
+   "fbLikesStatLabel": {
+      "message": "lượt thích fb"
+   },
+   "fbLikesStatTitle": {
+      "message": "Lượt Thích Facebook"
+   },
+   "fbLikesTooltipPopular": {
+      "message": "Video này được thích rất nhiều trên Facebook!"
+   },
+   "fbLikesTooltipUnpopular": {
+      "message": "Video này không có tỷ lệ thích nhiều trên Facebook."
+   },
+   "fbSharesCommentsStatLabel": {
+      "message": "bình luận + chia sẻ fb "
+   },
+   "fbSharesStatTitle": {
+      "message": "Lượt Chia Sẻ Facebook"
+   },
+   "fbStatusDuplicate": {
+      "message": "Video này bị lặp lại"
+   },
+   "fbStatusPending": {
+      "message": "Đang xử lý. Video được yêu cầu đồng bộ"
+   },
+   "fbStatusPrimed": {
+      "message": "Đã sẵn sàng đồng bộ theo lệnh của bạn!"
+   },
+   "fbStatusSyndicating": {
+      "message": "Đang đồng bộ. Chúng tôi đang chuyển video của bạn đến Facebook."
+   },
+   "fbStatusWaiting": {
+      "message": "Đang đợi. Bạn có thể chỉnh sửa thông tin"
+   },
+   "featureFail": {
+      "message": "\u003Cb>Uh oh, video của bạn không thể được làm nổi bật!\u003C/b> Vui lòng lưu ý rằng bạn bạn có thể làm nổi bật video này nếu chúng được công khai hay không được lên danh sách. Để thử làm nổi bật video này thủ công, vui lòng xem truy cập \u003Ca$atag$>$url$\u003C/a>.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featureSuccess": {
+      "message": "\u003Cb>Thành công, video của bạn hiện đã được làm nổi bật!\u003C/b> Để cập nhật hay huỷ video này, vào \u003Ca$atag$>$url$\u003C/a>.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featureThisVideoTitle": {
+      "message": "Làm Nổi Bật Video Này "
+   },
+   "featuredContentNote": {
+      "message": "Nội dung nổi bật là một chương trình quảng cáo miễn phí của YouTube xuất hiện gần dưới video của bạn. Nó giúp chuyển người xem của bạn đến một video khác của bạn."
+   },
+   "feedbackTextareaPlaceholder": {
+      "message": "Hãy nói cho chúng tôi biết bạn thích hay không thích điều gì. Chúng tôi muốn nghe phản hồi của BẠN để chúng tôi có thể làm mọi việc tốt hơn!"
+   },
+   "fieldIsRequired": {
+      "message": "Cần điền trường này"
+   },
+   "fileChosen": {
+      "message": "File được chọn"
+   },
+   "fileTitle": {
+      "message": "File"
+   },
+   "filterByList": {
+      "message": "Lọc theo danh sách cách bởi dấu phẩy"
+   },
+   "filterByPlaylist": {
+      "message": "Lọc theo danh sách phát"
+   },
+   "filterBySubscribers": {
+      "message": "Lọc bình luận theo số người đăng ký"
+   },
+   "filterNItems": {
+      "message": "Lọc $n$ mục",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "filterOneItem": {
+      "message": "Lọc 1 mục"
+   },
+   "filterOutPhrases": {
+      "message": "Lọc cụm từ..."
+   },
+   "filterOutVideos": {
+      "message": "Lọc video..."
+   },
+   "firstPage": {
+      "message": "Trang đầu tiên ($vids$)",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "forgotPassword": {
+      "message": "Quyên mật khẩu của bạn?"
+   },
+   "found": {
+      "message": "Tìm thấy"
+   },
+   "foundControversialKeywords": {
+      "message": "Việc dùng những từ khoá gây tranh cãi này có thể dẫn đến việc bị gắn cờ tự động để tắt kiếm tiền."
+   },
+   "fullNameTitle": {
+      "message": "Tên Đầy Đủ"
+   },
+   "fundraisingTitle": {
+      "message": "Gây Quỹ"
+   },
+   "gameConsoleTitle": {
+      "message": "Thiết Bị Game"
+   },
+   "getMoreViews": {
+      "message": "Nhận được nhiều lượt xem hơn cho video này"
+   },
+   "getStarted": {
+      "message": "Bắt đầu"
+   },
+   "getTopKeywordAccess": {
+      "message": "Khi biết những video thịnh hành và những từ khoá liên quan hàng đầu, bạn có thể áp dụng để cải thiện thứ hạng của video trong kết quả tìm kiếm."
+   },
+   "getVidiqPro": {
+      "message": "Nâng cấp lên vidIQ Pro ngay"
+   },
+   "googlePlusStatLabel": {
+      "message": "google plus"
+   },
+   "googlePlusStatTitle": {
+      "message": "Google+"
+   },
+   "growthChannelAuditError": {
+      "message": "Đăng tải thêm video để xem phần trăm thay đổi cho lượt xem, lượt đăng ký đạt được, và thời giam xem cho kênh của bạn trong 30 ngày qua. \u003Cbr>\u003Cbr> Lưu ý: nếu bạn gặp phải lỗi ngoài mong muốn, hãy thử tắt trình chặn quảng cáo và tải lại."
+   },
+   "hasReplies": {
+      "message": "Đã câu trả lời"
+   },
+   "heartedComment": {
+      "message": "Bình luận được Thích"
+   },
+   "help": {
+      "message": "Trợ giúp"
+   },
+   "hide": {
+      "message": "Ẩn"
+   },
+   "hideChannelInfoTitle": {
+      "message": "Ẩn Thông Tin Kênh"
+   },
+   "hideKwinsTitle": {
+      "message": "Ẩn Kiểm Tra Từ Khoá"
+   },
+   "hideYouTubeLogo": {
+      "message": "Ẩn logo YouTube"
+   },
+   "highVolumeRankedTagsStatLabel": {
+      "message": "thẻ tag được xếp hạng cao"
+   },
+   "historical": {
+      "message": "Lịch sử"
+   },
+   "homePageShortcutsTitle": {
+      "message": "Nút Tắt trên Trang Chủ"
+   },
+   "homeTitle": {
+      "message": "Trang chủ"
+   },
+   "hourAbbreviation": {
+      "message": "g"
+   },
+   "hourPlural": {
+      "message": "giờ"
+   },
+   "hourSingular": {
+      "message": "giờ"
+   },
+   "hoursWatchedTitle": {
+      "message": "số giờ đã xem"
+   },
+   "idTitle": {
+      "message": "ID"
+   },
+   "ignoreByList": {
+      "message": "Bỏ qua bởi danh sách ID video"
+   },
+   "imageThumbInfo": {
+      "message": "Để sử dụng một ảnh cho hình nền hình thu nhỏ của bạn, chọn ảnh để đăng tải, hay kéo thả một hình vào hộp."
+   },
+   "imageTitle": {
+      "message": "Hình Ảnh"
+   },
+   "imageTooLarge": {
+      "message": "Hình quá lớn, mức tối đa là $limit$ MB",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "improvePerformanceWithBoost": {
+      "message": "Với \u003Cb>vidIQ Boost\u003C/b>, chúng tôi có thể giúp bạn cải thiện hiệu quả cho video của bạn!"
+   },
+   "improveSearchTagsTooltip": {
+      "message": "Từ khoá được chú trọng để cải thiện lượt xem từ tìm kiếm"
+   },
+   "improveVideosBestTags": {
+      "message": "Cải thiện video của bạn và \u003Cbr>sử dụng từ khoá tốt nhất có thể"
+   },
+   "improveVideosSearchTraffic": {
+      "message": "Cải thiện lượng tìm đến video của bạn."
+   },
+   "improveYourViews": {
+      "message": "Muốn cải thiện lượt xem của bạn?"
+   },
+   "improvementsChannelAuditError": {
+      "message": "Tải lên nhiều video hơn để xem các mục được cải thiện cho các video của bạn trong 30 ngày qua như tổng số thẻ và màn hình kết thúc bị sót"
+   },
+   "includeScreenshot": {
+      "message": "Bao gồm Ảnh chụp Màn hình"
+   },
+   "inconsistent": {
+      "message": "Không nhất quán"
+   },
+   "inlineKeywordsTitle": {
+      "message": "Từ Khoá Inline"
+   },
+   "insertAfter": {
+      "message": "Chèn vào sau"
+   },
+   "insertBefore": {
+      "message": "Chèn vào trước"
+   },
+   "insertReplyTitle": {
+      "message": "Chèn Trả Lời"
+   },
+   "instagramFollowersStatLabel": {
+      "message": "người theo dõi trên instagram"
+   },
+   "interestOverTimeTitle": {
+      "message": "Độ Quan Tâm Trong Thời Gian Qua"
+   },
+   "invalidLogin": {
+      "message": "Địa chỉ email và mật khẩu được cung cấp không có"
+   },
+   "itsFree": {
+      "message": "Miễn phí!"
+   },
+   "iveNotRepliedTo": {
+      "message": "Tôi vẫn chưa trả lời"
+   },
+   "iveRepliedTo": {
+      "message": "Tôi đã trả lời"
+   },
+   "keyword": {
+      "message": "Từ Khoá"
+   },
+   "keywordInspectorTitle": {
+      "message": "Kiểm Tra Từ Khoá"
+   },
+   "keywordRankTooltip": {
+      "message": "Video này được xếp hạng thế nào trên trang Kết quả Tìm kiếm của YouTube khi tìm kiếm từ khoá này"
+   },
+   "keywordScoreTitle": {
+      "message": "Điểm Từ Khoá"
+   },
+   "keywordScoreTooltip": {
+      "message": "Điểm từ khoá giúp đánh giá hiệu quả của từ khoá này trong việc giúp tối đa hoá video của bạn. Nếu bạn có kênh với trên 1 triệu người đăng ký kênh, bạn có thể có khả năng thâm nhập vào những từ khoá có tính cạnh tranh cao. Nếu bạn là kênh nhỏ, bạn nên tập trung vào những từ tìm kiếm trung bình ít cạnh tranh"
+   },
+   "keywordsAverageSubtextBad": {
+      "message": "Độ dài thẻ tag trung bình của bạn quá ngắn. Hãy tạo các thẻ tag với ít nhất 400 ký tự."
+   },
+   "keywordsAverageSubtextGood": {
+      "message": "Độ dài thẻ tag trung bình của bạn là tốt!"
+   },
+   "keywordsChannelAuditEdit": {
+      "message": "Cập nhật Thẻ tag"
+   },
+   "keywordsInDescriptionStatLabel": {
+      "message": "từ khoá trong mô tả"
+   },
+   "keywordsInTitleStatLabel": {
+      "message": "từ khoá trong tiêu đề"
+   },
+   "keywordsTitle": {
+      "message": "Từ Khoá  "
+   },
+   "labelTitle": {
+      "message": "Nhãn"
+   },
+   "langAfrikaans": {
+      "message": "Tiếng Nam Phi"
+   },
+   "langAlbanian": {
+      "message": "Tiếng Albania"
+   },
+   "langAmharic": {
+      "message": "Tiếng Amharic"
+   },
+   "langArabic": {
+      "message": "Tiếng Ả Rập"
+   },
+   "langArmenian": {
+      "message": "Tiếng Armenia"
+   },
+   "langAzerbaijani": {
+      "message": "Tiếng Azerbaijan"
+   },
+   "langBasque": {
+      "message": "Tiếng Basque"
+   },
+   "langBelarusian": {
+      "message": "Tiếng Belarus"
+   },
+   "langBengali": {
+      "message": "Tiếng Bengali"
+   },
+   "langBosnian": {
+      "message": "Tiếng Bosnia"
+   },
+   "langBulgarian": {
+      "message": "Tiếng Bungari"
+   },
+   "langBurmese": {
+      "message": "Miến Điện"
+   },
+   "langCatalan": {
+      "message": "Tiếng Catalan"
+   },
+   "langCebuano": {
+      "message": "Tiếng Cebuano"
+   },
+   "langChichewa": {
+      "message": "Tiếng Chichewa"
+   },
+   "langChinese": {
+      "message": "Tiếng Trung "
+   },
+   "langChineseHongKong": {
+      "message": "Tiếng Trung (Hồng Kông)"
+   },
+   "langChineseSimplified": {
+      "message": "Tiếng Trung (Giản thể)"
+   },
+   "langChineseTaiwan": {
+      "message": "Tiếng Trung (Đài Loan)"
+   },
+   "langChineseTraditional": {
+      "message": "Tiếng Trung (Truyền thống)"
+   },
+   "langCorsican": {
+      "message": "Tiếng Corsican"
+   },
+   "langCroatian": {
+      "message": "Tiếng Croatian"
+   },
+   "langCzech": {
+      "message": "Tiếng Séc"
+   },
+   "langDanish": {
+      "message": "Tiếng Đan Mạch"
+   },
+   "langDutch": {
+      "message": "Tiếng Hà Lan"
+   },
+   "langEnglish": {
+      "message": "Tiếng Anh"
+   },
+   "langEnglishUnitedKingdom": {
+      "message": "Tiếng Anh (Vương quốc Anh)"
+   },
+   "langEsperanto": {
+      "message": "Tiếng Esperanto"
+   },
+   "langEstonian": {
+      "message": "Tiếng Estonia"
+   },
+   "langFilipino": {
+      "message": "Tiếng Philippines"
+   },
+   "langFinnish": {
+      "message": "Tiếng Phần Lan"
+   },
+   "langFrench": {
+      "message": "Tiếng Pháp"
+   },
+   "langFrenchCanada": {
+      "message": "Tiếng Pháp (Canada)"
+   },
+   "langGalician": {
+      "message": "Tiếng Galicia"
+   },
+   "langGeorgian": {
+      "message": "Tiếng Gruzia"
+   },
+   "langGerman": {
+      "message": "Tiếng Đức"
+   },
+   "langGreek": {
+      "message": "Tiếng Hy Lạp"
+   },
+   "langGujarati": {
+      "message": "Tiếng Gujarati"
+   },
+   "langHaitianCreole": {
+      "message": "Tiếng Haiti Creole"
+   },
+   "langHausa": {
+      "message": "Tiếng Hausa"
+   },
+   "langHawaiian": {
+      "message": "Tiếng Hawaii"
+   },
+   "langHebrew": {
+      "message": "Tiếng Hebrew"
+   },
+   "langHindi": {
+      "message": "Tiếng Hindi"
+   },
+   "langHmong": {
+      "message": "Tiếng Hmong"
+   },
+   "langHungarian": {
+      "message": "Tiếng Hungary"
+   },
+   "langIcelandic": {
+      "message": "Tiếng Iceland"
+   },
+   "langIgbo": {
+      "message": "Tiếng Igbo"
+   },
+   "langIndonesian": {
+      "message": "Tiếng Indonesia"
+   },
+   "langIrish": {
+      "message": "Tiếng Ailen"
+   },
+   "langItalian": {
+      "message": "Tiếng Ý"
+   },
+   "langJapanese": {
+      "message": "Tiếng Nhật"
+   },
+   "langJavanese": {
+      "message": "Tiếng Java"
+   },
+   "langKannada": {
+      "message": "Tiếng Kannada"
+   },
+   "langKazakh": {
+      "message": "Tiếng Kazakh"
+   },
+   "langKhmer": {
+      "message": "Tiếng Khmer"
+   },
+   "langKorean": {
+      "message": "Tiếng Hàn "
+   },
+   "langKurdish": {
+      "message": "Tiếng Kurd"
+   },
+   "langKyrgyz": {
+      "message": "Tiếng Kyrgyz"
+   },
+   "langLao": {
+      "message": "Tiếng Lào"
+   },
+   "langLatin": {
+      "message": "Tiếng Latin"
+   },
+   "langLatvian": {
+      "message": "Tiếng Latvian"
+   },
+   "langLithuanian": {
+      "message": "Tiếng Litva"
+   },
+   "langLuxembourgish": {
+      "message": "Tiếng Luxembourg"
+   },
+   "langMacedonian": {
+      "message": "Tiếng Macedonia"
+   },
+   "langMalagasy": {
+      "message": "Tiếng Malagasy"
+   },
+   "langMalay": {
+      "message": "Tiếng Malay"
+   },
+   "langMalayalam": {
+      "message": "Tiếng Malayalam"
+   },
+   "langMaltese": {
+      "message": "Tiếng Maltese"
+   },
+   "langMaori": {
+      "message": "Tiếng Maori"
+   },
+   "langMarathi": {
+      "message": "Tiếng Marathi"
+   },
+   "langMongolian": {
+      "message": "Tiếng Mông Cổ"
+   },
+   "langMyanmarBurmese": {
+      "message": "Tiếng Myanmar (Miến Điện)"
+   },
+   "langNepali": {
+      "message": "Tiếng Nepali"
+   },
+   "langNorwegian": {
+      "message": "Tiếng Na Uy"
+   },
+   "langPashto": {
+      "message": "Tiếng Pashto"
+   },
+   "langPersian": {
+      "message": "Tiếng Ba Tư"
+   },
+   "langPolish": {
+      "message": "Tiếng Ba Lan"
+   },
+   "langPortuguese": {
+      "message": "Tiếng Bồ Đào Nha"
+   },
+   "langPortugueseBrazil": {
+      "message": "Tiếng Bồ Đào Nha (Brazil)"
+   },
+   "langPortuguesePortugal": {
+      "message": "Tiếng Bồ Đào Nha (Bồ Đào Nha)"
+   },
+   "langPunjabi": {
+      "message": "Tiếng Punjabi"
+   },
+   "langRomanian": {
+      "message": "Tiếng Rumani"
+   },
+   "langRussian": {
+      "message": "Tiếng Nga"
+   },
+   "langSamoan": {
+      "message": "Tiếng Samoan"
+   },
+   "langScottishGaelic": {
+      "message": "Tiếng Gaelic Scotland"
+   },
+   "langSerbian": {
+      "message": "Tiếng Serbia"
+   },
+   "langSesotho": {
+      "message": "Tiếng Sesotho"
+   },
+   "langShona": {
+      "message": "Tiếng Shona"
+   },
+   "langSindhi": {
+      "message": "Tiếng Sindhi"
+   },
+   "langSinhala": {
+      "message": "Tiếng Sinhala"
+   },
+   "langSlovak": {
+      "message": "Tiếng Slovak"
+   },
+   "langSlovenian": {
+      "message": "Tiếng Slovenia"
+   },
+   "langSomali": {
+      "message": "Tiếng Somalia"
+   },
+   "langSpanish": {
+      "message": "Tiếng Tây Ban Nha"
+   },
+   "langSpanishLatinAmerica": {
+      "message": "Tiếng Tây Ban Nha (Châu Mỹ La Tinh)"
+   },
+   "langSpanishSpain": {
+      "message": "Tiếng Tây Ban Nha (Tây Ban Nha)"
+   },
+   "langSudanese": {
+      "message": "Tiếng Sudan"
+   },
+   "langSwahili": {
+      "message": "Tiếng Swahili"
+   },
+   "langSwedish": {
+      "message": "Tiếng Thụy Điển"
+   },
+   "langTagalog": {
+      "message": "Tagalog"
+   },
+   "langTajik": {
+      "message": "Tiếng Tajik"
+   },
+   "langTamil": {
+      "message": "Tiếng Tamil"
+   },
+   "langTelugu": {
+      "message": "Tiếng Telugu"
+   },
+   "langThai": {
+      "message": "Tiếng Thái"
+   },
+   "langTurkish": {
+      "message": "Tiếng Thổ Nhĩ Kỳ"
+   },
+   "langUkrainian": {
+      "message": "Tiếng Ucraina"
+   },
+   "langUrdu": {
+      "message": "Tiếng Urdu"
+   },
+   "langUzbek": {
+      "message": "Tiếng Uzbek"
+   },
+   "langVietnamese": {
+      "message": "Tiếng Việt"
+   },
+   "langWelsh": {
+      "message": "Tiếng Welsh"
+   },
+   "langWesternFrisian": {
+      "message": "Tiếng Tây Frisian"
+   },
+   "langXhosa": {
+      "message": "Tiếng Xhosa"
+   },
+   "langYiddish": {
+      "message": "Tiếng Yiddish"
+   },
+   "langYoruba": {
+      "message": "Tiếng Yoruba"
+   },
+   "langZulu": {
+      "message": "Tiếng Zulu"
+   },
+   "last12Months": {
+      "message": "12 tháng vừa qua"
+   },
+   "last30DaysTitle": {
+      "message": "30 Ngày Vừa Qua"
+   },
+   "last48Hours": {
+      "message": "48 giờ gần đây"
+   },
+   "last60Minutes": {
+      "message": "60 phút gần đây"
+   },
+   "last7Days": {
+      "message": "7 ngày gần đây"
+   },
+   "lastDays": {
+      "message": "$n$ Ngày Gần Đây",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastMonth": {
+      "message": "tháng trước"
+   },
+   "lastMonths": {
+      "message": "$n$ Tháng Gần Đây",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastPeriod": {
+      "message": "khoảng thời gian vừa qua"
+   },
+   "lastYearTitle": {
+      "message": "Năm Trước"
+   },
+   "learnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "learnMoreAboutBoost": {
+      "message": "Tìm hiểu thêm về \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "legacyCampaignRunning": {
+      "message": "Bạn đang có một chiến dịch mô tả hoạt động."
+   },
+   "likeRatio": {
+      "message": "Tỷ lệ lượt thích trên tổng lượt thích và không thích"
+   },
+   "likeRatioStatLabel": {
+      "message": "tỷ lệ thích"
+   },
+   "likeToDislikeRatio": {
+      "message": "Tỷ lệ Thích trên Không thích"
+   },
+   "likes": {
+      "message": "thích"
+   },
+   "limitToRangeOptionText": {
+      "message": "Giới hạn với video theo khung giờ"
+   },
+   "limitedCampaign": {
+      "message": "Chiến dịch này sẽ áp dụng vào $num$ video gần đây nhất của bạn.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "link": {
+      "message": "Đường dẫn"
+   },
+   "linkedInStatTitle": {
+      "message": "LinkedIn"
+   },
+   "linkedinStatLabel": {
+      "message": "linkedin"
+   },
+   "listEntryRules": {
+      "message": "Nhập ID hay URL của video, ngăn cách chúng bằng dấu phẩy, hay cách hàng."
+   },
+   "livePreview": {
+      "message": "Xem trước"
+   },
+   "loadByList": {
+      "message": "Tải theo danh sách"
+   },
+   "loadByNumber": {
+      "message": "Tải theo số video"
+   },
+   "loadByPlaylist": {
+      "message": "Tải theo danh sách phát"
+   },
+   "loadMoreTitle": {
+      "message": "Tải Thêm"
+   },
+   "loadPlaylistsTitle": {
+      "message": "Tải Danh Sách Phát"
+   },
+   "loadTemplate": {
+      "message": "Tải mẫu"
+   },
+   "loadTitle": {
+      "message": "Tải"
+   },
+   "loading": {
+      "message": "Đang tải   "
+   },
+   "loadingBatch": {
+      "message": "Tải batch"
+   },
+   "loadingFacebookInfo": {
+      "message": "Đang tải thông tin Facebook"
+   },
+   "loadingVideoDataEllipsis": {
+      "message": "Đang tải dữ liệu của video..."
+   },
+   "loadingVideosEllipsis": {
+      "message": "Đang tải video..."
+   },
+   "loadingVideosTitle": {
+      "message": "Đang Tải Video"
+   },
+   "locations": {
+      "message": "Địa điểm"
+   },
+   "loginExistingAccount": {
+      "message": "Đăng nhập vào tài khoản \u003Cb>vidIQ\u003C/b> hiện có của bạn"
+   },
+   "loginTitle": {
+      "message": "Đăng Nhập"
+   },
+   "loginToUseShortcuts": {
+      "message": "Hãy đăng nhập để dùng shortcut!"
+   },
+   "logoutTitle": {
+      "message": "Đăng xuất"
+   },
+   "longLabel": {
+      "message": "dài"
+   },
+   "loopVideo": {
+      "message": "Vòng lặp video"
+   },
+   "lowestAvgViewTime": {
+      "message": "Thời gian xem Trung bình Thấp"
+   },
+   "lowestAvgViewTimeChannelAuditInfo": {
+      "message": "Đây là những video có thời gian xem trung bình thấp nhất. Chúng tôi khuyên bạn nghiên cứu chúng để quyết định xem bạn có nên thay đổi hay ngừng sản xuất kiểu nội dung này không."
+   },
+   "lowestEngagement": {
+      "message": "Tỷ lệ Gắn kết Thấp nhất"
+   },
+   "lowestEngagementChannelAuditInfo": {
+      "message": "Đây là những video có tỷ lệ gắn kết thấp nhất. Chúng tôi khuyên bạn nên nghiên cứu chúng để xác định xem vì sao tỷ lệ gắn kết thấp như vậy. Bạn đã hỏi câu hỏi nào chưa? Nội dung có đến được với đúng người cần xem không?"
+   },
+   "lowestLikeRatio": {
+      "message": "Tỷ lệ Thích Thấp nhất"
+   },
+   "lowestLikeRatioChannelAuditInfo": {
+      "message": "Khán giả của bạn không phản hồi tốt với những video này. Hãy xem xét chủ đề video và đọc các bình luận để biết lý do vì sao."
+   },
+   "lowestRetention": {
+      "message": "% Giữ chân Người xem Thấp nhất"
+   },
+   "lowestRetentionChannelAuditInfo": {
+      "message": "Đây là những video có tỷ lệ giữ chân người xem thấp nhất. Chúng tôi khuyên bạn nên nghiên cứu những video này để xác định xem liệu bạn có nên thay đổi độ dài hay ngừng sản xuất loại nội dung này không."
+   },
+   "lowestSubscribers": {
+      "message": "Video làm mất Người đăng ký"
+   },
+   "lowestSubscribersChannelAuditInfo": {
+      "message": "Đây là những video làm mất người đăng ký nhiều nhất. Lưu ý: đối với nhiều kênh, phát trực tiếp làm mất người đăng ký nhưng có thời gian xem cao. Hãy cố gắng hiểu vì sao điều này xảy ra và điều chỉnh."
+   },
+   "lowestViews": {
+      "message": "Lượt xem thấp nhất"
+   },
+   "lowestViewsChannelAuditInfo": {
+      "message": "Đây là những video có lượt xem thấp nhất. Chúng tôi khuyên bạn nên nghiên cứu những video này để quyết định xem bạn có nên tiếp tục sản xuất loại nội dung này không."
+   },
+   "manageYourAccount": {
+      "message": "Quản lý tài khoản của bạn"
+   },
+   "markAllForDeletionTitle": {
+      "message": "Chọn Tất Cả Để Huỷ"
+   },
+   "massCSVExportTitle": {
+      "message": "Xuất CSV hàng loạt"
+   },
+   "massEditCardsAndAnns": {
+      "message": "Chỉnh sửa Thẻ & Chú thích hàng loạt"
+   },
+   "massEditCardsAndEnds": {
+      "message": "Chỉnh sửa Thẻ & Màn hình kết thúc hàng loạt"
+   },
+   "massEditThumbnailsTitle": {
+      "message": "Chỉnh sửa hình thu nhỏ hàng loạt"
+   },
+   "massEditVideosTitle": {
+      "message": "Chỉnh Sửa Video Hàng Loạt"
+   },
+   "massLikeFail": {
+      "message": "Thích video hàng loạt không thành công $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "massLikeThisVideo": {
+      "message": "Thích video hàng loạt"
+   },
+   "massLikeTitle": {
+      "message": "Thích Hàng Loạt"
+   },
+   "matches": {
+      "message": "Phù hợp"
+   },
+   "maxRes": {
+      "message": "Sẵn có độ phân giải tối đa"
+   },
+   "mcnStatLabel": {
+      "message": "mcn"
+   },
+   "merchandiseTitle": {
+      "message": "Hàng Hoá"
+   },
+   "message": {
+      "message": "Tin nhắn"
+   },
+   "messagesTitle": {
+      "message": "Tin Nhắn"
+   },
+   "mfaCodeRequestFail": {
+      "message": "Không thể yêu cầu mã xác minh"
+   },
+   "mfaCodeSent": {
+      "message": "Chúng tôi vừa gửi bạn một mã xác minh"
+   },
+   "mfaCodeSentExplain": {
+      "message": "Nếu bạn chưa nhận được nó, bạn có thể yêu cầu lại"
+   },
+   "mfaCodeSubmitFail": {
+      "message": "Không thể gửi mã xác minh"
+   },
+   "mfaComplete": {
+      "message": "Đã hoàn thành uỷ uyền!"
+   },
+   "mfaInfoEmail": {
+      "message": "Theo như yêu cầu, chúng tôi sẽ gửi cho bạn một email với mã xác minh của bạn"
+   },
+   "mfaInfoSMS": {
+      "message": "Theo như yêu cầu, chúng tôi sẽ gửi một tin nhắn SMS với mã xác minh của bạn đến \u003Cb>$phoneNumber$\u003C/b>",
+      "placeholders": {
+         "phoneNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "mfaRequired": {
+      "message": "Cần xác minh hai bước"
+   },
+   "minimumSubs": {
+      "message": "Lượng người đăng ký thấp nhất"
+   },
+   "minuteAbbreviation": {
+      "message": "p"
+   },
+   "minutePlural": {
+      "message": "phút"
+   },
+   "minuteSingular": {
+      "message": "phút"
+   },
+   "minutesWatchedLower": {
+      "message": "số phút đã xem"
+   },
+   "minutesWatchedTitle": {
+      "message": "Số Phút Đã Xem"
+   },
+   "mobileTitle": {
+      "message": "Mobile"
+   },
+   "modalErrorUnauthenticatedButton": {
+      "message": "Xác thực kênh của bạn"
+   },
+   "modalErrorUnauthenticatedHint": {
+      "message": "Hãy nhớ làm mới trang này sau khi bạn xác thực kênh của bạn."
+   },
+   "modalErrorUnauthenticatedMessage": {
+      "message": "Bạn phải uỷ quyền kênh của bạn với vidIQ để sử dụng tính năng này."
+   },
+   "modalErrorUnknownButton": {
+      "message": "Trở lại YouTube"
+   },
+   "modalErrorUnknownMessage": {
+      "message": "Một lỗi không xác định đã xảy ra. Chúng tôi đã lưu ý về lỗi này và sẽ khắc phục nó sớm nhấ có thể."
+   },
+   "modalUpsellButton": {
+      "message": "Nâng cấp tài khoản của tôi"
+   },
+   "modalVideoEngagementRate": {
+      "message": "tỷ lệ gắn kết"
+   },
+   "modalVideoSubsDriven": {
+      "message": "lượng người đăng ký đạt được"
+   },
+   "modeTitle": {
+      "message": "Chế Độ"
+   },
+   "monetizableTooltip": {
+      "message": "Bạn đã hoàn thành yêu cầu về thời gian xem 4.000 giờ để đủ điều kiện tham gia chương trình Đối tác YouTube!"
+   },
+   "monthOverMonth": {
+      "message": "Mỗi tháng (MoM)"
+   },
+   "monthlySearches": {
+      "message": "Tìm kiếm Hàng tháng"
+   },
+   "monthsIntervalOption": {
+      "message": "Tháng  "
+   },
+   "mostRecentUpload": {
+      "message": "Đăng tải gần đây nhất"
+   },
+   "multipleFilters": {
+      "message": "Áp dụng nhiều bộ lọc"
+   },
+   "mustAgreeToTOS": {
+      "message": "Bạn phải đồng ý với Điều khoản Sử dụng Dịch vụ"
+   },
+   "mustBeValidURL": {
+      "message": "Phải là URL có thực"
+   },
+   "mustLinkChannel": {
+      "message": "Bạn phải liên kết kênh YouTube hiện tại của bạn với tài khoản vidIQ của bạn để sử dụng tính năng này"
+   },
+   "myDescriptionTitle": {
+      "message": "Mô Tả Của Tôi"
+   },
+   "myTitleTitle": {
+      "message": "Tiêu Đề Của Tôi"
+   },
+   "myVideosTitle": {
+      "message": "Video Của Tôi"
+   },
+   "nItemsSelected": {
+      "message": "$n$ mục đã được chọn",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nResults": {
+      "message": "$n$ kết quả",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nVideos": {
+      "message": "$vids$ video",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Tên"
+   },
+   "nameTitle": {
+      "message": "Tên"
+   },
+   "nature": {
+      "message": "Tự Nhiên"
+   },
+   "negDemonetizationWord": {
+      "message": "Tiêu cực"
+   },
+   "newPeriodStartsNDays": {
+      "message": "Chu kỳ mới bắt đầu trong $n$ ngày nữa.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "newPeriodStartsTomorrow": {
+      "message": "Chu kỳ mới bắt đầu vào ngày mai."
+   },
+   "newTemplate": {
+      "message": "Mẫu Mới"
+   },
+   "newTitle": {
+      "message": "Mới"
+   },
+   "next": {
+      "message": "Tiếp theo"
+   },
+   "no": {
+      "message": "Không"
+   },
+   "noAccountYet": {
+      "message": "Chưa đăng ký tài khoản?"
+   },
+   "noChannelAccess": {
+      "message": "Tài khoản vidIQ của bạn không có quyền truy cập vào kênh này."
+   },
+   "noCommentTemplates": {
+      "message": "Không có mẫu bình luận nào được lưu. Hãy thêm một mẫu để bắt đầu!"
+   },
+   "noControversialKeywords": {
+      "message": "Không có từ khoá gây tranh cãi được tìm thấy trong tiêu đề, mô tả hay thẻ tag của bạn!"
+   },
+   "noDataForChart": {
+      "message": "Không có dữ liệu cho biểu đồ $chart$ ",
+      "placeholders": {
+         "chart": {
+            "content": "$1"
+         }
+      }
+   },
+   "noHistoricalData": {
+      "message": "Không thể truy cập dữ liệu lịch sử"
+   },
+   "noOtherVideosFound": {
+      "message": "Không có video khác được tìm thấy"
+   },
+   "noPageForFBAccount": {
+      "message": "Tài khoản Facebook của bạn không có quyền truy cập vào một Trang"
+   },
+   "noPageForFBAccountInfo": {
+      "message": "\u003Cb>vidIQ\u003C/b> chỉ có thể đồng bộ video đến \u003Cb>Trang Facebook \u003C/b>.\u003Cbr />Để thực hiện, hãy tạo Trang Facebook của bạn, sau đó nhấp vào nút bên dưới."
+   },
+   "noRelatedKeywords": {
+      "message": "Không có từ khoá liên quan được tìm thấy"
+   },
+   "noRelatedTrendingVideos": {
+      "message": "Không có video thịnh hành liên quan được tìm thấy"
+   },
+   "noReplies": {
+      "message": "Không có câu trả lời"
+   },
+   "noResourcesFound": {
+      "message": "không có $resources$ nào được tìm thấy cho video này",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noResourcesFoundHint": {
+      "message": "Hãy thử quay lại và chọn \u003Cb>Tất Cả\u003C/b> loại nguồn hay tăng số video để tìm kiếm."
+   },
+   "noResourcesFoundTitle": {
+      "message": "Không Tìm Thấu Nguồn Nào"
+   },
+   "noResultsFound": {
+      "message": "Không có kết quả nào được tìm thấy"
+   },
+   "noTags": {
+      "message": "Không có thẻ tag"
+   },
+   "noTagsDetected": {
+      "message": "Chúng tôi không thấy bất kỳ thẻ tag nào của bạn trong mô tả của video. Hãy đảm bảo rằng từ khoá mạnh nhất của bạn xuất hiện trong mô tả, tiêu đề và thẻ tag của mình."
+   },
+   "noTagsFound": {
+      "message": "Không có thẻ tag được tìm thấy"
+   },
+   "noTemplatesToLoad": {
+      "message": "Không có mẫu để tải! \u003Cbr>Lưu một video làm mẫu để tải $resources$ của nó vào các video khác",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTemplatesToLoad2": {
+      "message": "Không có mẫu nào được lưu, thêm nội dung để tạo một mẫu mới"
+   },
+   "noTemplatesToLoad3": {
+      "message": "Chưa có mẫu nào được lưu, tạo một mẫu"
+   },
+   "noTemplatesToLoad4": {
+      "message": "Không có mẫu để tải"
+   },
+   "noTrending": {
+      "message": "Không tìm thấy video thịnh hành"
+   },
+   "noTweets": {
+      "message": "Không tìm thấy các dòng tweet"
+   },
+   "noVideoIdsFound": {
+      "message": "Không có ID video được tìm thấy"
+   },
+   "noVideosFound": {
+      "message": "Không tìm thấy video nào cho kênh này "
+   },
+   "none": {
+      "message": "Không"
+   },
+   "nonzeroLimit": {
+      "message": "Vui lòng chọn một giới hạn lớn hơn không"
+   },
+   "notEnoughSVIOT": {
+      "message": "Không đủ lượng tìm kiếm cho báo cáo Độ Quan Tâm Trong Thời Gian Qua"
+   },
+   "notEnoughSVQueries": {
+      "message": "Không đủ lượng tìm kiếm để đưa ra báo cáo Yêu Cầu Tìm Kiếm"
+   },
+   "notEnoughSVReports": {
+      "message": "Không đủ lượng tìm kiếm để đưa ra báo cáo"
+   },
+   "notMonetizableTooltip": {
+      "message": "Để đủ điều kiện cho chương trình Đối tác YouTube, bạn phải đạt được thời gian xem 4.000 giờ và 1.000 người đăng ký"
+   },
+   "noteTitle": {
+      "message": "Ghi chú"
+   },
+   "numCharacters": {
+      "message": "$stat$: $num$ ký tự",
+      "placeholders": {
+         "num": {
+            "content": "$2"
+         },
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "numGoogleEmbedSourcesStatLabel": {
+      "message": "mã nhúng srcs"
+   },
+   "numGoogleTrafficSourcesStatLabel": {
+      "message": "nguồn đề xuất"
+   },
+   "numberOfViewsTitle": {
+      "message": "Số Lượt Xem"
+   },
+   "occurrences": {
+      "message": "Số lần Xuất hiện"
+   },
+   "onNumViewSingular": {
+      "message": "trên 1 lượt xem"
+   },
+   "onNumViews": {
+      "message": "trên $num$ lượt xem",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "oneItemSelected": {
+      "message": "đã chọn 1 mục"
+   },
+   "oneResult": {
+      "message": "1 kết quả"
+   },
+   "oneVideo": {
+      "message": "1 video"
+   },
+   "opacityTitle": {
+      "message": "Độ mờ"
+   },
+   "open": {
+      "message": "Mở"
+   },
+   "optimizeNMoreVideos": {
+      "message": "Bạn có thể tối ưu hoá thêm $n$ video nữa.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "optimizeOneMoreVideo": {
+      "message": "Bạn có thể tối ưu hoá thêm 1 video nữa."
+   },
+   "order": {
+      "message": "Đặt hàng"
+   },
+   "organicViewsStatLabel": {
+      "message": "lượt xem tự nhiên"
+   },
+   "organicViewsTooltip": {
+      "message": "Lượt xem Tự nhiên: Số lượt xem không được quảng cáo. Được tính bằng cách lấy tổng số lượt xem (từ API của YouTube) và trừ số Lượt xem được Quảng cáo (từ API của YouTube)"
+   },
+   "otherImageTitle": {
+      "message": "Ảnh khác"
+   },
+   "outOfOptimizationsNDays": {
+      "message": "Bạn đã hết số video được tối ưu trong chu kỳ này. Hãy $start$Nâng cấp$end$ hay kiểm tra lại trong $n$ ngày nữa.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "outOfOptimizationsTomorrow": {
+      "message": "Bạn đã hết số video được tối ưu trong chu kỳ này. Hãy $start$Nâng cấp$end$ hay kiểm tra lại vào ngày mai.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "overall": {
+      "message": "Tổng "
+   },
+   "overviewTitle": {
+      "message": "Tổng Quan"
+   },
+   "overwriteEndscreen": {
+      "message": "Ghi đè lên ghi chú ở màn hình kết thúc cho những video này"
+   },
+   "overwriteTitle": {
+      "message": "Viết Đè Lên"
+   },
+   "pageStatus": {
+      "message": "Trang \u003Cb>$page$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         }
+      }
+   },
+   "pageStatusTotalKnown": {
+      "message": "Trang \u003Cb>$page$\u003C/b> trên \u003Cb>$total$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "passwordLengthValidation": {
+      "message": "Mật khẩu phải chứa ít nhất $number$ ký tự",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "passwordTitle": {
+      "message": "Mật Khẩu"
+   },
+   "passwordsMustMatch": {
+      "message": "Mật khẩu phải chính xác"
+   },
+   "pastDaysRangeOption": {
+      "message": "$range$ Ngày Trước",
+      "placeholders": {
+         "range": {
+            "content": "$1"
+         }
+      }
+   },
+   "pastTwoWeeksRangeOption": {
+      "message": "2 Tuần Trước"
+   },
+   "pastWeekRangeOption": {
+      "message": "Tuần Trước"
+   },
+   "percentChangeTooltip": {
+      "message": "%$change$ so sánh với khoảng thời gian trước ($previous$)",
+      "placeholders": {
+         "change": {
+            "content": "$1"
+         },
+         "previous": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentOfEngagements": {
+      "message": "$name$: $percent$ gắn kết",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         },
+         "percent": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentSubViewsStatLabel": {
+      "message": "lượt xem của người đăng ký"
+   },
+   "performanceTitle": {
+      "message": "Performance"
+   },
+   "pinCommentMessage": {
+      "message": "Nếu bạn đã ghim một nhận xét, điều này sẽ thay thế nó"
+   },
+   "pinCommentTitle": {
+      "message": "Ghim nhận xét này"
+   },
+   "pinCommentTooltip": {
+      "message": "Ghim Nhận Xét (thực hiện bởi vidIQ)"
+   },
+   "pinnedComment": {
+      "message": "Bình luận được ghim\r\n"
+   },
+   "playVideoFrom": {
+      "message": "Phát video từ"
+   },
+   "playerSize": {
+      "message": "Kích thước chương trình phát"
+   },
+   "playlistTitle": {
+      "message": "Danh sách phát"
+   },
+   "playlistsTitle": {
+      "message": "Danh Sách Phát"
+   },
+   "pleaseConfirmYourEmail": {
+      "message": "Vui lòng xác nhận địa chỉ email của bạn để sử dụng tất cả tính năng của vidIQ."
+   },
+   "pleaseEndCampaign": {
+      "message": "Vui lòng chấm dứt chiến dịch này để tiếp tục"
+   },
+   "pleaseSelectPlaylist": {
+      "message": "Vui lòng chọn một danh sách phát"
+   },
+   "pluralPagesLeftTitle": {
+      "message": "Còn $pages$ Trang",
+      "placeholders": {
+         "pages": {
+            "content": "$1"
+         }
+      }
+   },
+   "pollTitle": {
+      "message": "Bình chọn"
+   },
+   "postingScheduleInfo": {
+      "message": "Sự nhất quán chính là ông vua trên YouTube! Bạn càng phát hành nhiều video, bạn càng thường xuyên tác động đến khán giả của mình. Mỗi tuần một lần nên là mục tiêu tối thiểu. Mỗi ngày một lần thì thật là tuyệt vời!"
+   },
+   "postingScheduleSubtextBad": {
+      "message": "Hãy đăng tải ít nhất một video mới mỗi tuần,"
+   },
+   "postingScheduleSubtextGood": {
+      "message": "Thật tuyệt, bạn đang đăng tải video ít nhất một tuần một lần!"
+   },
+   "postingScheduleText": {
+      "message": "Khoảng $numVideos$ $videos$ mỗi $range$",
+      "placeholders": {
+         "numVideos": {
+            "content": "$1"
+         },
+         "range": {
+            "content": "$3"
+         },
+         "videos": {
+            "content": "$2"
+         }
+      }
+   },
+   "postingScheduleTitle": {
+      "message": "Lịch Trình Đăng Tải"
+   },
+   "poweredBy": {
+      "message": "Được phát triển bởi"
+   },
+   "poweredByVidIQ": {
+      "message": "Được phát triển bởi vidIQ"
+   },
+   "preThumbnailSaveInfo": {
+      "message": "Hình thu nhỏ của bạn sẽ trông như thế này trên các trang web. Hãy nhấp nút \"Lưu Hình Thu Nhỏ\" khi bạn đã sẵn sàng."
+   },
+   "preferencesTitle": {
+      "message": "Tuỳ Chọn"
+   },
+   "prev": {
+      "message": "Trước"
+   },
+   "problemSending": {
+      "message": "Có lỗi xảy ra trong việc gửi video của bạn. Vui lòng thử lại sau ít phút"
+   },
+   "processingEllipsis": {
+      "message": "Đang xử lý..."
+   },
+   "profDemonetizationWord": {
+      "message": "Có tính Báng Bổ"
+   },
+   "pubTypeAdsPost": {
+      "message": "Quảng Cáo"
+   },
+   "pubTypeDraft": {
+      "message": "Bản Nháp"
+   },
+   "pubTypePublished": {
+      "message": "Được Phát Hành"
+   },
+   "pubTypeScheduled": {
+      "message": "Được Lên Lịch"
+   },
+   "public": {
+      "message": "Công khai"
+   },
+   "publishingStatusTitle": {
+      "message": "Tình Trạng "
+   },
+   "quality": {
+      "message": "Chất lượng"
+   },
+   "quotaLimitTooltip": {
+      "message": "Tài khoản của bạn được giới hạn $quota$ video một tháng. Nếu bạn muốn thêm video, vui lòng liên hệ với chúng tôi.",
+      "placeholders": {
+         "quota": {
+            "content": "$1"
+         }
+      }
+   },
+   "rankedTagsStatLabel": {
+      "message": "thẻ tag được xếp hạng"
+   },
+   "readyCopyResources": {
+      "message": "Tôi đã sẵn sàng, hãy sao chép $resources$!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "readyMakeChanges": {
+      "message": "Tôi đã sẵn sàng, hãy thực hiện thay đổi của tôi!"
+   },
+   "readyToSyndicate": {
+      "message": "Sẵn sàng để đồng bộ!"
+   },
+   "recentChannelSubsStatLabel": {
+      "message": "lượt đăng ký $period$ ngày vừa qua",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentChannelViewsStatLabel": {
+      "message": "lượt xem $period$ ngày vừa qua",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentEstimatedRevenueStatLabel": {
+      "message": "doanh thu ước tính trong $period$ ngày vừa qua",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentVideosStatLabel": {
+      "message": "video được phát hành trong $period$ ngày vừa qua",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recommendedBy": {
+      "message": "Được đề xuất bởi"
+   },
+   "recommendedTagsTitle": {
+      "message": "Thẻ Tag Được Đề Xuất"
+   },
+   "recoverPasswordTitle": {
+      "message": "Khôi Phục Lại Mật Khẩu"
+   },
+   "redditCommentsStatLabel": {
+      "message": "bình luận reddit"
+   },
+   "redditCommentsStatTitle": {
+      "message": "Lượt Bình Luận Reddit"
+   },
+   "redditLikesStatLabel": {
+      "message": "upvote reddit"
+   },
+   "redditPostsStatLabel": {
+      "message": "lượt đăng reddit"
+   },
+   "redditPostsStatTitle": {
+      "message": "Lượt Đăng Reddit"
+   },
+   "redditUpvotesStatTitle": {
+      "message": "Lượt Upvote Reddit"
+   },
+   "referredSourcesTitle": {
+      "message": "Nguồn Đề Xuất"
+   },
+   "referredViewsStatLabel": {
+      "message": "lượt xem có được từ đề xuất"
+   },
+   "referrersTooltip": {
+      "message": "Nguồn đề xuất: Số trang web bên ngoài liên kết đến video này"
+   },
+   "refreshDataTitle": {
+      "message": "Làm Mới Dữ Liệu"
+   },
+   "refreshFacebookPagesTitle": {
+      "message": "Làm mới Trang Facebook"
+   },
+   "relatedKeywords": {
+      "message": "Từ khoá liên quan"
+   },
+   "relatedQueriesTitle": {
+      "message": "Những Vấn Đề Liên Quan"
+   },
+   "relatedTo": {
+      "message": "Liên quan đến"
+   },
+   "relatedTrendingVideos": {
+      "message": "Những video thịnh hành liên quan"
+   },
+   "relevancyTitle": {
+      "message": "Độ liên quan"
+   },
+   "rememberToRefresh": {
+      "message": "Hãy nhớ làm mới lại trang sau khi bạn nâng cấp"
+   },
+   "removalNoticePart1": {
+      "message": "Là một đối tác được chứng nhận của YouTube, tuân theo các nguyên tắc mới, chúng tôi đang thực hiện một số thay đổi cho thẻ điểm."
+   },
+   "removalNoticePart2": {
+      "message": "Nếu bạn đang thắc mắc không biết Doanh Thu Ước Tính và Tỷ Lệ Gắn Kết ở đâu mất rồi,"
+   },
+   "removalNoticePart3": {
+      "message": "hãy đọc bài viết của chúng tôi về điều này ở đây"
+   },
+   "replace": {
+      "message": "Thay thế "
+   },
+   "replaceCurrentObjects": {
+      "message": "Thay thể vật thể hiện tại"
+   },
+   "replaceWith": {
+      "message": "Thay thế bằng"
+   },
+   "reports": {
+      "message": "Báo cáo"
+   },
+   "requestCodeTitle": {
+      "message": "Yêu Cầu Mã"
+   },
+   "researchAllResultsLoaded": {
+      "message": "Tất cả các kết quả đã được tải"
+   },
+   "researchChannelSubs": {
+      "message": "Lượng Đăng ký của Kênh"
+   },
+   "researchChannelSubs2": {
+      "message": "lượng đăng ký của kênh"
+   },
+   "researchClearAll": {
+      "message": "Xoá tất cả"
+   },
+   "researchDuration": {
+      "message": "Thời gian"
+   },
+   "researchErrorNoResults": {
+      "message": "Không có kết quả nào được tìm thấy. Hãy thử thay đổi tuỳ chọn tìm kiếm."
+   },
+   "researchEstimatedEarnings": {
+      "message": "thu nhập ước tính"
+   },
+   "researchFilterBetween5079": {
+      "message": "Trong khoảng 50-79"
+   },
+   "researchFilterBetween8089": {
+      "message": "Trong khoảng 80-89"
+   },
+   "researchFilterBetween90100": {
+      "message": "Trong khoảng 90-100"
+   },
+   "researchFilterBronze": {
+      "message": "Đồng (10k-100k đăng ký)"
+   },
+   "researchFilterEngagements": {
+      "message": "Gắn kết"
+   },
+   "researchFilterGold": {
+      "message": "Vàng (hơn 1 triệu đăng ký)"
+   },
+   "researchFilterGraphite": {
+      "message": "Than (lên đến 1k đăng ký)"
+   },
+   "researchFilterOpal": {
+      "message": "Opan (1k-10k đăng ký)"
+   },
+   "researchFilterOver100": {
+      "message": "Hơn 100"
+   },
+   "researchFilterOver100k": {
+      "message": "Hơn 100k"
+   },
+   "researchFilterOver100m": {
+      "message": "Hơn 100 triệu"
+   },
+   "researchFilterOver10k": {
+      "message": "Hơn 10k"
+   },
+   "researchFilterOver10m": {
+      "message": "Hơn 10 triệu"
+   },
+   "researchFilterOver1b": {
+      "message": "Hơn 1 tỷ"
+   },
+   "researchFilterOver1k": {
+      "message": "Hơn 1k"
+   },
+   "researchFilterOver1m": {
+      "message": "Hơn 1 triệu"
+   },
+   "researchFilterOver30s": {
+      "message": "Hơn 30 giây"
+   },
+   "researchFilterOver50k": {
+      "message": "Hơn 50k"
+   },
+   "researchFilterOver5k": {
+      "message": "Hơn 5k"
+   },
+   "researchFilterOver5m": {
+      "message": "Hơn 5 phút"
+   },
+   "researchFilterPast48Hours": {
+      "message": "48 giờ qua"
+   },
+   "researchFilterPast6Months": {
+      "message": "6 tháng qua"
+   },
+   "researchFilterSilver": {
+      "message": "Bạc (100k-1 triệu đăng ký)"
+   },
+   "researchFilterThisMonth": {
+      "message": "Tháng này"
+   },
+   "researchFilterThisWeek": {
+      "message": "Tuần này"
+   },
+   "researchFilterUpTo100": {
+      "message": "Lên đến 100"
+   },
+   "researchFilterUpTo1k": {
+      "message": "Lên đến 1k"
+   },
+   "researchFilterUpTo30s": {
+      "message": "Lên đến 30 giây"
+   },
+   "researchFilterUpTo50": {
+      "message": "Lên đến 50"
+   },
+   "researchFilterUpsell": {
+      "message": "Nâng cấp lên \u003Cb>Boost\u003C/b> để lọc kết quả"
+   },
+   "researchFilterViews": {
+      "message": "Lượt xem"
+   },
+   "researchFilterVph": {
+      "message": "VPH"
+   },
+   "researchLoadMore": {
+      "message": "Tải thêm"
+   },
+   "researchMostViewed": {
+      "message": "Được xem nhiều nhất"
+   },
+   "researchMostViewedTitle": {
+      "message": "Được Xem Nhiều Nhất"
+   },
+   "researchQueryPlaceholder": {
+      "message": "vd: game, nhạc"
+   },
+   "researchSearch": {
+      "message": "Tìm kiếm"
+   },
+   "researchSearchOptions": {
+      "message": "Bộ lọc tìm kiếm"
+   },
+   "researchSearchTerms": {
+      "message": "Điều kiện tìm kiếm"
+   },
+   "researchSearchUpsell": {
+      "message": "Nâng cấp lên \u003Cstrong>Pro\u003C/strong> để tìm kiếm và sắp xếp video"
+   },
+   "researchSortLockedMessage": {
+      "message": "Vui lòng nâng cấp để có thể truy cập tính năng sắp xếp"
+   },
+   "researchSuggestedSearches": {
+      "message": "Những tìm kiếm được đề xuất"
+   },
+   "researchTopVidiqScores": {
+      "message": "Điểm vidIQ hàng đầu"
+   },
+   "researchTrendingGamingVideos": {
+      "message": "Những video game thịnh hành"
+   },
+   "researchTrendingMusicVideos": {
+      "message": "Những video ca nhạc thịnh hành"
+   },
+   "researchTrendingVideosFromEmergingChannels": {
+      "message": "Video thịnh hành từ các kênh mới nổi"
+   },
+   "researchVidiqScore": {
+      "message": "Điểm vidIQ"
+   },
+   "researchVidiqScore2": {
+      "message": "Điểm vidIQ"
+   },
+   "researchViews": {
+      "message": "Lượt xem"
+   },
+   "researchVph": {
+      "message": "Lượt xem mỗi giờ (VPH)"
+   },
+   "resendConfirmationEmail": {
+      "message": "Gửi lại email xác nhận"
+   },
+   "reset": {
+      "message": "Khởi động lại"
+   },
+   "resetSession": {
+      "message": "Khởi động lại phiên làm việc \u003Cb>vidIQ\u003C/b>, sau đó hãy thử lại."
+   },
+   "resource": {
+      "message": "nguồn"
+   },
+   "resources": {
+      "message": "nguồn"
+   },
+   "retentionStatLabel": {
+      "message": "giữ chân người xem"
+   },
+   "retrievingVideoEllipses": {
+      "message": "Đang tải video"
+   },
+   "retryAllTitle": {
+      "message": "Thử Lại Tất Cả"
+   },
+   "retrySyndicationTitle": {
+      "message": "Thử Đồng Bộ Lại"
+   },
+   "retryTitle": {
+      "message": "Thử Lại"
+   },
+   "retryUploadTitle": {
+      "message": "Thử tải lại"
+   },
+   "reviewUs": {
+      "message": "Hãy đánh giá chúng tôi!"
+   },
+   "risingSearchQueriesTitle": {
+      "message": "Yêu Cầu Tìm Kiếm Đang Tăng"
+   },
+   "risingTitle": {
+      "message": "Đang Tăng"
+   },
+   "saveChangesTitle": {
+      "message": "Lưu Thay Đổi"
+   },
+   "saveDraftTitle": {
+      "message": "Lưu Bản Nháp"
+   },
+   "saveName": {
+      "message": "Lưu tên"
+   },
+   "saveTemplateTitle": {
+      "message": "Lưu mẫu"
+   },
+   "saveThisVideoTooltip": {
+      "message": "Lưu video này làm mẫu, sau đó tải thẻ & chú thích của nó vào các video khác!"
+   },
+   "saveThumbnailTitle": {
+      "message": "Lưu Hình Thu Nhỏ"
+   },
+   "saveTitle": {
+      "message": "Lưu"
+   },
+   "savingEllipsis": {
+      "message": "Đang lưu..."
+   },
+   "savingThumbnailEllipsis": {
+      "message": "Đang lưu hình thu nhỏ..."
+   },
+   "scAddedLast7DaysTitle": {
+      "message": "Đã Được Thêm Trong 7 Ngày Vừa Qua"
+   },
+   "scAvgAgeTitle": {
+      "message": "Tuổi Trung Bình"
+   },
+   "scAvgViewsTitle": {
+      "message": "Lượt Xem Trung Bình"
+   },
+   "scCcTitle": {
+      "message": "Phụ Đề"
+   },
+   "scHighestViewsTitle": {
+      "message": "Lượt Xem Cao Nhất"
+   },
+   "scTimesInDescTitle": {
+      "message": "Số Lần trong Mô Tả"
+   },
+   "scTimesInTitleTitle": {
+      "message": "Số Lần trong Tiêu Đề"
+   },
+   "scTopCreatorTitle": {
+      "message": "Nhà Sáng Tạo Hàng Đầu"
+   },
+   "scheduledPublishTimeTitle": {
+      "message": "Đặt giờ phát hành"
+   },
+   "search": {
+      "message": "Tìm kiếm  "
+   },
+   "searchAndReplace": {
+      "message": "Tìm kiếm và thay thế"
+   },
+   "searchByKeyword": {
+      "message": "Tìm kiếm theo từ khoá"
+   },
+   "searchByList": {
+      "message": "Tìm kiếm theo danh sách cách bởi dấu phẩy"
+   },
+   "searchByPhrases": {
+      "message": "Tìm kiếm theo cụm từ..."
+   },
+   "searchByUsername": {
+      "message": "Tìm kiếm bình luận theo tên người dùng"
+   },
+   "searchForKeyword": {
+      "message": "Tìm kiếm từ khoá"
+   },
+   "searchQueriesTitle": {
+      "message": "Yêu Cầu Tìm Kiếm"
+   },
+   "searchTermTitle": {
+      "message": "Từ Tìm Kiếm"
+   },
+   "searchVolumeTitle": {
+      "message": "Lượng Tìm Kiếm"
+   },
+   "searchingFor": {
+      "message": "Tìm kiếm"
+   },
+   "secondPlural": {
+      "message": "giây"
+   },
+   "secondSingular": {
+      "message": "giây"
+   },
+   "seeAllAnalyticsForChannel": {
+      "message": "Xem tất cả $start$thống kê$end$ cho $channel$",
+      "placeholders": {
+         "channel": {
+            "content": "$3"
+         },
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "seeAllResults": {
+      "message": "Xem tất cả kết quả"
+   },
+   "seeMoreStats": {
+      "message": "Muốn xem các thống kê khác?"
+   },
+   "selectAllTitle": {
+      "message": "Chọn Tất Cả"
+   },
+   "selectLikingChannels": {
+      "message": "Hãy chọn kênh có thể thích video của bạn, sau đó nhấp vào nút \u003Cb>Đều thích video\u003C/b>"
+   },
+   "selectNoneTitle": {
+      "message": "Không Chọn"
+   },
+   "selected": {
+      "message": "Đã chọn"
+   },
+   "sendFeedbackTitle": {
+      "message": "Gửi Phản Hồi"
+   },
+   "sendToFacebookTitle": {
+      "message": "Tải lên Facebook"
+   },
+   "sendVideoTitle": {
+      "message": "Gửi Video"
+   },
+   "sendingVideoToFacebook": {
+      "message": "Đang tải video lên Facebook..."
+   },
+   "senshockDemonetizationWord": {
+      "message": "Gây Sốc và Giật Gân"
+   },
+   "seoScoreChannelAuditInfo": {
+      "message": "Tổí ưu hoá tiêu đề, thẻ tag và mô tả video để đảm bảo nội dung của bạn có khả năng cao nhất trong việc đạt được lượt xem. Hãy gắng giữ điểm này trên 40."
+   },
+   "seoScoreChecklistTitle": {
+      "message": "Thẻ Điểm SEO & Checklist"
+   },
+   "seoScoreStatLabel": {
+      "message": "điểm SEO vidIQ"
+   },
+   "seoTagsTitle": {
+      "message": "SEO | Thẻ tag quá"
+   },
+   "seoTitle": {
+      "message": "SEO"
+   },
+   "setCustomRange": {
+      "message": "Đặt phạm vi tuỳ chỉnh"
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "sexDemonetizationWord": {
+      "message": "Nội Dung Gợi Dục"
+   },
+   "shapeCircle": {
+      "message": "Hình Tròn"
+   },
+   "shapeEllipse": {
+      "message": "Hình E-líp"
+   },
+   "shapeRect": {
+      "message": "Hình Chữ Nhật"
+   },
+   "shapeTitle": {
+      "message": "Hình Khối"
+   },
+   "shapeTriangle": {
+      "message": "Hình Tam Giác"
+   },
+   "sharedOnFacebook": {
+      "message": "Đã Chia sẻ trên Facebook"
+   },
+   "sharesAndComments": {
+      "message": "chia sẻ + bình luận"
+   },
+   "shop": {
+      "message": "Shop"
+   },
+   "shortLabel": {
+      "message": "ngắn"
+   },
+   "shortcutsOnHomePage": {
+      "message": "Shortcuts trên Trang Chủ"
+   },
+   "shortcutsOnVideoManager": {
+      "message": "Shortcuts trên Trang Quản lý Video"
+   },
+   "shortenUrls": {
+      "message": "Thu gọn URL"
+   },
+   "showAllTitle": {
+      "message": "Hiển Thị Tất Cả"
+   },
+   "showAnnotations": {
+      "message": "Hiển thị chú thích"
+   },
+   "showCaptions": {
+      "message": "Hiển thị phụ đề"
+   },
+   "showChannelInfoTitle": {
+      "message": "Hiển Thị Thông Tin Kênh"
+   },
+   "showFewerTitle": {
+      "message": "Hiển Thị Ít Hơn"
+   },
+   "showInTimelineTitle": {
+      "message": "Hiển thị theo Tiêu Đề Dòng Thời Gian"
+   },
+   "showMessageFromVidIQ": {
+      "message": "Hiển thị tin nhắn từ \u003Cb>vidIQ\u003C/b>"
+   },
+   "showMoreTitle": {
+      "message": "Hiển Thị Nhiều Hơn ($number$)",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "showPlayerControls": {
+      "message": "Hiển thị việc kiểm soát chương trình phát video"
+   },
+   "showRelatedVideos": {
+      "message": "Hiển thị các video liên quan"
+   },
+   "showVideoInfo": {
+      "message": "Hiển thị thông tin video (tiêu đề, người sở hữu,...)"
+   },
+   "showingCommentThreads": {
+      "message": "Hiển thị $current$ của $total$ lời bình luận.",
+      "placeholders": {
+         "current": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "signUp": {
+      "message": "Đăng ký"
+   },
+   "signUpForNewAccount": {
+      "message": "Đăng ký tài khoản \u003Cb>vidIQ\u003C/b> mới"
+   },
+   "signUpForVidIQ": {
+      "message": "Đăng ký vidIQ"
+   },
+   "signUpFree": {
+      "message": "Đăng ký miễn phí!"
+   },
+   "signupThanks": {
+      "message": "Cám ơn bạn đã đăng ký tài khoản!"
+   },
+   "singularPageLeftTitle": {
+      "message": "Còn 1 Trang"
+   },
+   "socDemonetizationWord": {
+      "message": "Các Vấn Đề Xã Hội Nhạy Cảm "
+   },
+   "socialTitle": {
+      "message": "Mạng Xã Hội"
+   },
+   "solidColorTitle": {
+      "message": "Một màu"
+   },
+   "sortBy": {
+      "message": "Sắp xếp theo"
+   },
+   "sourceGoogleTrends": {
+      "message": "Nguồn: Google Trends (Tìm Kiếm YouTube)"
+   },
+   "speechBubbleTitle": {
+      "message": "Bong bóng trò chuyện"
+   },
+   "spotlightTitle": {
+      "message": "Đèn pin"
+   },
+   "stackedTitle": {
+      "message": "Chồng Lên Nhau"
+   },
+   "startCampaignTitle": {
+      "message": "Bắt Đầu Chiến Dịch"
+   },
+   "startTime": {
+      "message": "Thời gian bắt đầu"
+   },
+   "stats": {
+      "message": "Thống kê"
+   },
+   "statusTitle": {
+      "message": "Tình trạng"
+   },
+   "stepThroughFrame": {
+      "message": "Xem qua \u003Cbr />từng khung ảnh video"
+   },
+   "stopCampaignTitle": {
+      "message": "Dừng Chiến Dịch"
+   },
+   "streamTitle": {
+      "message": "Theo Chuỗi"
+   },
+   "stumbleuponStatLabel": {
+      "message": "stumbleupon"
+   },
+   "stumbleuponStatTitle": {
+      "message": "Stumbleupon"
+   },
+   "subViewsTooltip": {
+      "message": "Đây là số lượt xem video này có được từ người đăng ký "
+   },
+   "submit": {
+      "message": "Gửi"
+   },
+   "subsDrivenStatLabel": {
+      "message": "lượt đăng ký đạt được"
+   },
+   "subsPer1kViews": {
+      "message": "$num$ mỗi 1k lượt xem",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "subscribeForTricks": {
+      "message": "Hãy đăng ký kênh của vidIQ để có những mẹo và lời khuyên hữu ích!"
+   },
+   "subscribeTitle": {
+      "message": "Đăng ký"
+   },
+   "subscriberInsightsTitle": {
+      "message": "Phân Tích Người Đăng Ký"
+   },
+   "subscriberRank": {
+      "message": "xếp hạng đăng ký"
+   },
+   "subscribersGainedTitle": {
+      "message": "Số Người Đăng Ký Đạt Được"
+   },
+   "subscribersTitle": {
+      "message": "Người Đăng Ký"
+   },
+   "successfullyAddedNLikes": {
+      "message": "Đã thêm thành công $n$ lượt thích cho video của bạn!",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "successfullyAddedOneLike": {
+      "message": "Đã thêm thành công 1 lượt thích cho video của bạn!"
+   },
+   "successfullyAuthed": {
+      "message": "Đã xác thực thành công"
+   },
+   "suggestedVideoTagsTitle": {
+      "message": "Những Thẻ Tag Được Đề Xuất Cho Video"
+   },
+   "suggestedViewsStatLabel": {
+      "message": "lượt xem được đề xuất"
+   },
+   "suggestion": {
+      "message": "Gợi ý"
+   },
+   "syndicateAndArchive": {
+      "message": "Đồng bộ và lưu trữ video của tôi"
+   },
+   "syndicateToFacebookTitle": {
+      "message": "Đồng Bộ Với Facebook"
+   },
+   "syndicateVideoTooLong": {
+      "message": "Rất tiếc, video này quá dài để được đồng bộ với Facebook."
+   },
+   "syndicationComplete": {
+      "message": "Việc đồng bộ đã hoàn thành!"
+   },
+   "syndicationFailed": {
+      "message": "Ối, việc đồng bộ chưa được hoàn thành. Vui lòng thử lại."
+   },
+   "tabletTitle": {
+      "message": "Tablet"
+   },
+   "tagAutocompleteTitle": {
+      "message": "Đề Xuất Gắn Thẻ Tự Động"
+   },
+   "tagCountStatLabel": {
+      "message": "số thẻ tag"
+   },
+   "tagTemplateInsert": {
+      "message": "Thêm thẻ Tag mới"
+   },
+   "tagTemplatesCreateMessage": {
+      "message": "Hãy tạo một mẫu mới để thêm thẻ tag!"
+   },
+   "tagTemplatesInputPlaceholder": {
+      "message": "Danh sách được tách bằng dấu phẩy hoặc tag"
+   },
+   "tagTemplatesNote": {
+      "message": "Lưu ý: Hãy thêm một vài thẻ tag cụ thể cho video trước khi thêm các thẻ theo mẫu chung"
+   },
+   "tagTemplatesTitle": {
+      "message": "Mẫu Tag"
+   },
+   "tagVolumeStatLabel": {
+      "message": "lượng thẻ tag"
+   },
+   "tags": {
+      "message": "Thẻ tag"
+   },
+   "tagsLengthChannelAuditTitle": {
+      "message": "Độ Dài Thẻ Tag"
+   },
+   "teaserText": {
+      "message": "Teaser text"
+   },
+   "templateDeleteProblem": {
+      "message": "Có lỗi xảy ra khi xoá \"$template$\": $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateDeleted": {
+      "message": "$template$ đã được huỷ thành công!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateNameTitle": {
+      "message": "Tên Mẫu"
+   },
+   "templatePlaceholder1": {
+      "message": "vd: Cảm ơn"
+   },
+   "templatePlaceholder2": {
+      "message": "vd: Cảm ơn bạn đã đăng ký!"
+   },
+   "templateSaveProblem": {
+      "message": "Có lỗi xảy ra trong việc lưu \"$template$\": $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateSaved": {
+      "message": "$template$ đã được lưu thành công!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateTextHint": {
+      "message": "Gợi ý: \u003Ci>&lt;user-name&gt;\u003C/i> sẽ được thay thế bởi tên của kênh bạn sẽ trả lời."
+   },
+   "templateTextTitle": {
+      "message": "Nội Dung Mẫu"
+   },
+   "templatesTitle": {
+      "message": "Mẫu"
+   },
+   "text": {
+      "message": "Nội dung"
+   },
+   "thatsEnoughTitle": {
+      "message": "Đủ Rồi"
+   },
+   "thisMonth": {
+      "message": "tháng này"
+   },
+   "thisPeriod": {
+      "message": "khoảng thời gian này"
+   },
+   "thumbnailEditorTitle": {
+      "message": "Chỉnh Sửa Hình Thu Nhỏ"
+   },
+   "thumbnailPlural": {
+      "message": "hình thu nhỏ"
+   },
+   "thumbnailRatingBarTitle": {
+      "message": "Thanh Xếp Hạng Thu Nhỏ"
+   },
+   "thumbnailSavedNotice": {
+      "message": "Hình thu nhỏ của bạn đã được lưu! Có thể mất ít phút nữa để YouTube hiển thị sự thay đổi này."
+   },
+   "thumbnailSingular": {
+      "message": "hình thu nhỏ"
+   },
+   "time": {
+      "message": "Thời gian"
+   },
+   "title": {
+      "message": "Tiêu đề"
+   },
+   "titleAverageSubtextBad": {
+      "message": "Độ dài tiêu đề trung bình của bạn quá $status$. Hãy giữ nó trong vòng 20 đến 60 ký tự.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleAverageSubtextGood": {
+      "message": "Độ dài tiêu đề trung bình của bạn là tốt!"
+   },
+   "titleChannelAuditEdit": {
+      "message": "Cập nhật Tiêu đề"
+   },
+   "titleDescSuggestionTitle": {
+      "message": "Gợi Ý Tiêu Đề & Mô Tả"
+   },
+   "titleLengthChannelAuditTitle": {
+      "message": "Độ Dài Tiêu Đề"
+   },
+   "to": {
+      "message": "đến"
+   },
+   "tooLong": {
+      "message": "Quá Dài"
+   },
+   "tooLow": {
+      "message": "Quá thấp"
+   },
+   "tooShort": {
+      "message": "Quá Ngắn"
+   },
+   "toolbarStatsDropdownTitle": {
+      "message": "Danh Sách Thả Thanh Công Cụ Phân Tích "
+   },
+   "topAvgViewTimeChannelAuditInfo": {
+      "message": "Đây là những video của bạn với thời gian xem cao nhất. Chúng tôi khuyên bạn nghiên cứu nội dung và cách sản xuất được dùng trong những video này để tiếp tục tập trung sử dụng những điều này."
+   },
+   "topAvgWatchtimeNonLive": {
+      "message": "Thời gian xem Trung bình"
+   },
+   "topCompetitorVideos": {
+      "message": "Đối thủ (theo VPH)"
+   },
+   "topCompetitorVideosChannelAuditInfo": {
+      "message": "Đây là những video được xem nhiều nhất của đối thủ của bạn dựa trên Lượt xem Mỗi Giờ (VPH). Chúng tôi khuyên bạn học hỏi từ những video này và xem có thể áp dụng bài học nào vào kênh của bạn không."
+   },
+   "topCountriesStatLabel": {
+      "message": "những nước hàng đầu"
+   },
+   "topDevicesStatLabel": {
+      "message": "những thiết bị hàng đầu"
+   },
+   "topEmbedsTitle": {
+      "message": "Những Mã Nhúng Hàng Đầu"
+   },
+   "topEngagementChannelAuditInfo": {
+      "message": "Đãy là những video đạt được mức gắn kết cao nhất của bạn. Chúng tôi đề xuất bạn tìm hiểu vì sao chúng đạt được tỷ lệ gắn kết cao và tiếp tục sử dụng những bước này."
+   },
+   "topKeywords": {
+      "message": "Nhũng Từ khoá Hàng đầu"
+   },
+   "topKeywordsUpsell": {
+      "message": "Xem những từ khoá hàng đầu khi bạn nâng cấp lên vidIQ Pro"
+   },
+   "topPlaylists": {
+      "message": "Danh sách Phát Hàng đầu"
+   },
+   "topPlaylistsChannelAuditInfo": {
+      "message": "Đây là danh sách phát được xem nhiều nhất. Chúng tôi khuyên bạn tạo những danh sách phát tương tự."
+   },
+   "topReferrersTitle": {
+      "message": "Những Nguồn Đề Xuất Hàng Đầu"
+   },
+   "topRetention": {
+      "message": "% Giữ chân Người xem Hàng đầu"
+   },
+   "topRetentionChannelAuditInfo": {
+      "message": "Khán giả của bạn thích những video này và có vẻ như muốn xem nhiều hơn về loại nội dung này. Đây là nội dung cần được ưu tiên tập trung."
+   },
+   "topSearchKeywordsTitle": {
+      "message": "Những Từ Khoá Tìm Kiếm Hàng Đầu"
+   },
+   "topSearchQueries": {
+      "message": "Yêu Cầu Tìm Kiếm Hàng Đầu"
+   },
+   "topSearchQueriesTitle": {
+      "message": "Yêu Cầu Tìm Kiếm Hàng Đầu"
+   },
+   "topSearchTermsChannelAuditInfo": {
+      "message": "Đây là những từ khoá được xếp hạng cao nhất của bạn."
+   },
+   "topSearchTermsTitle": {
+      "message": "Những Cụm được Tìm Kiếm Hàng Đầu"
+   },
+   "topStatLabel": {
+      "message": "hàng đầu"
+   },
+   "topSubscribersChannelAuditInfo": {
+      "message": "Đây là những ấn tượng tốt nhất đến những video được xem của bạn. Chúng tôi đề xuất bạn xem tiêu đề, hình ảnh thu nhỏ để biết vì sao những video này đang có hiệu quả nhất và tiếp tục sử dụng những bước này."
+   },
+   "topSuggested": {
+      "message": "Được đề xuất hàng đầu (không thuộc sở hữu)"
+   },
+   "topSuggestedChannelAuditInfo": {
+      "message": "Đây là những video hàng đầu đã đề xuất nội dung của bạn. Chúng tôi khuyên bạn nên tạo những nội dung tương tự và nghiên cứu sự tương quan để tập trung vào nội dung."
+   },
+   "topTitle": {
+      "message": "Hàng Đầu"
+   },
+   "topViewsChannelAuditInfo": {
+      "message": "Đây là những video được xem nhiều nhất của bạn. Chúng tôi khuyên bạn nên nghiên cứu nguồn đạt được lượt xem và hiểu vì sao điều này xảy ra và tiếp tục tập trung sử dụng những điều này."
+   },
+   "topViewsChannelAuditRank": {
+      "message": "trong số lượt xem hàng đầu"
+   },
+   "topVphChannelAuditInfo": {
+      "message": "Những video này có lượt xem mỗi giờ cao nhất, chúng tôi "
+   },
+   "topWatchTimeChannelAuditInfo": {
+      "message": "Những video này đang được xem với thời gian dài nhất và chúng tôi đề xuất bạn cần tập trung vào và phát triển những video như vậy."
+   },
+   "topWatchTimeChannelAuditRank": {
+      "message": "trong thời gian xem hàng đầu"
+   },
+   "totalEstimatedRevenue": {
+      "message": "tổng doanh thu ước tính"
+   },
+   "totalWatchTimeTitle": {
+      "message": "Tổng Thời Gian Xem (phút)"
+   },
+   "trackCompetitorTitle": {
+      "message": "Theo Dõi Đối Thủ"
+   },
+   "tragconDemonetizationWord": {
+      "message": "Bi Kịch và Xung Đột"
+   },
+   "translateKeywordsTitle": {
+      "message": "Dịch Từ Khoá"
+   },
+   "translateTitle": {
+      "message": "Dịch"
+   },
+   "translationProblem": {
+      "message": "Có lỗi xảy khi dịch."
+   },
+   "translationRequiresVidiqPro": {
+      "message": "Cần có vidIQ Pro để Dịch"
+   },
+   "trendAlerts": {
+      "message": "Cảnh báo Xu hướng"
+   },
+   "trendAlertsCancel": {
+      "message": "Huỷ"
+   },
+   "trendAlertsCreateAlert": {
+      "message": "Tạo cảnh báo"
+   },
+   "trendAlertsCreateFirstAlert": {
+      "message": "Tạo cảnh báo đầu tiên của bạn"
+   },
+   "trendAlertsCreateNewAlert": {
+      "message": "Tạo cảnh báo mới"
+   },
+   "trendAlertsCreateNewTrendAlert": {
+      "message": "Tạo cảnh báo xu hướng mới"
+   },
+   "trendAlertsDefaultName": {
+      "message": "Cảnh báo của tôi"
+   },
+   "trendAlertsDeleteMsg": {
+      "message": "Bạn có chắc bạn muốn xoá cảnh báo xu hướng \\\"$alertName$\\\" của bạn?",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsDeleteTrendAlert": {
+      "message": "Xoá cảnh báo xu hướng"
+   },
+   "trendAlertsEditTrendAlert": {
+      "message": "Chỉnh sửa cảnh báo xu hướng"
+   },
+   "trendAlertsEditTrendAlertWithName": {
+      "message": "Chỉnh sửa cảnh báo xu hướng cho \\\"$alertName$\\\"",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsErrorUnauthenticatedMessage": {
+      "message": "Bạn phải xác thực kênh của bạn với vidIQ để tạo cảnh báo xu hướng."
+   },
+   "trendAlertsFilter10k": {
+      "message": "10k"
+   },
+   "trendAlertsFilter1k": {
+      "message": "1k"
+   },
+   "trendAlertsFilter5k": {
+      "message": "5k"
+   },
+   "trendAlertsFilterEachMonth": {
+      "message": "Mỗi tháng"
+   },
+   "trendAlertsFilterEachWeek": {
+      "message": "Mỗi tuần"
+   },
+   "trendAlertsFilterEvery2Days": {
+      "message": "Mỗi 2 ngày"
+   },
+   "trendAlertsFilterEveryDay": {
+      "message": "Mỗi ngày"
+   },
+   "trendAlertsFormAddAnotherCompetitor": {
+      "message": "Thêm một đối thủ khác"
+   },
+   "trendAlertsFormAlertNameHelpText": {
+      "message": "Đặt tên cảnh báo này để gợi nhớ nó theo dõi điều gì. Nếu bạn không chỉ ra một tên, một tên mặc định cho \\\"$defaultName$\\\" sẽ được sử dụng.",
+      "placeholders": {
+         "defaultName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormAlertNameLabel": {
+      "message": "Tên cảnh báo"
+   },
+   "trendAlertsFormAlertNamePlaceholder": {
+      "message": "vd: >5 ngàn VPH từ các đối thủ"
+   },
+   "trendAlertsFormCategoryHelpText": {
+      "message": "Chọn danh mục một video cần phù hợp để được bao gồm trong các kết quả tìm kiếm."
+   },
+   "trendAlertsFormCategoryLabel": {
+      "message": "Danh mục"
+   },
+   "trendAlertsFormChannelTagsLabel": {
+      "message": "Gợi ý từ khoá từ kênh của bạn"
+   },
+   "trendAlertsFormCompetitorsHelpText": {
+      "message": "Chọn kênh đối thủ để hạn chế báo động này trong giớ hạn những kênh đó. Nếu bạn không chọn bất kỳ kênh đối thủ nào, chúng tôi sẽ giám sát trên toàn YouTube."
+   },
+   "trendAlertsFormCompetitorsLabel": {
+      "message": "Đối thủ"
+   },
+   "trendAlertsFormEmailFrequencyHelpText": {
+      "message": "Chúng tôi sẽ gửi bạn một email với những video thịnh hành mới phù hợp với cảnh báo này. Bạn cũng có thể xem nguồn dữ liệu trực tuyến về những video thịnh hành mới bằng cách nhấp vào cảnh báo của bạn trên thanh bên cạnh."
+   },
+   "trendAlertsFormEmailFrequencyLabel": {
+      "message": "Tần suất email "
+   },
+   "trendAlertsFormKeywordsHelpText": {
+      "message": "Chúng tôi sẽ giám sát yêu cầu này và cảnh báo bạn bất kỳ khi nào video thịnh hành mới xuất hiện. Tách các cụm tìm kiếm bằng dấu phẩy."
+   },
+   "trendAlertsFormKeywordsLabel": {
+      "message": "Từ khoá"
+   },
+   "trendAlertsFormKeywordsPlaceholder": {
+      "message": "vd: mobile, ios, android"
+   },
+   "trendAlertsFormLanguageHelpText": {
+      "message": "Chọn ngôn ngữ một video phải phù hợp để được bao gồm trong kết quả."
+   },
+   "trendAlertsFormLanguageLabel": {
+      "message": "Ngôn ngữ"
+   },
+   "trendAlertsFormUpsellMessage": {
+      "message": "Vui lòng \u003Ca href=\\\"$upgradeUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">nâng cấp lên Pro\u003C/a> để thay đổi thiết lập này.",
+      "placeholders": {
+         "upgradeUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormVphThresholdHelpText": {
+      "message": "Chọn bao nhiêu lượt xem mỗi giờ mà một video cần có trước khi kích hoạt cảnh báo này."
+   },
+   "trendAlertsFormVphThresholdLabel": {
+      "message": "Ngưỡng VPH"
+   },
+   "trendAlertsLivePreviewNoResults": {
+      "message": "Sẽ không có điều phù hợp với cảnh báo này. Hãy thử giảm ngưỡng VPH hay thay đổi từ khoá để mở rộng tìm kiếm. "
+   },
+   "trendAlertsLivePreviewResults": {
+      "message": "Đây là phần xem trước trực tiếp của $numResultsShown$ kết quả đầu tiên để bạn thấy được cảnh báo này sẽ trông như thế nào.",
+      "placeholders": {
+         "numResultsShown": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsNoTrendAlertsFound": {
+      "message": "Không có cảnh báo xu hướng được tìm thấy"
+   },
+   "trendAlertsPreviewFooterFewResults": {
+      "message": "Cảnh báo này hiện chỉ có $numResults$ kết quả bên trên, nhưng nó sẽ sớm có thêm kết quả! Bạn sẽ nhận được một email với những kết quả mới nhất \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "numResults": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterManyResults": {
+      "message": "Đây là $previewLength$ kết quả xem trước mới nhất cho cảnh báo này. Bạn sẽ nhận một email bao gồm tất cả kết quả cho cảnh báo này \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "previewLength": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterNoResults": {
+      "message": "Cảnh báo này hiện không có kết quả nào, nhưng nó sẽ sớm có một vài kết quả cho bạn! Bạn sẽ nhận được một email với những kết quả mới nhất \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewNoResults": {
+      "message": "Không có video nào phù hợp cảnh báo này. Hãy kiểm tra lại sau!"
+   },
+   "trendAlertsPreviewTitle": {
+      "message": "Xem trước cảnh báo xu hướng\\\"$alertName$\\\" của bạn",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsUnableToCreateAlert": {
+      "message": "Chúng tôi không thể tạo một cảnh báo mới. Vui lòng tải lại trang và thử lại."
+   },
+   "trendAlertsUnableToDeleteAlert": {
+      "message": "Chúng tôi không thể xoá cảnh báo đó. Vui lòng tải lại trang và thử lại."
+   },
+   "trendAlertsUnableToUpdateAlert": {
+      "message": "Chúng tôi không thể cập nhật cảnh báo đó. Vui lòng tải lại trang và thử lại."
+   },
+   "trendAlertsUpdateAlert": {
+      "message": "Cập nhật cảnh báo"
+   },
+   "trendAlertsUpsellMessage": {
+      "message": "Bạn đã đạt giới hạn \u003Cstrong>$limit$ cảnh báo xu hướng \u003C/strong> cho tài khoản $userType$ của bạn. Để tạo thêm cảnh báo, vui lòng nâng cấp tài khoản của bạn.",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         },
+         "userType": {
+            "content": "$2"
+         }
+      }
+   },
+   "trendAlertsWelcome": {
+      "message": "Chào mừng đến với Cảnh báo Xu hướng! Bạn có thể sử dụng những cảnh báo này để thực hiện nhiều việc hữu ích như:"
+   },
+   "trendAlertsWelcomeIdea1": {
+      "message": "Theo dõi những video đang thịnh hành phù hợp với từ khoá \\\"apple\\\" và \\\"iphone\\\""
+   },
+   "trendAlertsWelcomeIdea2": {
+      "message": "Theo dõi những video đang thịnh hành từ các đối thủ của bạn"
+   },
+   "trendAlertsWelcomeIdea3": {
+      "message": "Theo dõi những video về game có hơn 500 lượt xem mỗi giờ"
+   },
+   "trending": {
+      "message": "Thịnh hành"
+   },
+   "trendingVideosTitle": {
+      "message": "Những Video Thịnh Hành"
+   },
+   "tripledKeywordsStatLabel": {
+      "message": "từ khoá lặp"
+   },
+   "troubleLoading": {
+      "message": "\u003Cb>vidIQ\u003C/b> đang gặp vấn đề tải trang. Vui lòng làm mới trang."
+   },
+   "troubleLoggingIn": {
+      "message": "Gặp vấn đề đăng nhập?"
+   },
+   "tvTitle": {
+      "message": "TV"
+   },
+   "tweets": {
+      "message": "Tweets"
+   },
+   "twitterFollowersStatLabel": {
+      "message": "người theo dõi trên twitter"
+   },
+   "twitterTitle": {
+      "message": "Twitter"
+   },
+   "typeTitle": {
+      "message": "Loại"
+   },
+   "unableToGetFullResults": {
+      "message": "Không thể có được đầy đủ kết quả do giới hạn hạn ngạch"
+   },
+   "unableToSyndicateFacebook": {
+      "message": "Không thể đồng bộ video của bạn với Facebook."
+   },
+   "unexpectedError": {
+      "message": "Đã xảy ra lỗi không mong muốn"
+   },
+   "unknownError": {
+      "message": "Lỗi không xác định"
+   },
+   "unlockTooltip": {
+      "message": "Mở khoá quốc gia, ngôn ngữ và  tuỳ chọn sắp xếp khi bạn nâng cấp lên Boost!"
+   },
+   "unpinCommentMessage": {
+      "message": "Nhận xét này sẽ được bỏ ghim"
+   },
+   "unpinCommentTitle": {
+      "message": "Bỏ ghim nhận xét này"
+   },
+   "unpinCommentTooltip": {
+      "message": "Bỏ Ghim Nhận xét (thực hiện bởi vidIQ)"
+   },
+   "untrackCompetitorTitle": {
+      "message": "Huỷ Theo Dõi Đối Thủ"
+   },
+   "updateDefaultNote": {
+      "message": "Bạn có thể cập nhật \u003Cb>Nội dung\u003C/b> và \u003Cb>Đường dẫn\u003C/b> mặc định cho mỗi $resources$ dưới đây.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "updatePerVideoNote": {
+      "message": "Bạn có thể cập nhật \u003Cb>Nội dung\u003C/b> và \u003Cb>Đường dẫn\u003C/b> cho mỗi $resources$ dưới đây.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeBoostTagRecs": {
+      "message": "Nâng cấp lên $start$vidIQ Boost$end$ để xem thêm $n$ thẻ được đề xuất và thêm 9 video thịnh hành!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeForMoreRelatedKeywords": {
+      "message": "$before$Nâng cấp$after$ để có được thêm nhiều từ khoá liên quan",
+      "placeholders": {
+         "after": {
+            "content": "$2"
+         },
+         "before": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeNow": {
+      "message": "Nâng Cấp Ngay"
+   },
+   "upgradeNowTitle": {
+      "message": "Hãy Nâng Cấp Ngay!"
+   },
+   "upgradeProTranslate": {
+      "message": "Nâng cấp lên $start$vidIQ Pro$end$ để xem tất cả bản dịch!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToBoost": {
+      "message": "Nâng cấp lên \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "upgradeToTrackCompetitorTitle": {
+      "message": "Nâng cấp để Theo dõi Đối thủ"
+   },
+   "upgradeToViewInsights": {
+      "message": "Nâng cấp để xem phân tích cho các video"
+   },
+   "uploadTitle": {
+      "message": "Đăng tải"
+   },
+   "uploadUpgradeBoost": {
+      "message": "Nâng cấp lên \u003Cb>Boost\u003C/b> dể được số video \u003Cb>không giới hạn\u003C/b>!"
+   },
+   "uploadUpgradeProBoost": {
+      "message": "Nâng cấp lên \u003Cb>Pro\u003C/b> để được $limit$ video, hay nâng cấp lên \u003Cb>Boost\u003C/b> để được video \u003Cb>không giới hạn\u003C/b>!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploadedTitle": {
+      "message": "Đã Đăng Tải"
+   },
+   "uploadingEllipses": {
+      "message": "Đang tải"
+   },
+   "velocityViewHeading": {
+      "message": "Video với mức xem (lượt xem mỗi giờ) cao nhất "
+   },
+   "verificationCodeTitle": {
+      "message": "Mã Xác Minh"
+   },
+   "verificationNotice": {
+      "message": "Để sử dụng hình thu nhỏ tuỳ chỉnh, tài khoản của bạn phải được xác thực và hình ảnh phải tốt"
+   },
+   "vidIQShortcutsTitle": {
+      "message": "Shortcut của vidIQ"
+   },
+   "vidIQVisionOptions": {
+      "message": "vidIQ Vision - Các Tuỳ Chọn"
+   },
+   "vidNumber": {
+      "message": "# video"
+   },
+   "videoManagerShortcutsTitle": {
+      "message": "Nút Tắt trên Quảng Lý Video"
+   },
+   "videoOptimizationChecklist": {
+      "message": "Checklist Tối ưu hoá Video"
+   },
+   "videoPlaylistTitle": {
+      "message": "Video/Danh Sách Phát"
+   },
+   "videoPlural": {
+      "message": "video"
+   },
+   "videoSingular": {
+      "message": "video"
+   },
+   "videoStatusGreat": {
+      "message": "Thật tuyệt!"
+   },
+   "videoStatusOkay": {
+      "message": "Ok"
+   },
+   "videoStillTitle": {
+      "message": "Khung video"
+   },
+   "videoTagsTitle": {
+      "message": "Thẻ Tag Video"
+   },
+   "videoTitle": {
+      "message": "Video"
+   },
+   "videoToBeMassLiked": {
+      "message": "Video sẽ được thích hàng loạt"
+   },
+   "videosPublished": {
+      "message": "video đã phát hành"
+   },
+   "videosPublishedStatLabel": {
+      "message": "video đã phát hành"
+   },
+   "videosToGainViewsFromTitle": {
+      "message": "Đạt Được Lượt Xem Từ Video"
+   },
+   "vidiqBoost": {
+      "message": "vidIQ Boost"
+   },
+   "vidiqBoostUpgradeViews": {
+      "message": "Nâng cấp lên \u003Cb>vidIQ Boost\u003C/b> để đạt được nhiều lượt xem hơn!"
+   },
+   "vidiqGeneratedMetric": {
+      "message": "Đây không phải là thông số Phân Tích từ YouTube, mà là thông số được tạo từ vidIQ"
+   },
+   "vidiqScoreStatLabel": {
+      "message": "điểm vidIQ"
+   },
+   "vidiqScoreTooltip": {
+      "message": "Điểm vidIQ là độ phổ biến của một video dựa trên gắn kết và lượt xem tương ứng với những video khác trên YouTube. 99/100 có nghĩa rằng nó đạt 99% trên YouTube, dựa trên cả lượt xem và gắn kết với tỷ lệ bằng nhau."
+   },
+   "viewFacebookDetailsTitle": {
+      "message": "Xem Chi Tiết Facebook"
+   },
+   "viewMoreLabel": {
+      "message": "Xem Thêm"
+   },
+   "viewOnFacebookTitle": {
+      "message": "Xem Trên Facebook"
+   },
+   "viewRank": {
+      "message": "xem xếp hạng"
+   },
+   "viewsPerHourTitle": {
+      "message": "Lượt Xem Theo Giờ"
+   },
+   "viewsStatLabel": {
+      "message": "lượt xem"
+   },
+   "viewsTitle": {
+      "message": "Lượt xem"
+   },
+   "visit": {
+      "message": "Tham quan"
+   },
+   "visitVidIQ": {
+      "message": "Truy cập vidIQ"
+   },
+   "volume": {
+      "message": "Lượng tìm kiếm từ khoá vidIQ"
+   },
+   "vph": {
+      "message": "VPH"
+   },
+   "vphStatLabel": {
+      "message": "lượt xem mỗi giờ"
+   },
+   "vphTooltipDetailedBigger": {
+      "message": "Video này hiện đang đạt được $value$ lượt xem mỗi giờ, cao hơn $diff$ so với số lượt xem mỗi giờ trung bình $avg$ của video này.",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipDetailedSmaller": {
+      "message": "Video này hiện đang đạt được $value$ lượt xem mỗi giờ, thấp hơn $diff$ so với số lượt xem mỗi giờ trung bình $avg$ của video này.",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipSimple": {
+      "message": "Số lượt xem mỗi giờ của video này đạt được hiện tại là $value$.",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "waitingUploadFinish": {
+      "message": "Đợi cho việc đăng tải hoàn thành..."
+   },
+   "wantExtraStats": {
+      "message": "Muốn xem những thống kê về lịch sử lượt xem và các mạng xã hội?"
+   },
+   "wantNMoreRecs": {
+      "message": "Cần thêm $number$ gợi ý cho từ khoá tìm kiếm này?",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantTrendingVideos": {
+      "message": "Muốn xem những video đang thịnh hành?"
+   },
+   "warningPlural": {
+      "message": "cảnh báo"
+   },
+   "warningSingular": {
+      "message": "cảnh báo"
+   },
+   "watchTimeAverage": {
+      "message": "Thời gian xem ở mức trung bình"
+   },
+   "watchTimeGood": {
+      "message": "Thời gian xem ở mức tốt"
+   },
+   "watchTimeIncredible": {
+      "message": "Thời gian xem ở mức cực kỳ tốt!"
+   },
+   "watchTimeLow": {
+      "message": "Thời gian xem ở mức thấp"
+   },
+   "watchTimeTitle": {
+      "message": "Thời Gian Xem"
+   },
+   "week": {
+      "message": "tuần"
+   },
+   "weeksIntervalOption": {
+      "message": "Tuần  "
+   },
+   "weightClassBad": {
+      "message": "dưới mức cạnh tranh cho từ khoá này"
+   },
+   "weightClassGood": {
+      "message": "trên mức cạnh tranh cho từ khoá này"
+   },
+   "weightClassMiddlin": {
+      "message": "gần mức cạnh tranh cho từ khoá này"
+   },
+   "whatDoYouThinkTitle": {
+      "message": "Bạn nghĩ gì?"
+   },
+   "widthTitle": {
+      "message": "Bề Rộng"
+   },
+   "wordsPerMinuteStatLabel": {
+      "message": "số từ mỗi phút"
+   },
+   "worstStatLabel": {
+      "message": "tệ nhất"
+   },
+   "yearAbbreviation": {
+      "message": "năm"
+   },
+   "yes": {
+      "message": "Đồng ý"
+   },
+   "youTubeSearchTitle": {
+      "message": "YouTube (Tìm Kiếm)"
+   },
+   "youTubeShortcuts": {
+      "message": "Shortcut của YouTube"
+   },
+   "yourWeightClass": {
+      "message": "Weight class của bạn"
+   },
+   "youtubeBackoff": {
+      "message": "Đang đợi YouTube. Việc này thường chỉ mất khoảng một phút."
+   },
+   "youtubeCategory1": {
+      "message": "Hành động/Phiêu lưu"
+   },
+   "youtubeCategory10": {
+      "message": "Gia đình"
+   },
+   "youtubeCategory11": {
+      "message": "Phim & Hoạt hình"
+   },
+   "youtubeCategory12": {
+      "message": "Nước ngoài"
+   },
+   "youtubeCategory13": {
+      "message": "Game"
+   },
+   "youtubeCategory14": {
+      "message": "Kinh dị"
+   },
+   "youtubeCategory15": {
+      "message": "Làm thế nào để & Phong cách"
+   },
+   "youtubeCategory16": {
+      "message": "Phim"
+   },
+   "youtubeCategory17": {
+      "message": "Nhạc"
+   },
+   "youtubeCategory18": {
+      "message": "Tin tức & Chính trị"
+   },
+   "youtubeCategory19": {
+      "message": "Phi lợi nhuận & Các hoạt động"
+   },
+   "youtubeCategory2": {
+      "message": "Anime/Hoạt hình"
+   },
+   "youtubeCategory20": {
+      "message": "Con người & Blog"
+   },
+   "youtubeCategory21": {
+      "message": "Thú cưng & Động vật"
+   },
+   "youtubeCategory22": {
+      "message": "Sci-Fi/Fantasy"
+   },
+   "youtubeCategory23": {
+      "message": "Khoa học & Công nghệ"
+   },
+   "youtubeCategory24": {
+      "message": "Phim ngắn"
+   },
+   "youtubeCategory25": {
+      "message": "Nội dung ngắn"
+   },
+   "youtubeCategory26": {
+      "message": "Chương trình truyền hình "
+   },
+   "youtubeCategory27": {
+      "message": "Thể thao"
+   },
+   "youtubeCategory28": {
+      "message": "Chuyện ly kỳ"
+   },
+   "youtubeCategory29": {
+      "message": "Trailer"
+   },
+   "youtubeCategory3": {
+      "message": "Ô tô & Xe"
+   },
+   "youtubeCategory30": {
+      "message": "Du lịch & Sự kiện"
+   },
+   "youtubeCategory31": {
+      "message": "Vlog"
+   },
+   "youtubeCategory4": {
+      "message": "Kinh điển"
+   },
+   "youtubeCategory5": {
+      "message": "Phim hài"
+   },
+   "youtubeCategory6": {
+      "message": "Phim tài liệu"
+   },
+   "youtubeCategory7": {
+      "message": "Kịch"
+   },
+   "youtubeCategory8": {
+      "message": "Giáo dục"
+   },
+   "youtubeCategory9": {
+      "message": "Giải trí"
+   },
+   "ytCommentsStatLabel": {
+      "message": "số bình luận yt "
+   },
+   "ytCommentsStatTitle": {
+      "message": "Bình Luận YouTube"
+   },
+   "ytDislikesStatLabel": {
+      "message": "lượt không thích yt"
+   },
+   "ytDislikesStatTitle": {
+      "message": "Lượt Không Thích YouTube"
+   },
+   "ytEngagementsStatLabel": {
+      "message": "gắn kết yt"
+   },
+   "ytEngagementsStatTitle": {
+      "message": "Gắn Kết YouTube"
+   },
+   "ytLikesStatLabel": {
+      "message": "lượt thích yt"
+   },
+   "ytLikesStatTitle": {
+      "message": "Lượt Thích YouTube"
+   },
+   "ytSearchTitle": {
+      "message": "Tìm Kiếm YT"
+   },
+   "ytSearchViewsStatLabel": {
+      "message": "lượt xem từ tìm kiếm yt"
+   },
+   "ytSharesStatLabel": {
+      "message": "chia sẻ yt"
+   },
+   "ytSharesStatTitle": {
+      "message": "Lượt Chia Sẻ YouTube"
+   },
+   "ytSharesTooltipPopular": {
+      "message": "Video này được chia sẻ rất nhiều!"
+   },
+   "ytSharesTooltipUnpopular": {
+      "message": "Video này không có tỷ lệ chia sẻ cao."
+   },
+   "ytSuggestedTitle": {
+      "message": "Đề Xuất YT"
+   }
+}

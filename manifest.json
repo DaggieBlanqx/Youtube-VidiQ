@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "compiled.css" ],
+      "js": [ "bundle.js", "js/vendor-overrides/yt-iframe-api.js" ],
+      "matches": [ "*://www.youtube.com/*", "*://studio.youtube.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com https://www.google-analytics.com https://ajax.googleapis.com https://www.googleadservices.com https://static.leaddyno.com https://static.ads-twitter.com https://analytics.twitter.com https://collector.leaddyno.com https://d2dq2ahtl5zl1z.cloudfront.net https://www.google.com https://www.gstatic.com https://connect.facebook.net https://apis.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Uncover the secrets to success behind your favorite YouTube videos.",
+   "homepage_url": "https://vidiq.com/",
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCCmCY3EoZyLPHmK4MyvummcMBdhj15od4P1qkkiQIk1t595jW4NUrwu81OIKFs4dW5x4v1LYVqihkBMotoQu1n0tY9HWi1ZYgGeoZeLd7gxDp8G8VqKz5B7x+rGyYc+V2InPcxw44v92Yoz17ZeV209RsAYXIm4m07wroBlUfwgQIDAQAB",
+   "manifest_version": 2,
+   "name": "vidIQ Vision for YouTube",
+   "options_page": "options.html",
+   "permissions": [ "cookies", "\u003Call_urls>", "clipboardWrite", "storage", "background" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.78.9",
+   "web_accessible_resources": [ "lib/vidiq/kwins/kwins.css", "lib/vidiq/kwins/kwins-flags.png", "lib/vidiq/kwins/kwins-eye.svg", "lib/vidiq/kwins/upsell-videos.jpg", "fbauth.html", "fbauth.js", "options.html", "options.js", "_locales/en/messages.json", "images/download-icon.png", "images/asterisk-white-icon.png", "images/graph.png", "images/edit-white.png", "images/edit.png", "images/puzzle.png", "images/guage-needle.png", "images/guage-dots.png", "images/globe.png", "images/cloud.png", "images/people.png", "images/icon128_stroke.png", "images/search.png", "images/fire.png", "images/close.png", "images/tags.png", "images/vidiq.svg", "images/vidiq_plus.svg", "images/vidiq_dark.svg", "images/vidiq_dark_plus.svg", "images/rocket.svg", "images/clouds.svg", "images/reorder.png", "images/loader.gif", "images/downArrow.png", "images/upArrow.png", "images/flags.png", "images/phone.png", "images/desktop.png", "images/present_top.png", "images/present_bottom.png", "images/vidiqpro.png", "images/tablet.png", "images/arrow.png", "images/big_loader.gif", "images/popupArrowRight.png", "images/loginCollapse.png", "images/icon128.png", "images/asterisk.png", "images/glyphicons-halflings-white.png", "images/paperclip.gif", "images/button_loading.gif", "images/paperclip_white.gif", "images/vidiq_playplus.png", "images/trending-blurred.png", "images/vidiq-free.png", "images/graph-blurred.png", "images/external-link.svg", "images/badge-basic.png", "images/badge-pro.png", "images/badge-boost.png", "images/badge-ent.png", "images/upgrade-historical.jpg", "images/upgrade-search.jpg", "images/upgrade-embed.jpg", "images/upgrade-trends.jpg", "images/upgrade-btod.jpg", "images/upgrade-optim.jpg", "images/upsell-search.jpg", "images/upsell-social-stats.png", "images/icon-youtube.png", "images/icon-facebook.png", "images/icon-twitter.png", "images/icon-annotation-anchored.png", "images/icon-annotation-popup.png", "images/icon-annotation-title.png", "images/icon-annotation-highlight.png", "images/icon-annotation-label.png", "images/competition-tab-teaser.jpg", "images/pin-icon.svg", "images/icon-monitor-trending.png", "images/icon-monitor-vidiq.png", "images/icon-monitor-music.png", "images/icon-monitor-gaming.png", "images/engagement-badges.png", "images/stat-creator-suggested.png", "images/stat-organic-views.png", "images/stat-referrers.png", "images/default-channel-icon.png", "images/rocket-icon.svg", "images/target-icon.svg", "images/views-achievements.svg", "images/subs-achievements.svg", "images/uploads-achievements.svg", "images/likes-achievements.svg", "images/achievements-icon.svg", "images/comments-achievements.svg", "images/hours-watched-achievements.svg", "images/top-icon.svg", "images/top-likes.svg", "images/top-subs.svg", "images/top-view.svg", "images/top-upload.svg", "images/top-comments.svg", "images/top-watched.svg", "images/pattern-blue@2x.png", "images/cross-bg-pattern@2x.png", "images/channel-audit-teaser.jpg", "images/achievements-teaser.jpg", "images/best-time-to-post-teaser.jpg", "images/upload-spot-icon.svg" ]
+}

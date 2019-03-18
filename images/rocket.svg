@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="86px" height="89px" viewBox="0 0 86 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>rocket</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="3.12672335" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rocket!-+-Flame" sketch:type="MSLayerGroup" transform="translate(0.000000, -15.000000)">
+            <g id="Flame-Copy" transform="translate(16.832230, 86.598343) rotate(44.000000) translate(-16.832230, -86.598343) translate(10.332230, 69.098343)" sketch:type="MSShapeGroup">
+                <path d="M6.61068326,35 C10.0900772,35 12.9106833,16.5862107 12.9106833,12.3245833 C12.9106833,8.06295585 10.0900772,0.198876203 6.61068326,0.198876203 C3.13128934,0.198876203 0.310683259,8.06295585 0.310683259,12.3245833 C0.310683259,16.5862107 3.13128934,35 6.61068326,35 Z" id="Oval-39" fill="#FFF357" filter="url(#filter-1)"></path>
+                <path d="M6.61068326,24 C8.44668758,24 9.93506316,11.8435477 9.93506316,9.03009802 C9.93506316,6.21664829 8.44668758,1.02492445 6.61068326,1.02492445 C4.77467894,1.02492445 3.28630336,6.21664829 3.28630336,9.03009802 C3.28630336,11.8435477 4.77467894,24 6.61068326,24 Z" id="Oval-39-Copy" fill="#FF5A1F" filter="url(#filter-2)"></path>
+                <path d="M6.61068326,15 C8.3390967,15 9.74025263,7.60558084 9.74025263,5.89424055 C9.74025263,4.18290027 8.3390967,1.02492445 6.61068326,1.02492445 C4.88226982,1.02492445 3.48111388,4.18290027 3.48111388,5.89424055 C3.48111388,7.60558084 4.88226982,15 6.61068326,15 Z" id="Oval-39-Copy-2" fill="#FFFFFF" filter="url(#filter-3)"></path>
+            </g>
+            <g id="Rocket!" transform="translate(54.072762, 48.165116) rotate(44.000000) translate(-54.072762, -48.165116) translate(32.572762, 2.665116)" sketch:type="MSShapeGroup">
+                <g id="Path-6" transform="translate(-0.000000, 63.367347)" fill="#0D3F79">
+                    <path d="M11.2646335,1.59872116e-14 C11.2646335,1.59872116e-14 -3.24023421,7.93168048 1.45387431,26.4286213 C7.56583392,15.8799526 12.8932213,17.4191363 14.0193677,17.4191363 C15.1455141,17.4191363 11.2646335,1.59872116e-14 11.2646335,1.59872116e-14 Z"></path>
+                </g>
+                <g id="Path-6-Copy" transform="translate(34.891304, 76.867347) scale(-1, 1) translate(-34.891304, -76.867347) translate(27.391304, 63.367347)" fill="#0D3F79">
+                    <path d="M11.2646335,-1.54543045e-13 C11.2646335,-1.54543045e-13 -3.24023421,7.93168048 1.45387431,26.4286213 C7.56583392,15.8799526 12.8932213,17.4191363 14.0193677,17.4191363 C15.1455141,17.4191363 11.2646335,-1.54543045e-13 11.2646335,-1.54543045e-13 Z" id="Path-6"></path>
+                </g>
+                <path d="M20.9374214,85.4081633 L13.4485332,85.4081633 C9.2663139,57.5211581 -1.07001593,24.9556395 20.742476,5.68434189e-14 C20.7876415,0.144461002 20.8324495,0.289129642 20.8769021,0.434001959 C20.9613543,0.289074336 21.0465077,0.144405471 21.1323667,5.68434189e-14 C42.9448587,24.9556395 32.6085288,57.5211581 28.4263095,85.4081633 L20.9374214,85.4081633 Z" id="Path-1-Copy-2" fill="#1C75C1"></path>
+                <rect id="Rectangle-2" fill="#0D3F79" x="20.0869565" y="64.2857143" width="2.73913043" height="25.7142857" rx="30"></rect>
+                <ellipse id="Oval-1" fill="#002B5E" cx="12.326087" cy="32.1428571" rx="6.84782609" ry="9.18367347"></ellipse>
+                <ellipse id="Oval-1-Copy" fill="#BDDCFF" cx="11.8695652" cy="32.1428571" rx="4.56521739" ry="6.42857143"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

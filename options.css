@@ -1,0 +1,42 @@
+body {
+  background: #549dd2;
+}
+
+.vidiq-options {
+  width: 40%;
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+  background: #DDD;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #444;
+  border-bottom: 1px solid #444;
+  padding-bottom: 15px;
+}
+
+img {
+  width: 100px;
+  opacity: 0.9;
+  position: relative;
+  top: 8px;
+}
+
+.setting, .sub-setting {
+  text-align: left;
+  position: relative;
+  left: 25%;
+  font-size: 20px;
+  font-weight: bold;
+  color: #444;
+  line-height: 40px;
+}
+
+.sub-setting {
+  left: 25px;
+  font-size: 16px;
+  line-height: 20px;
+}
